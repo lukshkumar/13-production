@@ -1,0 +1,4 @@
+date,timestamp,now,now_sentiment,previous_close,previous_close_sentiment,week_ago,week_ago_sentiment,month_ago,month_ago_sentiment,year_ago,year_ago_sentiment
+20230119,08:03:30,greed,57,greed,57,greed,60,fear,37,fear,44
+20230119,08:04:22,greed,57,greed,57,greed,60,fear,37,fear,44
+20230119,08:05:08,greed,57,greed,57,greed,60,fear,37,fear,44

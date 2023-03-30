@@ -1,0 +1,5 @@
+Install Pystocktwits i.e. Python wrapper for stocktwits using below commands.
+
+git clone https://github.com/khmurakami/pystocktwits
+cd pystocktwits
+python setup.py install

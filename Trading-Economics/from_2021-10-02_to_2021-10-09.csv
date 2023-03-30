@@ -1,0 +1,437 @@
+,Unnamed: 0,Day,Month,Year,Frequency,Date,Time,Country,Report,Priority,Actual,Previous,Consensus,Forecast
+0,0,Monday,October,2021,,4,08:30 PM,AU,Balance of Trade AUG,3,A$15.077B,A$12.650B  ®,A$10.3B,A$9.9B
+1,1,Monday,October,2021,,4,11:30 PM,AU,RBA Interest Rate Decision,3,0.1%,0.1%,0.1%,0.1%
+2,2,Tuesday,October,2021,,5,08:30 AM,CA,Balance of Trade AUG,3,C$1.94B,C$0.74B  ®,C$0.43B,C$0.6B
+3,3,Tuesday,October,2021,,5,08:30 AM,US,Balance of Trade AUG,3,$-73.3B,$-70.3B  ®,$-70.5B,$-70.8B
+4,4,Thursday,October,2021,,7,10:00 AM,CA,Ivey PMI s.a SEP,3,70.4,66.0,,64.2
+5,5,Friday,October,2021,,8,02:00 AM,DE,Balance of Trade AUG,3,€10.7B,€17.9B  ®,,€14.4B
+6,6,Friday,October,2021,,8,08:30 AM,US,Non Farm Payrolls SEP,3,194K,366K  ®,500K,475K
+7,7,Sunday,October,2021,,3,08:00 PM,US,Total Vehicle Sales SEP,2,9.66M,13.06M,,
+8,8,Sunday,October,2021,,3,,EA,Eurogroup Meeting,2,,,,
+9,9,Monday,October,2021,,4,02:30 AM,CH,Inflation Rate YoY SEP,2,0.9%,0.9%,1.1%,1.1%
+10,10,Monday,October,2021,,4,02:30 AM,CH,Inflation Rate MoM SEP,2,0.0%,0.2%,0.2%,0.2%
+11,11,Monday,October,2021,,4,02:30 AM,CH,Retail Sales YoY AUG,2,0.5%,-2.3%  ®,,-0.8%
+12,12,Monday,October,2021,,4,03:00 AM,ES,Unemployment Change SEP,2,-76.1K,-82.6K,,-62K
+13,13,Monday,October,2021,,4,03:00 AM,TR,Inflation Rate YoY SEP,2,19.58%,19.25%,19.7%,19.9%
+14,14,Monday,October,2021,,4,03:00 AM,TR,Inflation Rate MoM SEP,2,1.25%,1.12%,1.35%,1.5%
+15,15,Monday,October,2021,,4,07:00 AM,MX,Consumer Confidence SEP,2,43.4,42.6  ®,,42.4
+16,16,Monday,October,2021,,4,07:30 AM,BR,BCB Focus Market Readout,2,,,,
+17,17,Monday,October,2021,,4,10:00 AM,US,Factory Orders MoM AUG,2,1.2%,0.7%  ®,1%,0.7%
+18,18,Monday,October,2021,,4,06:00 PM,AU,Markit Services PMI Final SEP,2,45.5,42.9,,44.9
+19,19,Monday,October,2021,,4,08:30 PM,JP,Jibun Bank Services PMI Final SEP,2,47.8,42.9,,47.4
+20,20,Monday,October,2021,,4,09:00 PM,PH,Inflation Rate YoY SEP,2,4.8%,4.9%,5.1%,5%
+21,21,Monday,October,2021,,4,09:30 PM,AU,Retail Sales MoM Final AUG,2,-1.7%,-2.7%,-1.7%,-1.7%
+22,22,Monday,October,2021,,4,,JP,BoJ Gov Kuroda Speech,2,,,,
+23,23,Tuesday,October,2021,,5,02:45 AM,FR,Industrial Production MoM AUG,2,1%,0.5%  ®,0.3%,0.7%
+24,24,Tuesday,October,2021,,5,03:15 AM,ES,Markit Composite PMI SEP,2,57,60.6,,59.1
+25,25,Tuesday,October,2021,,5,03:15 AM,ES,Markit Services PMI SEP,2,56.9,60.1,58,58.6
+26,26,Tuesday,October,2021,,5,03:45 AM,IT,IHS Markit Composite PMI SEP,2,56.6,59.1,,58.6
+27,27,Tuesday,October,2021,,5,03:45 AM,IT,IHS Markit Services PMI SEP,2,55.5,58,56.5,57.1
+28,28,Tuesday,October,2021,,5,03:50 AM,FR,Markit Composite PMI Final SEP,2,55.3,55.9,55.1,55.1
+29,29,Tuesday,October,2021,,5,03:50 AM,FR,Markit Services PMI Final SEP,2,56.2,56.3,56,56
+30,30,Tuesday,October,2021,,5,03:55 AM,DE,Markit Composite PMI Final SEP,2,55.5,60,55.3,55.3
+31,31,Tuesday,October,2021,,5,03:55 AM,DE,Markit Services PMI Final SEP,2,56.2,60.8,56,56
+32,32,Tuesday,October,2021,,5,04:00 AM,EA,Markit Composite PMI Final SEP,2,56.2,59,56.1,56.1
+33,33,Tuesday,October,2021,,5,04:00 AM,EA,Markit Services PMI Final SEP,2,56.4,59,56.3,56.3
+34,34,Tuesday,October,2021,,5,04:30 AM,GB,Markit/CIPS Composite PMI Final SEP,2,54.9,54.8,54.1,54.1
+35,35,Tuesday,October,2021,,5,04:30 AM,GB,Markit/CIPS UK Services PMI Final SEP,2,55.4,55.0,54.6,54.6
+36,36,Tuesday,October,2021,,5,06:30 AM,ES,Consumer Confidence SEP,2,98.3,91.6,,92
+37,37,Tuesday,October,2021,,5,08:00 AM,BR,Industrial Production YoY AUG,2,-0.7%,1.2%,0%,0.2%
+38,38,Tuesday,October,2021,,5,08:00 AM,BR,Industrial Production MoM AUG,2,-0.7%,-1.2%  ®,-0.4%,-0.4%
+39,39,Tuesday,October,2021,,5,09:00 AM,BR,Markit Services PMI SEP,2,54.6,55.1,,54
+40,40,Tuesday,October,2021,,5,09:45 AM,US,Markit Composite PMI Final SEP,2,55,55.4,54.5,54.5
+41,41,Tuesday,October,2021,,5,09:45 AM,US,Markit Services PMI Final SEP,2,54.9,55.1,54.4,54.4
+42,42,Tuesday,October,2021,,5,10:00 AM,US,IBD/TIPP Economic Optimism OCT,2,46.8,48.5,,50
+43,43,Tuesday,October,2021,,5,10:00 AM,US,ISM Non-Manufacturing PMI SEP,2,61.9,61.7,60,60.4
+44,44,Tuesday,October,2021,,5,11:00 AM,EA,ECB President Lagarde Speech,2,,,,
+45,45,Tuesday,October,2021,,5,01:15 PM,US,Fed Quarles Speech,2,,,,
+46,46,Tuesday,October,2021,,5,04:30 PM,US,API Crude Oil Stock Change 01/OCT,2,0.951M,4.127M,-0.300M,
+47,47,Tuesday,October,2021,,5,07:00 PM,KR,Inflation Rate YoY SEP,2,2.5%,2.6%,2.25%,2.4%
+48,48,Tuesday,October,2021,,5,09:00 PM,NZ,Interest Rate Decision,2,0.5%,0.25%,0.5%,0.5%
+49,49,Wednesday,October,2021,,6,02:00 AM,DE,Factory Orders MoM AUG,2,-7.7%,4.9%  ®,-2.1%,-1.6%
+50,50,Wednesday,October,2021,,6,03:30 AM,DE,Construction PMI SEP,2,47.1,44.6,,48.6
+51,51,Wednesday,October,2021,,6,04:00 AM,EA,ECB Non-Monetary Policy Meeting,2,,,,
+52,52,Wednesday,October,2021,,6,04:30 AM,GB,Construction PMI SEP,2,52.6,55.2,54,54.9
+53,53,Wednesday,October,2021,,6,05:00 AM,EA,Retail Sales MoM AUG,2,0.3%,-2.6%  ®,0.8%,1%
+54,54,Wednesday,October,2021,,6,05:00 AM,EA,Retail Sales YoY AUG,2,0%,3.1%,0.4%,0.6%
+55,55,Wednesday,October,2021,,6,08:00 AM,BR,Retail Sales MoM AUG,2,-3.1%,2.7%  ®,0.7%,1%
+56,56,Wednesday,October,2021,,6,08:15 AM,US,ADP Employment Change SEP,2,568K,340K  ®,428K,415K
+57,57,Wednesday,October,2021,,6,09:00 AM,US,Fed Bostic Speech,2,,,,
+58,58,Wednesday,October,2021,,6,09:40 AM,PL,Interest Rate Decision OCT,2,0.5%,0.1%,0.1%,0.1%
+59,59,Wednesday,October,2021,,6,10:30 AM,US,EIA Crude Oil Stocks Change 01/OCT,2,2.346M,4.578M,-0.418M,
+60,60,Wednesday,October,2021,,6,10:30 AM,US,EIA Gasoline Stocks Change 01/OCT,2,3.256M,0.193M,-0.279M,
+61,61,Wednesday,October,2021,,6,11:30 AM,US,Fed Bostic Speech,2,,,,
+62,62,Wednesday,October,2021,,6,12:00 PM,RU,Inflation Rate YoY SEP,2,7.4%,6.7%,7.1%,7%
+63,63,Wednesday,October,2021,,6,05:30 PM,AU,Ai Group Services Index SEP,2,45.7,45.6,,49.8
+64,64,Wednesday,October,2021,,6,09:00 PM,JP,BoJ Gov Kuroda Speech,2,,,,
+65,65,Thursday,October,2021,,7,12:30 AM,NL,Inflation Rate YoY SEP,2,2.7%,2.4%,,2.7%
+66,66,Thursday,October,2021,,7,01:45 AM,CH,Unemployment Rate SEP,2,2.6%,2.7%,,2.7%
+67,67,Thursday,October,2021,,7,02:00 AM,DE,Industrial Production MoM AUG,2,-4%,1.3%  ®,-0.4%,-0.6%
+68,68,Thursday,October,2021,,7,02:00 AM,GB,Halifax House Price Index MoM SEP,2,1.7%,0.8%  ®,,1.2%
+69,69,Thursday,October,2021,,7,02:00 AM,GB,Halifax House Price Index YoY SEP,2,7.4%,7.2%  ®,,6.6%
+70,70,Thursday,October,2021,,7,02:45 AM,FR,Balance of Trade AUG,2,€-6.67B,€-7.08B  ®,,€-5.7B
+71,71,Thursday,October,2021,,7,04:00 AM,IT,Retail Sales MoM AUG,2,0.4%,-0.3%  ®,,0.7%
+72,72,Thursday,October,2021,,7,07:00 AM,MX,Inflation Rate YoY SEP,2,6%,5.59%,5.99%,6%
+73,73,Thursday,October,2021,,7,07:30 AM,EA,ECB Monetary Policy Meeting Accounts,2,,,,
+74,74,Thursday,October,2021,,7,08:30 AM,US,Fed Williams Speech,2,,,,
+75,75,Thursday,October,2021,,7,08:30 AM,US,Initial Jobless Claims 02/OCT,2,326K,364K  ®,348K,348K
+76,76,Thursday,October,2021,,7,08:30 AM,US,Jobless Claims 4-week Average OCT/02,2,344K,340.5K  ®,,349K
+77,77,Thursday,October,2021,,7,09:00 AM,EA,ECB Schnabel Speech,2,,,,
+78,78,Thursday,October,2021,,7,09:00 AM,IL,Interest Rate Decision,2,0.1%,0.1%,0.1%,0.1%
+79,79,Thursday,October,2021,,7,09:00 AM,RU,Foreign Exchange Reserves SEP,2,$614B,$618B,,
+80,80,Thursday,October,2021,,7,11:45 AM,EA,ECB Lane Speech,2,,,,
+81,81,Thursday,October,2021,,7,12:00 PM,CA,BoC Gov Macklem Speech,2,,,,
+82,82,Thursday,October,2021,,7,07:50 PM,JP,Current Account AUG,2,¥1665.6B,¥1910.8B,¥1540.9B,¥1500B
+83,83,Thursday,October,2021,,7,08:30 PM,AU,Building Permits MoM Final AUG,2,6.8%,-8.6%,6.8%,6.8%
+84,84,Thursday,October,2021,,7,09:30 PM,AU,RBA Financial Stability Review,2,,,,
+85,85,Thursday,October,2021,,7,09:45 PM,CN,Caixin Services PMI SEP,2,53.4,46.7,,49
+86,86,Friday,October,2021,,8,12:00 AM,MY,Unemployment Rate AUG,2,4.6%,4.8%,,4.9%
+87,87,Friday,October,2021,,8,12:30 AM,IN,RBI Interest Rate Decision,2,4%,4%,4%,4%
+88,88,Friday,October,2021,,8,08:00 AM,BR,Inflation Rate YoY SEP,2,10.25%,9.68%,10.33%,10.3%
+89,89,Friday,October,2021,,8,08:30 AM,CA,Employment Change SEP,2,157.1K,90.2K,65K,65K
+90,90,Friday,October,2021,,8,08:30 AM,CA,Full Time Employment Chg SEP,2,193.6K,68.5K,,40K
+91,91,Friday,October,2021,,8,08:30 AM,CA,Participation Rate SEP,2,65.5%,65.1%,,65.1%
+92,92,Friday,October,2021,,8,08:30 AM,CA,Part Time Employment Chg SEP,2,-36.5K,21.7K,,25K
+93,93,Friday,October,2021,,8,08:30 AM,CA,Unemployment Rate SEP,2,6.9%,7.1%,6.9%,6.8%
+94,94,Friday,October,2021,,8,08:30 AM,US,Unemployment Rate SEP,2,4.8%,5.2%,5.1%,5.1%
+95,95,Friday,October,2021,,8,10:00 AM,US,Wholesale Inventories MoM AUG,2,1.2%,0.6%,1.2%,1.2%
+97,97,Sunday,October,2021,,3,09:00 PM,BH,GDP Growth Rate QoQ Q2,1,3.51%,-0.10%,,3.1%
+98,98,Sunday,October,2021,,3,10:00 PM,PK,Inflation Rate YoY SEP,1,9.0%,8.4%,,
+99,99,Sunday,October,2021,,3,10:00 PM,PK,Wholesale Prices YoY SEP,1,19.6%,17.1%,,
+100,100,Sunday,October,2021,,3,11:40 PM,QA,GDP Growth Rate QoQ Q2,1,-0.3%,-0.8%  ®,,0.9%
+101,101,Sunday,October,2021,,3,11:40 PM,QA,GDP Growth Rate YoY Q2,1,4.0%,-2.2%  ®,,5%
+103,103,Sunday,October,2021,,3,,SA,OPEC and non-OPEC Ministerial Meeting,1,,,,
+104,104,Monday,October,2021,,4,02:00 AM,RO,PPI YoY AUG,1,15.88%,13.95%  ®,,14.7%
+108,108,Monday,October,2021,,4,02:30 AM,CH,Retail Sales MoM AUG,1,1.1%,-2.6%  ®,,1.5%
+110,110,Monday,October,2021,,4,03:00 AM,ES,Tourist Arrivals YoY AUG,1,112.8%,78.3%,,57.5%
+113,113,Monday,October,2021,,4,03:00 AM,TR,PPI MoM SEP,1,1.55%,2.77%,,2.3%
+114,114,Monday,October,2021,,4,03:00 AM,TR,PPI YoY SEP,1,43.96%,45.52%,,45%
+115,115,Monday,October,2021,,4,03:55 AM,KW,M2 Money Supply YoY AUG,1,-2.55%,-1.43%,,-1.5%
+116,116,Monday,October,2021,,4,04:00 AM,BR,IPC-Fipe Inflation MoM SEP,1,1.13%,1.44%,,1.2%
+117,117,Monday,October,2021,,4,04:30 AM,IL,Inflation Expectations SEP,1,2.2%,2.0%  ®,,1.8%
+118,118,Monday,October,2021,,4,04:45 AM,NG,Stanbic IBTC Bank Nigeria PMI SEP,1,52.3,52.2,,53
+119,119,Monday,October,2021,,4,06:00 AM,CY,Retail Sales YoY JUL,1,4.9%,5.3%  ®,,6.2%
+120,120,Monday,October,2021,,4,06:00 AM,LV,Industrial Production YoY AUG,1,3.7%,8.4%,,9.2%
+121,121,Monday,October,2021,,4,06:00 AM,LV,Industrial Production MoM AUG,1,-2%,0.7%  ®,,
+122,122,Monday,October,2021,,4,06:30 AM,BH,Private Sector Credit YoY AUG,1,4.36%,3.66%,,3.5%
+123,123,Monday,October,2021,,4,06:30 AM,BH,M2 Money Supply YoY AUG,1,3.7%,2.85%,,2.7%
+125,125,Monday,October,2021,,4,07:00 AM,ST,Balance of Trade JUN,1,$-14.3M,$-7.2M,,$-7M
+126,126,Monday,October,2021,,4,07:00 AM,ST,Balance of Trade JUL,1,$-9.2M,$-14.3M,,$-8.6M
+127,127,Monday,October,2021,,4,07:00 AM,ST,Balance of Trade AUG,1,$-12.1M,$-9.2M,,
+129,129,Monday,October,2021,,4,08:30 AM,CA,Building Permits MoM AUG,1,-2.1%,-4.1%  ®,3%,2.5%
+130,130,Monday,October,2021,,4,09:00 AM,FR,3-Month BTF Auction,1,-0.756%,-0.739%,,
+131,131,Monday,October,2021,,4,09:00 AM,FR,12-Month BTF Auction,1,-0.648%,-0.650%,,
+132,132,Monday,October,2021,,4,09:00 AM,FR,6-Month BTF Auction,1,-0.679%,-0.677%,,
+133,133,Monday,October,2021,,4,09:00 AM,SG,SIPMM Manufacturing PMI SEP,1,50.8,50.9,50.7,50.4
+134,134,Monday,October,2021,,4,10:00 AM,BA,GDP Growth Rate YoY Q2,1,11.6%,2.5%  ®,,10.5%
+136,136,Monday,October,2021,,4,10:00 AM,US,Factory Orders ex Transportation AUG,1,0.5%,0.9%  ®,,0.5%
+137,137,Monday,October,2021,,4,10:30 AM,US,NY Fed Treasury Purchases 22.5 to 30 yrs,1,,,$2.025B,
+138,138,Monday,October,2021,,4,11:00 AM,DK,Foreign Exchange Reserves SEP,1,DKK501.7B,DKK483.4B,,
+139,139,Monday,October,2021,,4,11:30 AM,US,3-Month Bill Auction,1,0.040%,0.035%,,
+140,140,Monday,October,2021,,4,11:30 AM,US,6-Month Bill Auction,1,0.055%,0.050%,,
+141,141,Monday,October,2021,,4,03:00 PM,CO,PPI YoY SEP,1,19.66%,17.60%,,18%
+142,142,Monday,October,2021,,4,03:00 PM,PY,Inflation Rate YoY SEP,1,6.4%,5.6%,,5.7%
+143,143,Monday,October,2021,,4,05:00 PM,NZ,NZIER Business Confidence Q3,1,-11%,7%,,-4%
+144,144,Monday,October,2021,,4,05:00 PM,NZ,NZIER Capacity Utilization Q3,1,96.1%,94.9%,,
+145,145,Monday,October,2021,,4,05:30 PM,AU,Ai Group Construction Index SEP,1,53.3,38.4,,45.6
+147,147,Monday,October,2021,,4,06:00 PM,AU,Markit Composite PMI Final SEP,1,46.5,43.3,,46
+148,148,Monday,October,2021,,4,07:30 PM,JP,Tokyo Core CPI YoY SEP,1,0.1%,0%,0.2%,0.1%
+149,149,Monday,October,2021,,4,07:30 PM,JP,Tokyo CPI YoY SEP,1,0.3%,-0.4%,,-0.4%
+150,150,Monday,October,2021,,4,08:01 PM,IE,AIB Services PMI SEP,1,63.7,63.7,,61.5
+152,152,Monday,October,2021,,4,08:30 PM,AU,Exports MoM AUG,1,4%,4.9%  ®,,
+153,153,Monday,October,2021,,4,08:30 PM,AU,Imports MoM AUG,1,-1%,3.6%  ®,,
+154,154,Monday,October,2021,,4,08:30 PM,AU,ANZ Job Advertisements MoM SEP,1,-2.8%,-2.7%  ®,0.7%,
+156,156,Monday,October,2021,,4,08:30 PM,JP,Jibun Bank Composite PMI Final SEP,1,47.9,45.5,,47.7
+157,157,Monday,October,2021,,4,08:30 PM,SG,Markit PMI SEP,1,53.8,52.1,,51
+159,159,Monday,October,2021,,4,09:00 PM,PH,Inflation Rate MoM SEP,1,0.0%,0.6%,0.3%,0.2%
+160,160,Monday,October,2021,,4,09:00 PM,PH,Core Inflation Rate YoY SEP,1,3.3%,3.3%,3.35%,3.5%
+162,162,Monday,October,2021,,4,09:30 PM,GE,Inflation Rate YoY SEP,1,12.3%,12.8%,,13.4%
+164,164,Monday,October,2021,,4,11:30 PM,TH,Core Inflation Rate YoY SET,1,0.19%,0.07%,0.2%,0%
+165,165,Monday,October,2021,,4,11:30 PM,TH,Inflation Rate YoY SEP,1,1.68%,-0.02%,0.7%,0.6%
+166,166,Monday,October,2021,,4,11:45 PM,JP,10-Year JGB Auction,1,0.049%,0.023%,,
+168,168,Tuesday,October,2021,,5,12:15 AM,EG,Emirates NBD PMI SEP,1,48.9,49.8,,50.2
+169,169,Tuesday,October,2021,,5,12:15 AM,SA,Emirates NBD PMI SEP,1,58.6,54.1,,55
+170,170,Tuesday,October,2021,,5,12:15 AM,AE,Emirates NBD PMI SEP,1,53.3,53.8,,54.8
+171,171,Tuesday,October,2021,,5,01:00 AM,IN,Markit Composite PMI SEP,1,55.3,55.4,,54
+172,172,Tuesday,October,2021,,5,01:00 AM,IN,Markit Services PMI SEP,1,55.2,56.7,57,55
+173,173,Tuesday,October,2021,,5,01:00 AM,SG,Retail Sales MoM AUG,1,-0.6%,0.9%  ®,,0.1%
+174,174,Tuesday,October,2021,,5,01:00 AM,SG,Retail Sales YoY AUG,1,-2.8%,0.2%,,0.5%
+175,175,Tuesday,October,2021,,5,02:00 AM,KZ,Tengri Partners Composite PMI SEP,1,51.4,50.7,,51.8
+176,176,Tuesday,October,2021,,5,02:00 AM,KZ,Tengri Partners Services PMI SEP,1,51.2,51.4,,52.4
+177,177,Tuesday,October,2021,,5,02:00 AM,RU,Markit Composite PMI SEP,1,50.5,49.2,,49
+178,178,Tuesday,October,2021,,5,02:00 AM,RU,Markit Services PMI SEP,1,50.5,49.3,,48.8
+179,179,Tuesday,October,2021,,5,02:00 AM,UG,Stanbic Bank Uganda PMI SEP,1,52.5,50.2,,51
+180,180,Tuesday,October,2021,,5,02:30 AM,SE,Services PMI SEP,1,69.6,65.1  ®,,63.4
+182,182,Tuesday,October,2021,,5,02:50 AM,ET,Inflation Rate YoY SEP,1,34.8%,30.4%,,28%
+183,183,Tuesday,October,2021,,5,03:15 AM,ZA,IHS Markit PMI SEP,1,50.7,49.9,,49.7
+186,186,Tuesday,October,2021,,5,03:30 AM,KE,Stanbic Bank PMI SEP,1,50.4,51.1,,52
+193,193,Tuesday,October,2021,,5,04:00 AM,AM,Inflation Rate YoY SEP,1,8.9%,8.8%,,9.2%
+194,194,Tuesday,October,2021,,5,04:00 AM,CZ,Unemployment Rate SEP,1,3.5%,3.6%,3.6%,3.5%
+197,197,Tuesday,October,2021,,5,04:00 AM,LB,BLOM Lebanon PMI SEP,1,46.9,46.6,,47.6
+198,198,Tuesday,October,2021,,5,04:00 AM,GB,New Car Sales YoY SEP,1,-34.4%,-22%,,-14%
+199,199,Tuesday,October,2021,,5,04:20 AM,TW,Foreign Exchange Reserves SEP,1,$544.899B,$543.578B,,$544B
+202,202,Tuesday,October,2021,,5,04:30 AM,ZM,Stanbic Bank Zambia PMI SEP,1,50.3,49.8,,50
+203,203,Tuesday,October,2021,,5,05:00 AM,EA,PPI MoM AUG,1,1.1%,2.5%  ®,1.3%,1.6%
+204,204,Tuesday,October,2021,,5,05:00 AM,EA,PPI YoY AUG,1,13.4%,12.4%  ®,13.5%,13.7%
+205,205,Tuesday,October,2021,,5,05:00 AM,GH,Stanbic Bank Ghana PMI SEP,1,52.6,48.9,,49.2
+206,206,Tuesday,October,2021,,5,05:00 AM,NO,House Price Index MoM SEP,1,0.2%,1%,,0.5%
+207,207,Tuesday,October,2021,,5,05:00 AM,NO,House Price Index YoY SEP,1,8%,9.4%,,9.5%
+208,208,Tuesday,October,2021,,5,05:00 AM,QA,Qatar Financial Centre PMI SEP,1,60.6,58.2,,57.5
+209,209,Tuesday,October,2021,,5,05:00 AM,ES,12-Month Letras Auction,1,-0.575%,-0.568%,,
+210,210,Tuesday,October,2021,,5,05:00 AM,ES,6-Month Letras Auction,1,-0.633%,-0.580%,,
+211,211,Tuesday,October,2021,,5,05:30 AM,DE,New Car Registrations YoY SEP,1,-25.7%,-23%,,-14%
+212,212,Tuesday,October,2021,,5,06:00 AM,IL,Industrial Production YoY JUL,1,5.49%,9.70%  ®,,7.6%
+213,213,Tuesday,October,2021,,5,06:00 AM,RS,PPI YoY SEP,1,13.1%,11%,,12.1%
+214,214,Tuesday,October,2021,,5,06:10 AM,DE,Bundesbank Wuermeling Speech,1,,,,
+216,216,Tuesday,October,2021,,5,06:30 AM,US,LMI Logistics Managers Index Current,1,72.2,73.8,,
+217,217,Tuesday,October,2021,,5,07:00 AM,LK,Unemployment Rate Q2,1,5.1%,5.7%,,6%
+218,218,Tuesday,October,2021,,5,07:00 AM,TN,Inflation Rate YoY SEP,1,6.2%,6.2%,,6.4%
+219,219,Tuesday,October,2021,,5,07:10 AM,LK,Current Account Q2,1,$-990.1M,$-546M  ®,,$-820M
+220,220,Tuesday,October,2021,,5,07:30 AM,BA,Current Account Q2,1,BAM -408.2M,BAM-113.9M,,
+223,223,Tuesday,October,2021,,5,08:00 AM,RO,Interest Rate Decision,1,1.5%,1.25%,1.5%,1.25%
+225,225,Tuesday,October,2021,,5,08:30 AM,CA,Exports AUG,1,C$54.44B,C$54.01B  ®,,
+226,226,Tuesday,October,2021,,5,08:30 AM,CA,Imports AUG,1,C$52.51B,C$53.28B  ®,,
+228,228,Tuesday,October,2021,,5,08:30 AM,US,Exports AUG,1,$213.7B,$212.7B  ®,,$214.3B
+229,229,Tuesday,October,2021,,5,08:30 AM,US,Imports AUG,1,$287B,$283B  ®,,$285.1B
+230,230,Tuesday,October,2021,,5,08:55 AM,US,Redbook YoY 02/OCT,1,16.4%,16.5%,,
+232,232,Tuesday,October,2021,,5,09:00 AM,BR,Markit Composite PMI SEP,1,54.7,54.6,,53
+233,233,Tuesday,October,2021,,5,09:10 AM,SV,Current Account Q2,1,$-160.51M,$-234M  ®,,$-258M
+234,234,Tuesday,October,2021,,5,09:10 AM,SV,GDP Growth Rate QoQ Q2,1,-2.3%,3.6%  ®,,2%
+235,235,Tuesday,October,2021,,5,09:10 AM,SV,GDP Growth Rate YoY Q2,1,24.1%,2.8%  ®,,11%
+238,238,Tuesday,October,2021,,5,10:00 AM,MD,Interest Rate Decision,1,5.5%,4.65%,,
+241,241,Tuesday,October,2021,,5,10:00 AM,US,ISM Non-Manufacturing Business Activity SEP,1,62.3,60.1,59.5,58
+242,242,Tuesday,October,2021,,5,10:00 AM,US,ISM Non-Manufacturing Prices SEP,1,77.5,75.4,,74.9
+243,243,Tuesday,October,2021,,5,10:00 AM,US,ISM Non-Manufacturing New Orders SEP,1,63.5,63.2,,61
+244,244,Tuesday,October,2021,,5,10:00 AM,US,ISM Non-Manufacturing Employment SEP,1,53,53.7,,52
+246,246,Tuesday,October,2021,,5,11:20 AM,US,NY Fed Treasury Purchases 7 to 10 yrs,1,,,$3.225B,
+247,247,Tuesday,October,2021,,5,11:30 AM,NZ,Global Dairy Trade Price Index,1,0%,1%,,
+248,248,Tuesday,October,2021,,5,11:30 AM,US,52-Week Bill Auction,1,0.090%,0.075%,,
+250,250,Tuesday,October,2021,,5,01:20 PM,DE,Bundesbank Balz Speech,1,,,,
+251,251,Tuesday,October,2021,,5,03:30 PM,UY,Inflation Rate YoY SEP,1,7.41%,7.59%,,7.7%
+253,253,Tuesday,October,2021,,5,05:00 PM,KR,Foreign Exchange Reserves SEP,1,$463.97B,$463.93B,$470.98B,$472B
+255,255,Tuesday,October,2021,,5,07:00 PM,KR,Inflation Rate MoM SEP,1,0.5%,0.6%,0.25%,0.4%
+256,256,Tuesday,October,2021,,5,08:00 PM,CO,Inflation Rate YoY SEP,1,4.51%,4.44%,4.48%,4.5%
+257,257,Tuesday,October,2021,,5,08:00 PM,CO,Inflation Rate MoM SEP,1,0.38%,0.45%,0.36%,0.5%
+258,258,Tuesday,October,2021,,5,08:30 PM,HK,Markit PMI SEP,1,51.7,53.3,52.3,52.1
+259,259,Tuesday,October,2021,,5,09:00 PM,AU,TD-MI Inflation Gauge MoM SEP,1,0.3%,0.0%  ®,,
+261,261,Tuesday,October,2021,,5,09:30 PM,AU,RBA Chart Pack,1,,,,
+263,263,Wednesday,October,2021,,6,02:00 AM,MZ,Standard Bank PMI SEP,1,50.4,47.9,,49
+264,264,Wednesday,October,2021,,6,02:00 AM,RO,Retail Sales MoM AUG,1,0.9%,1.1%  ®,,
+265,265,Wednesday,October,2021,,6,02:00 AM,RO,Retail Sales YoY AUG,1,11.7%,9.2%  ®,,7.5%
+266,266,Wednesday,October,2021,,6,03:00 AM,AT,Balance of Trade JUL,1,€-469.9M,€-1556.2M,,
+267,267,Wednesday,October,2021,,6,03:00 AM,HU,Industrial Production YoY AUG,1,2.6%,8%,4.8%,6.9%
+268,268,Wednesday,October,2021,,6,03:00 AM,HU,Retail Sales YoY AUG,1,4.1%,3%,,3.5%
+269,269,Wednesday,October,2021,,6,03:00 AM,SK,Retail Sales MoM AUG,1,0.8%,-1.2%,,
+270,270,Wednesday,October,2021,,6,03:00 AM,SK,Retail Sales YoY AUG,1,2.2%,1.5%,,2%
+271,271,Wednesday,October,2021,,6,03:00 AM,ES,Industrial Production YoY AUG,1,1.8%,3.3%  ®,3.5%,4.2%
+272,272,Wednesday,October,2021,,6,03:30 AM,EA,Construction PMI SEP,1,50,49.5,,50
+273,273,Wednesday,October,2021,,6,03:30 AM,FR,Construction PMI SEP,1,48.9,44.9,,48.6
+275,275,Wednesday,October,2021,,6,03:30 AM,IT,Construction PMI SEP,1,56.6,65.2,,66
+276,276,Wednesday,October,2021,,6,03:30 AM,SE,Construction Output YoY AUG,1,-5.6%,10.1%  ®,,7.8%
+277,277,Wednesday,October,2021,,6,03:30 AM,SE,Household Consumption MoM AUG,1,-1.1%,0.8%  ®,,0.4%
+278,278,Wednesday,October,2021,,6,03:30 AM,SE,Industrial Production YoY AUG,1,0.8%,13.3%,,9.5%
+279,279,Wednesday,October,2021,,6,03:30 AM,SE,Industrial Production MoM AUG,1,-3.7%,1%  ®,,0.6%
+280,280,Wednesday,October,2021,,6,03:30 AM,SE,New Orders YoY AUG,1,2.3%,13%  ®,14.8%,7.6%
+281,281,Wednesday,October,2021,,6,03:45 AM,DE,Bundesbank Wuermeling Speec,1,,,,
+283,283,Wednesday,October,2021,,6,04:00 AM,FR,New Car Registrations YoY SEP,1,-20.5%,-15.0%,,-8.6%
+284,284,Wednesday,October,2021,,6,04:00 AM,PK,Balance of Trade SEP,1,PKR-690.9,PKR-710.4B  ®,,PKR -415.4B
+285,285,Wednesday,October,2021,,6,04:00 AM,TW,Inflation Rate YoY SEP,1,2.63%,2.35%  ®,2.2%,2.6%
+286,286,Wednesday,October,2021,,6,04:00 AM,TW,Inflation Rate MoM SEP,1,0.51%,0.31%,,0.2%
+287,287,Wednesday,October,2021,,6,04:00 AM,TW,Wholesale Prices YoY SEP,1,11.96%,11.96%  ®,,12.3%
+288,288,Wednesday,October,2021,,6,04:00 AM,UG,Balance of Trade AUG,1,$-367.3M,$-303.4M,,$-420M
+289,289,Wednesday,October,2021,,6,04:00 AM,UG,Business Confidence SEP,1,49.36,50.80,,51
+290,290,Wednesday,October,2021,,6,04:10 AM,CY,Current Account Q2,1,€-648.6M,€-804.9M  ®,,
+292,292,Wednesday,October,2021,,6,04:35 AM,KZ,PPI YoY SEP,1,35.4%,39.2%,,35.6%
+293,293,Wednesday,October,2021,,6,04:55 AM,IS,CBI Interest Rate Decision,1,1.5%,1.25%,,1.25%
+294,294,Wednesday,October,2021,,6,05:00 AM,AT,Retail Sales MoM AUG,1,0.5%,-3.3%  ®,,
+295,295,Wednesday,October,2021,,6,05:00 AM,AT,Retail Sales YoY AUG,1,-0.8%,-2%  ®,,1%
+296,296,Wednesday,October,2021,,6,05:00 AM,BE,Retail Sales MoM AUG,1,1.6%,-2.6%,,
+297,297,Wednesday,October,2021,,6,05:00 AM,BE,Retail Sales YoY AUG,1,-4.9%,2.9%,,0.5%
+298,298,Wednesday,October,2021,,6,05:00 AM,HR,PPI YoY SEP,1,12.1%,9.3%,,9.9%
+301,301,Wednesday,October,2021,,6,05:00 AM,FR,Retail Sales MoM AUG,1,-1.2%,-2.3%  ®,,0.9%
+302,302,Wednesday,October,2021,,6,05:00 AM,FR,Retail Sales YoY AUG,1,-2.1%,6%  ®,,6.5%
+303,303,Wednesday,October,2021,,6,05:00 AM,HU,Retail Sales MoM AUG,1,0.5%,-0.2%,,
+304,304,Wednesday,October,2021,,6,05:00 AM,LU,Retail Sales MoM AUG,1,0%,1.5%  ®,,
+305,305,Wednesday,October,2021,,6,05:00 AM,MT,Retail Sales MoM AUG,1,2.7%,3.2%  ®,,
+306,306,Wednesday,October,2021,,6,05:00 AM,MT,Retail Sales YoY AUG,1,19.6%,12.6%  ®,,8.2%
+307,307,Wednesday,October,2021,,6,05:00 AM,PL,Retail Sales MoM AUG,1,0.5%,0.6%,,0.5%
+308,308,Wednesday,October,2021,,6,05:40 AM,DE,5-Year Bobl Auction,1,-0.54%,-0.69%,,
+309,309,Wednesday,October,2021,,6,06:00 AM,IE,Household Saving Ratio Q2,1,21.1%,30.4%  ®,,25.1%
+310,310,Wednesday,October,2021,,6,06:00 AM,IE,Unemployment Rate SEP,1,6.4%,6.5%  ®,,6.4%
+311,311,Wednesday,October,2021,,6,06:00 AM,LU,Inflation Rate YoY SEP,1,2.7%,2.5%,,2.7%
+312,312,Wednesday,October,2021,,6,07:00 AM,MX,Auto Exports YoY SEP,1,-24.2%,-19.6%,,-3%
+313,313,Wednesday,October,2021,,6,07:00 AM,MX,Auto Production YoY SEP,1,-33.3%,-21.4%,,-2.5%
+314,314,Wednesday,October,2021,,6,07:00 AM,MX,Gross Fixed Investment YoY JUL,1,15.7%,16.9%  ®,15.3%,14.5%
+315,315,Wednesday,October,2021,,6,07:00 AM,MX,Gross Fixed Investment MoM JUL,1,2.1%,-1.8%,,-1.4%
+316,316,Wednesday,October,2021,,6,07:00 AM,US,MBA Mortgage Applications 01/OCT,1,-6.9%,-1.1%,,
+317,317,Wednesday,October,2021,,6,07:00 AM,US,MBA 30-Year Mortgage Rate 01/OCT,1,3.14%,3.1%,,
+319,319,Wednesday,October,2021,,6,08:00 AM,BR,Retail Sales YoY AUG,1,-4.1%,5.7%,2%,3.8%
+321,321,Wednesday,October,2021,,6,09:00 AM,BR,Car Production MoM SEP,1,5.6%,0.3%,,0.4%
+322,322,Wednesday,October,2021,,6,09:00 AM,BR,New Car Registrations MoM SEP,1,-10.2%,-1.5%,,-0.7%
+325,325,Wednesday,October,2021,,6,10:30 AM,AL,Interest Rate Decision,1,0.5%,0.5%,,0.5%
+326,326,Wednesday,October,2021,,6,10:30 AM,EC,Inflation Rate YoY SEP,1,1.07%,0.89%,,1%
+329,329,Wednesday,October,2021,,6,10:30 AM,US,EIA Cushing Crude Oil Stocks Change 01/OCT,1,1.548M,0.131M,,
+330,330,Wednesday,October,2021,,6,10:30 AM,US,EIA Distillate Fuel Production Change 01/OCT,1,0.13M,0.194M,,
+331,331,Wednesday,October,2021,,6,10:30 AM,US,EIA Distillate Stocks Change 01/OCT,1,-0.396M,0.385M,-1.007M,
+332,332,Wednesday,October,2021,,6,10:30 AM,US,EIA Gasoline Production Change 01/OCT,1,-0.523M,0.246M,,
+333,333,Wednesday,October,2021,,6,10:30 AM,US,EIA Heating Oil Stocks Change 01/OCT,1,-0.216M,-0.366M,,
+334,334,Wednesday,October,2021,,6,10:30 AM,US,EIA Refinery Crude Runs Change 01/OCT,1,0.329M,0.068M,,
+335,335,Wednesday,October,2021,,6,10:30 AM,US,NY Fed Treasury Purchases 10 to 22.5 yrs,1,,,$1.425B,
+336,336,Wednesday,October,2021,,6,10:30 AM,US,EIA Crude Oil Imports Change 01/OCT,1,1.389M,-0.124M,,
+337,337,Wednesday,October,2021,,6,11:30 AM,JM,GDP Growth Rate QoQ Q2,1,2.4%,0.7%  ®,,0.6%
+338,338,Wednesday,October,2021,,6,11:30 AM,JM,GDP Growth Rate YoY Q2,1,14.2%,-6.6%  ®,,14.6%
+340,340,Wednesday,October,2021,,6,12:00 PM,CA,2-Year Bond Auction,1,0.598%,0.474%,,
+342,342,Wednesday,October,2021,,6,12:00 PM,RU,Inflation Rate MoM SEP,1,0.6%,0.2%,0.3%,0.2%
+343,343,Wednesday,October,2021,,6,02:00 PM,UY,Interest Rate Decision,1,5.25%,5%,,5%
+345,345,Wednesday,October,2021,,6,07:00 PM,KR,Current Account AUG,1,$7.51B,$8.21B,,$8B
+346,346,Wednesday,October,2021,,6,07:50 PM,JP,Foreign Bond Investment 02/OCT,1,¥1189.4B,¥6790B  ®,,
+347,347,Wednesday,October,2021,,6,07:50 PM,JP,Foreign Exchange Reserves SEP,1,$1409.3B,$1424.3B,,
+348,348,Wednesday,October,2021,,6,07:50 PM,JP,Stock Investment by Foreigners 02/OCT,1,¥-334.3B,¥-228.5B  ®,,
+350,350,Wednesday,October,2021,,6,09:00 PM,PH,Industrial Production YoY AUG,1,523.3%,528.7%  ®,,75%
+351,351,Wednesday,October,2021,,6,11:00 PM,ID,Foreign Exchange Reserves SEP,1,$146.9B,$144.8B,,$143B
+352,352,Thursday,October,2021,,7,12:30 AM,BN,GDP Growth Rate YoY Q2,1,-2.1%,-0.8%  ®,,-2%
+354,354,Thursday,October,2021,,7,12:30 AM,TH,Consumer Confidence SEP,1,41.4,39.6,,42
+355,355,Thursday,October,2021,,7,01:00 AM,EE,Inflation Rate YoY SEP,1,6.6%,5.0%,,6.3%
+356,356,Thursday,October,2021,,7,01:00 AM,EE,Inflation Rate MoM SEP,1,1.2%,0.7%,,1.1%
+357,357,Thursday,October,2021,,7,01:00 AM,JP,Coincident Index Prel AUG,1,91.5,94.4,,95
+358,358,Thursday,October,2021,,7,01:00 AM,JP,Leading Economic Index Prel AUG,1,101.8,104.1,,104
+360,360,Thursday,October,2021,,7,02:00 AM,DK,Industrial Production YoY AUG,1,15.5%,14.6%  ®,,8%
+361,361,Thursday,October,2021,,7,02:00 AM,DK,Industrial Production MoM AUG,1,5.0%,4.9%  ®,,
+363,363,Thursday,October,2021,,7,02:00 AM,NO,Manufacturing Production MoM AUG,1,0.0%,-0.6%,,0.5%
+364,364,Thursday,October,2021,,7,02:00 AM,NO,Industrial Production YoY AUG,1,2.7%,1.3%,,1.1%
+365,365,Thursday,October,2021,,7,02:00 AM,NO,Industrial Production MoM AUG,1,2.7%,0.0%,,0.4%
+366,366,Thursday,October,2021,,7,02:00 AM,NO,Manufacturing Production YoY AUG,1,2.2%,5.5%,,4.5%
+367,367,Thursday,October,2021,,7,02:00 AM,ZA,Foreign Exchange Reserves SEP,1,$57.058B,$58.408B,,$58B
+371,371,Thursday,October,2021,,7,02:45 AM,FR,Current Account AUG,1,€-1.3B,€-3.4B  ®,,€-2.8B
+372,372,Thursday,October,2021,,7,03:00 AM,AT,Wholesale Prices YoY SEP,1,13.5%,12%,,
+373,373,Thursday,October,2021,,7,03:00 AM,AT,Wholesale Prices MoM SEP,1,0.8%,0%,,
+374,374,Thursday,October,2021,,7,03:00 AM,CN,Foreign Exchange Reserves SEP,1,$3.201T,$3.232T,$3.225T,$3.2T
+375,375,Thursday,October,2021,,7,03:00 AM,CZ,Balance of Trade AUG,1,CZK-28.1B,CZK-8.2B  ®,CZK-7.5B,
+376,376,Thursday,October,2021,,7,03:00 AM,CZ,Construction Output YoY AUG,1,1.2%,0.5%,,6.3%
+377,377,Thursday,October,2021,,7,03:00 AM,CZ,Industrial Production YoY AUG,1,-1.4%,6.8%  ®,2.6%,4%
+378,378,Thursday,October,2021,,7,03:00 AM,CZ,Industrial Production MoM AUG,1,-3.2%,1.9%  ®,,0.1%
+379,379,Thursday,October,2021,,7,03:00 AM,CH,Foreign Exchange Reserves SEP,1,CHF939.809B,CHF929.400B  ®,,
+380,380,Thursday,October,2021,,7,03:00 AM,UA,Foreign Exchange Reserves SEP,1,$28.705B,$31.6B,,
+381,381,Thursday,October,2021,,7,04:00 AM,CZ,Foreign Exchange Reserves SEP,1,$170.39B,$171.17B  ®,,
+383,383,Thursday,October,2021,,7,04:00 AM,IT,Retail Sales YoY AUG,1,1.9%,6.7%,,5.5%
+384,384,Thursday,October,2021,,7,04:10 AM,EG,Foreign Exchange Reserves SEP,1,$40.825B,$40.672B,,$41B
+385,385,Thursday,October,2021,,7,04:30 AM,HK,Foreign Exchange Reserves SEP,1,$495B,$497.1B  ®,,
+386,386,Thursday,October,2021,,7,04:30 AM,GB,Labour Productivity QoQ Final Q2,1,0.1%,0.6%  ®,,-0.5%
+387,387,Thursday,October,2021,,7,05:00 AM,FR,10-Year OAT Auction,1,0.15%,-0.05%,,
+388,388,Thursday,October,2021,,7,05:00 AM,IS,Balance of Trade SEP,1,ISK-18.8B,ISK-36.32B  ®,,ISK -14.7B
+389,389,Thursday,October,2021,,7,05:00 AM,SC,Inflation Rate YoY SEP,1,9.8%,10.51%,,10.3%
+390,390,Thursday,October,2021,,7,05:00 AM,SG,Foreign Exchange Reserves SEP,1,S$565.8B,S$562.4B,,S$572B
+391,391,Thursday,October,2021,,7,05:30 AM,CY,Inflation Rate YoY SEP,1,4.1%,5.04%,,5.2%
+392,392,Thursday,October,2021,,7,05:30 AM,ES,30-Year Obligacion Auction,1,1.256%,1.404%,,
+393,393,Thursday,October,2021,,7,05:30 AM,ES,7-Year Obligacion Auction,1,-0.025%,-0.133%,,
+394,394,Thursday,October,2021,,7,05:30 AM,ES,10-Year Obligacion Auction,1,0.446%,0.326%,,
+395,395,Thursday,October,2021,,7,06:00 AM,MK,Balance of Trade AUG,1,$-278.21M,$-257.6M  ®,,
+396,396,Thursday,October,2021,,7,06:00 AM,MK,Inflation Rate YoY SEP,1,3.7%,3.6%,,4%
+397,397,Thursday,October,2021,,7,06:00 AM,RS,Interest Rate Decision,1,1%,1%,1%,1%
+398,398,Thursday,October,2021,,7,06:00 AM,GB,BBA Mortgage Rate SEP,1,3.61%,3.61%,,3.61%
+399,399,Thursday,October,2021,,7,06:50 AM,MU,Inflation Rate YoY SEP,1,5.4%,6%,,5.8%
+401,401,Thursday,October,2021,,7,07:00 AM,MX,Inflation Rate MoM SEP,1,0.62%,0.19%,0.6%,0.5%
+402,402,Thursday,October,2021,,7,07:00 AM,MX,Core Inflation Rate MoM SEP,1,0.46%,0.43%,0.47%,0.5%
+403,403,Thursday,October,2021,,7,07:00 AM,MX,Core Inflation Rate YoY SEP,1,4.92%,4.78%,4.94%,4.9%
+404,404,Thursday,October,2021,,7,07:30 AM,CL,Balance of Trade SEP,1,$79M,$6M,,$ 700M
+405,405,Thursday,October,2021,,7,07:30 AM,CL,Exports SEP,1,$7429M,$7822M,,
+406,406,Thursday,October,2021,,7,07:30 AM,CL,Imports SEP,1,$7350M,$7816M,,
+408,408,Thursday,October,2021,,7,07:30 AM,TR,Foreign Exchange Reserves 01/OCT,1,$83.20B,$82.84B,,
+409,409,Thursday,October,2021,,7,07:30 AM,US,Challenger Job Cuts SEP,1,17.895K,15.723K,,16K
+410,410,Thursday,October,2021,,7,07:40 AM,OM,Budget Balance AUG,1,OMR -1051.8M,OMR-97.3M,,
+411,411,Thursday,October,2021,,7,08:00 AM,PL,Foreign Exchange Reserves SEP,1,$167.02B,$169.5B,,
+412,412,Thursday,October,2021,,7,08:30 AM,XK,Unemployment Rate Q1,1,25.8%,27%,,26.7%
+416,416,Thursday,October,2021,,7,08:30 AM,US,Continuing Jobless Claims 25/SEP,1,2714K,2811K  ®,2780K,2790K
+421,421,Thursday,October,2021,,7,10:30 AM,TR,Treasury Cash Balance SEP,1,TRY-32.86B,TRY64.26B,,TRY-22.3B
+422,422,Thursday,October,2021,,7,10:30 AM,US,NY Fed Treasury Purchases TIPS 7.5 to 30 yrs,1,,,$1.225B,
+423,423,Thursday,October,2021,,7,10:30 AM,US,EIA Natural Gas Stocks Change 01/OCT,1,118Bcf,88Bcf,105Bcf,
+424,424,Thursday,October,2021,,7,10:50 AM,IE,Industrial Production YoY AUG,1,24.3%,15.4%  ®,,8.5%
+425,425,Thursday,October,2021,,7,11:00 AM,CO,Consumer Confidence SEP,1,-3,-8.2,,-8.5
+426,426,Thursday,October,2021,,7,11:00 AM,IL,Foreign Exchange Reserves SEP,1,$203.99B,$205907B  ®,,$211.6B
+427,427,Thursday,October,2021,,7,11:30 AM,US,4-Week Bill Auction,1,0.035%,0.045%,,
+428,428,Thursday,October,2021,,7,11:30 AM,US,8-Week Bill Auction,1,0.110%,0.040%,,
+431,431,Thursday,October,2021,,7,12:30 PM,CR,Inflation Rate YoY SEP,1,2.09%,1.72%,,1.8%
+432,432,Thursday,October,2021,,7,12:30 PM,CR,Inflation Rate MoM SEP,1,0.63%,0.28%,,-0.1%
+433,433,Thursday,October,2021,,7,03:00 PM,AR,Industrial Production YoY AUG,1,13.8%,12.5%  ®,,10.5%
+434,434,Thursday,October,2021,,7,03:00 PM,US,Consumer Credit Change AUG,1,$14.38B,$17.2B  ®,$17.5B,$18B
+435,435,Thursday,October,2021,,7,07:00 PM,PE,Interest Rate Decision,1,1.5%,1%,1.5%,1.5%
+436,436,Thursday,October,2021,,7,07:30 PM,JP,Household Spending MoM AUG,1,-3.9%,-0.9%,-2%,-1.8%
+437,437,Thursday,October,2021,,7,07:30 PM,JP,Household Spending YoY AUG,1,-3%,0.7%,-1.5%,-1.3%
+438,438,Thursday,October,2021,,7,07:30 PM,JP,Average Cash Earnings YoY AUG,1,0.7%,0.6%  ®,,1.1%
+443,443,Thursday,October,2021,,7,09:45 PM,CN,Caixin Composite PMI SEP,1,51.4,47.2,,49
+444,444,Thursday,October,2021,,7,10:00 PM,LK,Tourist Arrivals SEP,1,13547,5040,,
+445,445,Thursday,October,2021,,7,11:00 PM,ID,Consumer Confidence SEP,1,95.5,77.3,,
+448,448,Friday,October,2021,,8,12:30 AM,IN,Reverse Repo Rate,1,3.35%,3.35%,3.35%,3.35%
+449,449,Friday,October,2021,,8,12:30 AM,IN,Cash Reserve Ratio,1,4%,4%,4%,4%
+450,450,Friday,October,2021,,8,12:30 AM,NL,Manufacturing Production YoY AUG,1,9.8%,13.7%  ®,,11%
+451,451,Friday,October,2021,,8,01:00 AM,FI,Industrial Production YoY AUG,1,4.4%,3.5%  ®,,3.1%
+452,452,Friday,October,2021,,8,01:00 AM,JP,Eco Watchers Survey Outlook SEP,1,56.6,43.7,,44
+453,453,Friday,October,2021,,8,01:00 AM,JP,Eco Watchers Survey Current SEP,1,42.1,34.7,,35
+454,454,Friday,October,2021,,8,02:00 AM,FI,Balance of Trade AUG,1,€-0.59B,€-0.41B  ®,,
+456,456,Friday,October,2021,,8,02:00 AM,DE,Balance of Trade s.a AUG,1,€13B,€17.7B  ®,€15.8B,
+457,457,Friday,October,2021,,8,02:00 AM,DE,Exports MoM s.a AUG,1,-1.2%,0.6%  ®,0.5%,
+458,458,Friday,October,2021,,8,02:00 AM,DE,Imports MoM s.a AUG,1,3.5%,-3.6%  ®,1.8%,
+459,459,Friday,October,2021,,8,02:00 AM,DE,Current Account AUG,1,€11.8B,€17.9B  ®,,€15.1B
+460,460,Friday,October,2021,,8,02:00 AM,LT,Balance of Trade AUG,1,€-0.19B,€-0.48B  ®,,
+461,461,Friday,October,2021,,8,02:00 AM,LT,Inflation Rate YoY SEP,1,6.3%,5.3%,,6.4%
+462,462,Friday,October,2021,,8,02:00 AM,LT,Inflation Rate MoM SEP,1,1.4%,0.4%,,
+463,463,Friday,October,2021,,8,03:00 AM,CZ,Retail Sales MoM AUG,1,0.3%,-0.2%  ®,,
+464,464,Friday,October,2021,,8,03:00 AM,CZ,Retail Sales YoY AUG,1,5.1%,1.7%  ®,7.4%,5%
+465,465,Friday,October,2021,,8,03:00 AM,HU,Balance of Trade Prel AUG,1,€-467M,€-210M,€61M,
+466,466,Friday,October,2021,,8,03:00 AM,HU,Core Inflation Rate YoY SEP,1,4%,3.6%,4%,4%
+467,467,Friday,October,2021,,8,03:00 AM,HU,Inflation Rate YoY SEP,1,5.5%,4.9%,5.5%,5.2%
+468,468,Friday,October,2021,,8,03:00 AM,HU,Inflation Rate MoM SEP,1,0.2%,0.2%,,
+469,469,Friday,October,2021,,8,03:00 AM,SK,Balance of Trade AUG,1,€-146.2M,€-10.7M,€-21M,
+470,470,Friday,October,2021,,8,03:30 AM,TH,Foreign Exchange Reserves SEP,1,$245.3B,$247.4B  ®,,$248B
+471,471,Friday,October,2021,,8,04:00 AM,BG,Construction Output YoY AUG,1,2.4%,0.8%,,1.2%
+472,472,Friday,October,2021,,8,04:00 AM,BG,Industrial Production YoY AUG,1,10.8%,8.6%  ®,,6.1%
+473,473,Friday,October,2021,,8,04:00 AM,BG,Industrial Production MoM AUG,1,1.8%,0.9%  ®,,
+474,474,Friday,October,2021,,8,04:00 AM,BG,Retail Sales MoM AUG,1,-1.1%,-1.2%  ®,,
+475,475,Friday,October,2021,,8,04:00 AM,BG,Retail Sales YoY AUG,1,12%,20.2%,,16%
+476,476,Friday,October,2021,,8,04:00 AM,TW,Balance of Trade SEP,1,$6.45B,$3.48B,$4.2B,$ 2.5B
+477,477,Friday,October,2021,,8,04:00 AM,TW,Exports YoY SEP,1,29.2%,26.9%,25%,
+478,478,Friday,October,2021,,8,04:00 AM,TW,Imports YoY SEP,1,40.4%,46.2%  ®,41.2%,
+479,479,Friday,October,2021,,8,04:30 AM,SI,Balance of Trade AUG,1,€-488M,€-37M,,
+480,480,Friday,October,2021,,8,05:00 AM,HR,Balance of Trade AUG,1,HRK-6.6B,HRK-5.8B,,
+481,481,Friday,October,2021,,8,05:00 AM,GR,Balance of Trade AUG,1,€-2.19B,€-2.12B,,€-1.8B
+482,482,Friday,October,2021,,8,05:00 AM,GR,Harmonised Inflation Rate YoY SEP,1,1.9%,1.2%,1.3%,1.4%
+483,483,Friday,October,2021,,8,05:00 AM,GR,Industrial Production YoY AUG,1,10.1%,7.8%,,6%
+484,484,Friday,October,2021,,8,05:00 AM,GR,Inflation Rate YoY SEP,1,2.2%,1.9%,2%,2%
+485,485,Friday,October,2021,,8,05:00 AM,HU,Budget Balance SEP,1,HUF-392B,HUF-97B,,HUF 50B
+486,486,Friday,October,2021,,8,05:00 AM,MT,Industrial Production YoY AUG,1,-4.1%,7.5%  ®,,4%
+487,487,Friday,October,2021,,8,05:00 AM,MT,Inflation Rate YoY SEP,1,0.7%,0.4%,,0.7%
+488,488,Friday,October,2021,,8,05:00 AM,RU,Vehicle Sales YoY SEP,1,-22.6%,-17%,,-12%
+489,489,Friday,October,2021,,8,05:00 AM,RW,PPI MoM AUG,1,-1.6%,0.3%,,0.5%
+490,490,Friday,October,2021,,8,05:00 AM,RW,PPI YoY AUG,1,4.5%,6.9%,,7.2%
+491,491,Friday,October,2021,,8,05:10 AM,KW,Private Bank Lending YoY AUG,1,3.73%,3.51%,,3.5%
+492,492,Friday,October,2021,,8,06:00 AM,IL,Business Confidence SEP,1,21.95,21.87,,23
+493,493,Friday,October,2021,,8,06:00 AM,LV,Inflation Rate YoY SEP,1,4.8%,3.7%,,4.5%
+494,494,Friday,October,2021,,8,06:00 AM,LV,Inflation Rate MoM SEP,1,1.1%,0.4%,,
+495,495,Friday,October,2021,,8,07:00 AM,CL,Core Inflation Rate MoM SEP,1,0.9%,0.4%,,0.5%
+496,496,Friday,October,2021,,8,07:00 AM,CL,Inflation Rate YoY SEP,1,5.3%,4.8%,,5%
+497,497,Friday,October,2021,,8,07:00 AM,CL,Inflation Rate MoM SEP,1,1.2%,0.4%,0.75%,0.6%
+498,498,Friday,October,2021,,8,07:00 AM,CY,Construction Output YoY Q2,1,26.2%,5.1%  ®,,31%
+499,499,Friday,October,2021,,8,07:00 AM,PL,Monetary Policy Meeting Minutes,1,,,,
+500,500,Friday,October,2021,,8,07:00 AM,ST,Inflation Rate YoY AUG,1,8.8%,6.9%,,6.3%
+501,501,Friday,October,2021,,8,07:00 AM,TZ,Inflation Rate YoY SEP,1,4%,3.8%,,3.7%
+502,502,Friday,October,2021,,8,07:00 AM,GB,BoE Quarterly Bulletin,1,,,,
+503,503,Friday,October,2021,,8,07:05 AM,AL,Inflation Rate YoY SEP,1,2.5%,2.4%,,2.7%
+504,504,Friday,October,2021,,8,07:30 AM,IN,Deposit Growth YoY SEP/24,1,9.3%,9.3%,,
+505,505,Friday,October,2021,,8,07:30 AM,IN,Foreign Exchange Reserves 01/OCT,1,$637.5,$638.6B,,
+506,506,Friday,October,2021,,8,07:30 AM,IN,Bank Loan Growth YoY SEP/24,1,6.7%,6.7%,,
+508,508,Friday,October,2021,,8,08:00 AM,BR,Inflation Rate MoM SEP,1,1.16%,0.87%,1.25%,1.2%
+509,509,Friday,October,2021,,8,08:00 AM,MZ,Inflation Rate YoY SEP,1,6.04%,5.61%,,5.8%
+510,510,Friday,October,2021,,8,08:00 AM,UA,Inflation Rate YoY SEP,1,11%,10.2%,10.7%,11%
+511,511,Friday,October,2021,,8,08:00 AM,UA,Inflation Rate MoM SEP,1,1.2%,-0.2%,0.9%,1.1%
+517,517,Friday,October,2021,,8,08:30 AM,CA,Average Hourly Wages YoY SEP,1,1.7%,1.25%,,1.6%
+520,520,Friday,October,2021,,8,08:30 AM,US,Nonfarm Payrolls Private SEP,1,317K,332K  ®,455K,445K
+521,521,Friday,October,2021,,8,08:30 AM,US,Average Hourly Earnings YoY SEP,1,4.6%,4%  ®,4.6%,4.7%
+522,522,Friday,October,2021,,8,08:30 AM,US,Average Hourly Earnings MoM SEP,1,0.6%,0.4%  ®,0.4%,0.5%
+523,523,Friday,October,2021,,8,08:30 AM,US,Average Weekly Hours SEP,1,34.8,34.6  ®,34.7,34.7
+524,524,Friday,October,2021,,8,08:30 AM,US,Government Payrolls SEP,1,-123K,34K  ®,,30K
+525,525,Friday,October,2021,,8,08:30 AM,US,Participation Rate SEP,1,61.6%,61.7%,,61.8%
+526,526,Friday,October,2021,,8,08:30 AM,US,Manufacturing Payrolls SEP,1,26K,31K  ®,25K,29K
+528,528,Friday,October,2021,,8,10:30 AM,US,NY Fed Treasury Purchases 0 to 2.25 yrs,1,,,$12.425B,
+529,529,Friday,October,2021,,8,11:00 AM,SV,Inflation Rate YoY SEP,1,4.97%,4.30%,,4.5%
+530,530,Friday,October,2021,,8,01:00 PM,US,Baker Hughes Oil Rig Count 08/OCT,1,433,428,,
+531,531,Friday,October,2021,,8,01:00 PM,US,Baker Hughes Total Rig Count 08/OCT,1,533,528,,

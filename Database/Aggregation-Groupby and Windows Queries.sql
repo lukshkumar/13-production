@@ -1,0 +1,58 @@
+SELECT "Id", "TickerId", "Date", "Open", "High", "Low", "Close", "Volume"
+	FROM public."TDAmeritradeDailyPrice";
+
+SELECT first_value("Open") as openn, max("High") as High, min("Low") as Low, sum("Volume") as Volume, date_part('week', "Date") as week,date_part('year', "Date") as year 
+from public."TDAmeritradeDailyPrice"
+where "TickerId" = 2 
+group by year, week
+order by year, week
+
+SELECT DISTINCT week as DateTime, 
+first_value("Open") OVER w as Open, 
+ max("High") OVER w as High,
+  min("Low") OVER w as Low,
+ last_value("Close") OVER w as Close,
+ sum("Volume") Over w as Volume
+FROM (SELECT *, date_trunc('week', "Date") as week
+from public."TDAmeritradeDailyPrice" where "TickerId" = 2) as foo
+WINDOW w AS (PARTITION BY week ORDER BY week)
+order by week
+
+SELECT DISTINCT week as "DateTime", 
+first_value("Open") OVER w as "Open", 
+ max("High") OVER w as "High",
+  min("Low") OVER w as "Low",
+ last_value("Close") OVER w as "Close",
+ sum("Volume") Over w as "Volume"
+FROM (SELECT *, date_bin('5 minutes', "Date" + "Time", TIMESTAMP '2001-01-01') as week
+from public."TDAmeritradeMinutePrice" where "TickerId" = 2) as foo
+WINDOW w AS (PARTITION BY week ORDER BY week)
+order by week
+
+SELECT *
+FROM (SELECT *, date_trunc('week', "Date") as week
+from public."TDAmeritradeDailyPrice" where "TickerId" = 2) as foo
+WINDOW w AS (PARTITION BY week ORDER BY week)
+
+SELECT max("High") as High, min("Low") as Low, sum("Volume") as Volume, date_trunc('hour', "Date" + "Time") as week
+from public."TDAmeritradeMinutePrice"
+where "TickerId" = 2 
+group by week
+order by week
+
+SELECT max("High") as High, min("Low") as Low, sum("Volume") as Volume, date_bin('10 days', "Date" + "Time", TIMESTAMP '2001-01-01') as week
+from public."TDAmeritradeMinutePrice"
+where "TickerId" = 2 
+group by week
+order by week
+
+select * from public."TDAmeritradeMinutePrice" where "TickerId" = 2 
+
+SELECT DISTINCT ON (week)
+max("High") as High, min("Low") as Low, sum("Volume") as Volume, week
+from (SELECT *, date_trunc('week', "Date") as week
+from public."TDAmeritradeDailyPrice" where "TickerId" = 2) as foo
+order by week
+
+(SELECT *, date_part('week', "Date") as week, date_part('year', "Date") as year
+from public."TDAmeritradeDailyPrice" where "TickerId" = 2)

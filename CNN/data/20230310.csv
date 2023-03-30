@@ -1,0 +1,2 @@
+date,timestamp,now,now_sentiment,previous_close,previous_close_sentiment,week_ago,week_ago_sentiment,month_ago,month_ago_sentiment,year_ago,year_ago_sentiment
+20230310,21:37:10,extreme fear,24,fear,34,neutral,53,greed,69,extreme fear,17

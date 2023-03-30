@@ -1,0 +1,59 @@
+{
+    "TOS":{
+        "name_of_the_event" : "Kia-Options-Data",
+        "time_start" : [2022, 6, 2, 1, 0, 0],
+        "time_end" : [2022, 6, 3, 23, 50, 15],
+        "time_zone" : "UTC",
+        "topics_to_fetch" : ["OPEN", "LOW", "HIGH", "LAST", "VOLUME"]
+        
+    },
+    "TOS-Daily":{
+        "topics_to_fetch" : ["OPEN", "LOW","HIGH","LAST","VOLUME"],
+        "items_to_fetch" : ["/ES:XCME", "/QM:XNYM","/NQ:XCME","$ADVN/Q","/ZB:XCBT","/VX:XCBF", "/MBT:XCME"],
+        "items_csv_filenames" : ["f_es","f_qm","f_nq","f_advn_q","f_zb","f_vx","f_mbt"],
+        "time_zone" : "America/New_York"
+        
+    },
+    "Quandl": {
+        "api_key" : "WW1i3KUcaUhpg8yqzYcW",
+        "time_to_fetch_data" : [12,0,0],
+        "next_fetch_date" : [2021,1,25],
+        "time_zone" : "EST"
+    },
+    "Quandl-Split": {
+        "time_to_fetch_data" : [14,0,0],
+        "next_fetch_date" : [2021,1,25],
+        "time_zone" : "EST"
+    },
+    "TDAmeritrade": {
+        "time_to_fetch_data" : [13,0,0],
+        "next_fetch_date" : [2021,1,25],
+        "time_zone" : "EST"
+    },
+    "TDAmeritrade-Split": {
+        "time_to_fetch_data" : [16,0,0],
+        "next_fetch_date" : [2021,1,25],
+        "time_zone" : "EST"
+    },
+    "ShortSqueeze": {
+        "year" :"2022",
+        "email" : "mordecai@projecthamburg.com",
+        "password" : "Summer14Qwerty14"
+    },
+    "WinSCP": {
+        "time_to_fetch_data" : [18,0,0],
+        "next_fetch_date" : [2022,2,26],
+        "time_zone" : "UTC"
+    },
+    "Yahoo": {
+        "time_to_fetch_data" : [1,0,0],
+        "next_fetch_date" : [2021,10,5],
+        "time_zone" : "EST"
+    },
+    "Colab": {
+        "email" : "contractor@projecthamburg.com",
+        "password" : "Stockchart123",
+        "url" : "https://colab.research.google.com/drive/1Mr2xBlV5lWydSRYMsRbBTPuDEn35m2bl"
+    }
+   
+}

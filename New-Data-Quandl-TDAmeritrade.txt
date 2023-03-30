@@ -1,0 +1,4 @@
+Quandl Data before: 26 Jan 2022 - Afterwards is new.
+TDAmeritrade: 2 Feb 2022 - Afterwards is new.
+TDAmeritrade Minute data is fetched till: DOWNLOADING TICKER COUNT:  55  : SYMBOL  ADP
+quandl data is not moved to server and is still remaining to be fetched.

@@ -1,0 +1,7 @@
+date,timestamp,now,now_sentiment,previous_close,previous_close_sentiment,week_ago,week_ago_sentiment,month_ago,month_ago_sentiment,year_ago,year_ago_sentiment
+20221109,14:59:31,neutral,55,greed,58,neutral,50,extreme fear,21,extreme greed,77
+20221109,15:00:19,neutral,55,greed,58,neutral,50,extreme fear,21,extreme greed,77
+20221109,15:00:53,neutral,55,greed,58,neutral,50,extreme fear,21,extreme greed,77
+20221109,15:01:18,neutral,55,greed,58,neutral,50,extreme fear,21,extreme greed,77
+20221109,15:01:39,neutral,55,greed,58,neutral,50,extreme fear,21,extreme greed,77
+20221109,15:01:59,neutral,55,greed,58,neutral,50,extreme fear,21,extreme greed,77

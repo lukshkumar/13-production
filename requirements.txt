@@ -1,0 +1,9 @@
+boto3
+textract-trp
+requests
+BeautifulSoup4
+yfinance
+SQLAlchemy
+psycopg2-binary
+html_table_parser
+html-table-parser-python3

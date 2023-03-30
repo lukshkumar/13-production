@@ -1,0 +1,2463 @@
+Day,Month,Year,Frequency,Date,Time,Country,Report,Priority,Actual,Previous,Consensus,Forecast
+Tuesday,February,2023,,28,07:30 PM,AU,GDP Growth Rate QoQ  Q4,1,,0.6%,,0.6%
+Tuesday,February,2023,,28,07:30 PM,AU,GDP Growth Rate YoY  Q4,1,,5.9%,,2.5%
+Tuesday,February,2023,,28,07:30 PM,AU,Monthly CPI Indicator  JAN,1,,8.4%,,
+Tuesday,February,2023,,28,07:30 PM,AU,GDP Capital Expenditure QoQ  Q4,1,,-0.2%,,
+Tuesday,February,2023,,28,07:30 PM,AU,GDP Final Consumption QoQ  Q4,1,,0.8%,,
+Tuesday,February,2023,,28,07:30 PM,AU,GDP Deflator QoQ  Q4,1,,0.2%,,
+Tuesday,February,2023,,28,07:30 PM,ID,S P Global Manufacturing PMI  FEB,1,,,,
+Monday,February,2023,,6,04:30 PM,AU,Ai Group Services Index  JAN,2,,45.6,,47.8
+Friday,February,2023,,17,11:00 AM,RU,Full Year GDP Growth  2023,2,,,,-3.7%
+Tuesday,February,2023,,28,04:30 PM,AU,Ai Group Manufacturing Index  FEB,2,,,,
+Wednesday,February,2023,,1,12:00 AM,IN,S P Global Manufacturing PMI  JAN,1,,57.8,57.4,56
+Wednesday,February,2023,,1,12:30 AM,AU,Commodity Prices YoY  JAN,1,,15.6%,,12.7%
+Wednesday,February,2023,,1,01:00 AM,RU,S P Global Manufacturing PMI  JAN,1,,53,,52.3
+Wednesday,February,2023,,1,02:00 AM,TR,Istanbul Chamber of Industry Manufacturing PMI  JAN,1,,48.1,,48.6
+Wednesday,February,2023,,1,03:15 AM,ES,S P Global Manufacturing PMI  JAN,1,,46.4,48,47.8
+Wednesday,February,2023,,1,03:45 AM,IT,S P Global Manufacturing PMI  JAN,1,,48.5,49.6,49.2
+Wednesday,February,2023,,1,03:50 AM,FR,S P Global Manufacturing PMI Final  JAN,1,,49.2,50.8,50.8
+Wednesday,February,2023,,1,03:55 AM,DE,S P Global Manufacturing PMI Final  JAN,1,,47.1,47,47
+Wednesday,February,2023,,1,04:00 AM,EA,S P Global Manufacturing PMI Final  JAN,1,,47.8,48.8,48.8
+Wednesday,February,2023,,1,04:00 AM,ZA,ABSA Manufacturing PMI  JAN,1,,53.1,,55
+Wednesday,February,2023,,1,04:30 AM,GB,S P Global/CIPS Manufacturing PMI Final  JAN,1,,45.3,46.7,46.7
+Wednesday,February,2023,,1,05:00 AM,EA,Unemployment Rate  DEC,1,,6.5%,6.5%,6.5%
+Wednesday,February,2023,,1,05:00 AM,EA,Inflation Rate YoY Flash  JAN,1,,9.2%,9%,8.7%
+Wednesday,February,2023,,1,05:00 AM,EA,Inflation Rate MoM Flash  JAN,1,,-0.4%,,-0.2%
+Wednesday,February,2023,,1,05:00 AM,EA,Core Inflation Rate YoY Flash  JAN,1,,5.2%,5.1%,5.5%
+Wednesday,February,2023,,1,05:00 AM,EA,CPI Flash  JAN,1,,120.52,,120.3
+Wednesday,February,2023,,1,05:00 AM,IT,Inflation Rate YoY Prel  JAN,1,,11.6%,10.1%,10.4%
+Wednesday,February,2023,,1,05:00 AM,IT,Inflation Rate MoM Prel  JAN,1,,0.3%,0.1%,0.5%
+Wednesday,February,2023,,1,05:00 AM,IT,Harmonised Inflation Rate YoY Prel  JAN,1,,12.3%,11%,11%
+Wednesday,February,2023,,1,05:00 AM,IT,Harmonised Inflation Rate MoM Prel  JAN,1,,0.2%,-1.5%,-1.1%
+Wednesday,February,2023,,1,05:00 AM,IT,CPI Prel  JAN,1,,119,,119.6
+Wednesday,February,2023,,1,05:30 AM,DE,10-Year Bund Auction,1,,2.25%,,
+Wednesday,February,2023,,1,06:10 AM,EU,6-Month Bill Auction,1,,2.556%,,
+Wednesday,February,2023,,1,06:10 AM,EU,3-Month Bill Auction,1,,2.194%,,
+Wednesday,February,2023,,1,07:00 AM,BR,PPI MoM  DEC,1,,-0.54%,,0.1%
+Wednesday,February,2023,,1,07:00 AM,BR,PPI YoY  DEC,1,,4.39%,,4.28%
+Wednesday,February,2023,,1,07:00 AM,MX,Business Confidence  JAN,1,,49.3,,49
+Wednesday,February,2023,,1,07:00 AM,US,MBA 30-Year Mortgage Rate  JAN/27,1,,6.2%,,
+Wednesday,February,2023,,1,07:00 AM,US,MBA Mortgage Applications  JAN/27,1,,7%,,
+Wednesday,February,2023,,1,07:00 AM,US,MBA Mortgage Refinance Index  JAN/27,1,,502.3,,
+Wednesday,February,2023,,1,07:00 AM,US,MBA Mortgage Market Index  JAN/27,1,,255.3,,
+Wednesday,February,2023,,1,07:00 AM,US,MBA Purchase Index  JAN/27,1,,205.4,,
+Wednesday,February,2023,,1,08:00 AM,BR,S P Global Manufacturing PMI  JAN,1,,44.2,,43
+Wednesday,February,2023,,1,08:15 AM,US,ADP Employment Change  JAN,1,,235K,170K,131K
+Wednesday,February,2023,,1,09:30 AM,CA,S P Global Manufacturing PMI  JAN,1,,49.2,,49
+Wednesday,February,2023,,1,09:45 AM,US,S P Global Manufacturing PMI Final  JAN,1,,46.2,,46.8
+Wednesday,February,2023,,1,10:00 AM,US,ISM Manufacturing PMI  JAN,1,,48.4,48,48
+Wednesday,February,2023,,1,10:00 AM,US,JOLTs Job Openings  DEC,1,,10.458M,10.23M,9.5M
+Wednesday,February,2023,,1,10:00 AM,US,ISM Manufacturing Employment  JAN,1,,51.4,49.5,51
+Wednesday,February,2023,,1,10:00 AM,US,Construction Spending MoM  DEC,1,,0.2%,0%,0.1%
+Wednesday,February,2023,,1,10:00 AM,US,ISM Manufacturing New Orders  JAN,1,,45.2,,45
+Wednesday,February,2023,,1,10:00 AM,US,JOLTs Job Quits  DEC,1,,4.173M,,4.19M
+Wednesday,February,2023,,1,10:00 AM,US,ISM Manufacturing Prices  JAN,1,,39.4,39.5,39
+Wednesday,February,2023,,1,10:30 AM,MX,S P Global Manufacturing PMI  JAN,1,,51.3,,50
+Wednesday,February,2023,,1,10:30 AM,US,EIA Gasoline Stocks Change  JAN/27,1,,1.763M,1M,
+Wednesday,February,2023,,1,10:30 AM,US,EIA Crude Oil Stocks Change  JAN/27,1,,0.533M,-1M,
+Wednesday,February,2023,,1,10:30 AM,US,EIA Distillate Stocks Change  JAN/27,1,,-0.507M,-1.8M,
+Wednesday,February,2023,,1,10:30 AM,US,EIA Heating Oil Stocks Change  JAN/27,1,,-0.234M,,
+Wednesday,February,2023,,1,10:30 AM,US,EIA Gasoline Production Change  JAN/27,1,,-0.034M,,
+Wednesday,February,2023,,1,10:30 AM,US,EIA Crude Oil Imports Change  JAN/27,1,,-1.791M,,
+Wednesday,February,2023,,1,10:30 AM,US,EIA Cushing Crude Oil Stocks Change  JAN/27,1,,4.267M,,
+Wednesday,February,2023,,1,10:30 AM,US,EIA Distillate Fuel Production Change  JAN/27,1,,-0.009M,,
+Wednesday,February,2023,,1,10:30 AM,US,EIA Refinery Crude Runs Change  JAN/27,1,,0.128M,,
+Wednesday,February,2023,,1,11:00 AM,RU,Industrial Production YoY  DEC,1,,-1.8%,-4.2%,-3.9%
+Wednesday,February,2023,,1,11:30 AM,US,17-Week Bill Auction,1,,4.620%,,
+Wednesday,February,2023,,1,01:00 PM,BR,Balance of Trade  JAN,1,,$4.8B,,$2.3B
+Wednesday,February,2023,,1,02:00 PM,SA,Interest Rate Decision,1,,5%,,5.25%
+Wednesday,February,2023,,1,02:00 PM,US,Fed Interest Rate Decision,1,,4.5%,4.625%,4.75%
+Wednesday,February,2023,,1,04:30 PM,BR,Interest Rate Decision,1,,13.75%,13.75%,13.75%
+Wednesday,February,2023,,1,06:00 PM,KR,Inflation Rate YoY  JAN,1,,5%,4.95%,4.8%
+Wednesday,February,2023,,1,06:00 PM,KR,Inflation Rate MoM  JAN,1,,0.2%,0.5%,0.1%
+Wednesday,February,2023,,1,06:00 PM,KR,CPI  JAN,1,,109.28,,109.7
+Wednesday,February,2023,,1,06:50 PM,JP,Foreign Bond Investment  JAN/28,1,,¥-344.2B,,
+Wednesday,February,2023,,1,06:50 PM,JP,Stock Investment by Foreigners  JAN/28,1,,¥-83B,,
+Wednesday,February,2023,,1,07:30 PM,AU,Building Permits MoM Prel  DEC,1,,-9.0%,,-2.3%
+Wednesday,February,2023,,1,07:30 PM,AU,Building Permits YoY Prel  DEC,1,,-15.1%,,-16%
+Wednesday,February,2023,,1,07:30 PM,AU,Private House Approvals MoM Prel  DEC,1,,-2.5%,,-0.7%
+Wednesday,February,2023,,1,10:35 PM,JP,10-Year JGB Auction,1,,0.500%,,
+Wednesday,February,2023,,1,,GB,Nationwide Housing Prices YoY  JAN,1,,2.8%,1.9%,2.5%
+Wednesday,February,2023,,1,,GB,Nationwide Housing Prices MoM  JAN,1,,-0.1%,-0.3%,-0.3%
+Wednesday,February,2023,,1,,IN,Union Budget 2023-24,1,,,,
+Wednesday,February,2023,,1,,IT,New Car Registrations YoY  JAN,1,,21%,,20.0%
+Wednesday,February,2023,,1,,ES,New Car Sales YoY  JAN,1,,-14.1%,,
+Wednesday,February,2023,,1,,ZA,Total New Vehicle Sales  JAN,1,,41.78K,,43.0K
+Wednesday,February,2023,,1,,AR,Tax Revenue  JAN,1,,ARS2307.48B,,ARS1958B
+Wednesday,February,2023,,1,,US,Total Vehicle Sales  JAN,1,,13.3M,,
+Thursday,February,2023,,2,02:00 AM,DE,Balance of Trade  DEC,1,,€11.1B,,€5.1B
+Thursday,February,2023,,2,02:00 AM,DE,Imports MoM s.a  DEC,1,,-3.3%,-0.8%,
+Thursday,February,2023,,2,02:00 AM,DE,Exports MoM s.a  DEC,1,,-0.3%,-3.3%,
+Thursday,February,2023,,2,02:00 AM,DE,Balance of Trade s.a  DEC,1,,€10.8B,€9.2B,
+Thursday,February,2023,,2,02:45 AM,FR,Budget Balance  DEC,1,,€-159.3B,,€ -157B
+Thursday,February,2023,,2,03:00 AM,BR,IPC-Fipe Inflation MoM  JAN,1,,0.54%,,0.4%
+Thursday,February,2023,,2,03:00 AM,ES,Unemployment Change  JAN,1,,-43.727K,,5K
+Thursday,February,2023,,2,03:00 AM,ES,Tourist Arrivals YoY  DEC,1,,29.2%,,20.0%
+Thursday,February,2023,,2,04:40 AM,ES,3-Year Bonos Auction,1,,2.81%,,
+Thursday,February,2023,,2,04:40 AM,ES,7-Year Index-Linked Obligacion Auction,1,,,,
+Thursday,February,2023,,2,04:40 AM,ES,20-Year Obligacion Auction,1,,,,
+Thursday,February,2023,,2,05:00 AM,FR,10-Year OAT Auction,1,,2.77%,,
+Thursday,February,2023,,2,06:00 AM,MX,Foreign Exchange Reserves  DEC,1,,$202.2B,,$203B
+Thursday,February,2023,,2,06:30 AM,TR,Foreign Exchange Reserves  JAN/27,1,,$79.15B,,
+Thursday,February,2023,,2,07:00 AM,GB,BoE Interest Rate Decision,1,,3.5%,4%,4%
+Thursday,February,2023,,2,07:00 AM,GB,MPC Meeting Minutes,1,,,,
+Thursday,February,2023,,2,07:00 AM,GB,BoE MPC Vote Cut,1,,0/9,0/9,
+Thursday,February,2023,,2,07:00 AM,GB,BoE MPC Vote Unchanged,1,,2/9,2/9,
+Thursday,February,2023,,2,07:00 AM,GB,BoE MPC Vote Hike,1,,7/9,7/9,
+Thursday,February,2023,,2,07:00 AM,GB,BoE Monetary Policy Report,1,,,,
+Thursday,February,2023,,2,07:30 AM,US,Challenger Job Cuts  JAN,1,,43.651K,,54K
+Thursday,February,2023,,2,08:00 AM,SG,SIPMM Manufacturing PMI  JAN,1,,49.7,,49.5
+Thursday,February,2023,,2,08:15 AM,EA,Deposit Facility Rate,1,,2%,2.5%,2.5%
+Thursday,February,2023,,2,08:15 AM,EA,ECB Interest Rate Decision,1,,2.5%,3%,3.0%
+Thursday,February,2023,,2,08:15 AM,EA,Marginal Lending Rate,1,,2.75%,,3.25%
+Thursday,February,2023,,2,08:30 AM,CA,Building Permits MoM  DEC,1,,14.1%,-5%,-1.8%
+Thursday,February,2023,,2,08:30 AM,US,Unit Labour Costs QoQ Prel  Q4,1,,2.4%,1.5%,1.7%
+Thursday,February,2023,,2,08:30 AM,US,Nonfarm Productivity QoQ Prel  Q4,1,,0.8%,2.4%,2.2%
+Thursday,February,2023,,2,08:30 AM,US,Initial Jobless Claims  JAN/28,1,,186K,200K,187.0K
+Thursday,February,2023,,2,08:30 AM,US,Jobless Claims 4-week Average  JAN/28,1,,197.5K,,199.0K
+Thursday,February,2023,,2,08:30 AM,US,Continuing Jobless Claims  JAN/21,1,,1675K,1677K,1680.0K
+Thursday,February,2023,,2,08:45 AM,EA,ECB Press Conference,1,,,,
+Thursday,February,2023,,2,10:00 AM,US,Factory Orders MoM  DEC,1,,-1.8%,2.3%,1.2%
+Thursday,February,2023,,2,10:00 AM,US,Factory Orders ex Transportation  DEC,1,,-0.8%,,-0.4%
+Thursday,February,2023,,2,10:15 AM,EA,ECB President Lagarde Speech,1,,,,
+Thursday,February,2023,,2,10:30 AM,US,EIA Natural Gas Stocks Change  JAN/27,1,,-91Bcf,,
+Thursday,February,2023,,2,11:30 AM,US,8-Week Bill Auction,1,,4.525%,,
+Thursday,February,2023,,2,11:30 AM,US,4-Week Bill Auction,1,,4.500%,,
+Thursday,February,2023,,2,12:00 PM,CA,10-Year Bond Auction,1,,3.062%,,
+Thursday,February,2023,,2,01:30 PM,EA,ECB President Lagarde Speech,1,,,,
+Thursday,February,2023,,2,04:00 PM,KR,Foreign Exchange Reserves  JAN,1,,$423.16B,,$425.0B
+Thursday,February,2023,,2,04:30 PM,AU,Ai Group Construction Index  JAN,1,,48.2,,49.5
+Thursday,February,2023,,2,05:00 PM,AU,Judo Bank Services PMI Final  JAN,1,,47.3,,48.3
+Thursday,February,2023,,2,05:00 PM,AU,Judo Bank Composite PMI Final  JAN,1,,47.5,,48.2
+Thursday,February,2023,,2,07:30 PM,AU,Home Loans MoM  DEC,1,,-3.8%,,-2.7%
+Thursday,February,2023,,2,07:30 PM,AU,Investment Lending for Homes  DEC,1,,-3.6%,,-2.4%
+Thursday,February,2023,,2,07:30 PM,JP,Jibun Bank Services PMI Final  JAN,1,,51.1,,52.4
+Thursday,February,2023,,2,07:30 PM,JP,Jibun Bank Composite PMI Final  JAN,1,,49.7,,50.8
+Thursday,February,2023,,2,07:30 PM,SG,S P Global PMI  JAN,1,,49.1,,49.2
+Thursday,February,2023,,2,08:45 PM,CN,Caixin Services PMI  JAN,1,,48,,52
+Thursday,February,2023,,2,08:45 PM,CN,Caixin Composite PMI  JAN,1,,48.3,,52.8
+Thursday,February,2023,,2,10:35 PM,JP,3-Month Bill Auction,1,,-0.1548%,,
+Thursday,February,2023,,2,,FR,New Car Registrations YoY  JAN,1,,-0.1%,,2.0%
+Thursday,February,2023,,2,,TR,Balance of Trade Prel  JAN,1,,$-10.38B,,
+Thursday,February,2023,,2,,TR,Exports Prel  JAN,1,,$22.92B,,
+Thursday,February,2023,,2,,TR,Imports Prel  JAN,1,,$33.3B,,
+Friday,February,2023,,3,12:00 AM,IN,S P Global Composite PMI  JAN,1,,59.4,,58
+Friday,February,2023,,3,12:00 AM,IN,S P Global Services PMI  JAN,1,,58.5,58.1,57
+Friday,February,2023,,3,12:00 AM,SG,Retail Sales MoM  DEC,1,,-3.7%,,0.4%
+Friday,February,2023,,3,12:00 AM,SG,Retail Sales YoY  DEC,1,,6.2%,,3.5%
+Friday,February,2023,,3,01:00 AM,RU,S P Global Services PMI  JAN,1,,45.9,,46.3
+Friday,February,2023,,3,01:00 AM,RU,S P Global Composite PMI  JAN,1,,48.0,,48.3
+Friday,February,2023,,3,02:00 AM,TR,Inflation Rate MoM  JAN,1,,1.18%,3.8%,0.9%
+Friday,February,2023,,3,02:00 AM,TR,Inflation Rate YoY  JAN,1,,64.27%,53.5%,61.0%
+Friday,February,2023,,3,02:00 AM,TR,PPI MoM  JAN,1,,-0.24%,,-0.1%
+Friday,February,2023,,3,02:00 AM,TR,PPI YoY  JAN,1,,97.72%,,91.0%
+Friday,February,2023,,3,02:00 AM,TR,CPI  JAN,1,,1128.45,,1229
+Friday,February,2023,,3,02:15 AM,ZA,S P Global PMI  JAN,1,,50.2,,50.7
+Friday,February,2023,,3,02:45 AM,FR,Industrial Production MoM  DEC,1,,2%,0.2%,0.6%
+Friday,February,2023,,3,03:15 AM,ES,S P Global Services PMI  JAN,1,,51.6,52.5,51.9
+Friday,February,2023,,3,03:15 AM,ES,S P Global Composite PMI  JAN,1,,49.9,,50.5
+Friday,February,2023,,3,03:45 AM,IT,S P Global Services PMI  JAN,1,,49.9,51,50.3
+Friday,February,2023,,3,03:45 AM,IT,S P Global Composite PMI  JAN,1,,49.6,,50
+Friday,February,2023,,3,03:50 AM,FR,S P Global Services PMI Final  JAN,1,,49.5,49.2,49.2
+Friday,February,2023,,3,03:50 AM,FR,S P Global Composite PMI Final  JAN,1,,49.1,49,49
+Friday,February,2023,,3,03:55 AM,DE,S P Global Services PMI Final  JAN,1,,49.2,50.4,50.4
+Friday,February,2023,,3,03:55 AM,DE,S P Global Composite PMI Final  JAN,1,,49,49.7,49.7
+Friday,February,2023,,3,04:00 AM,EA,S P Global Services PMI Final  JAN,1,,49.8,50.7,50.7
+Friday,February,2023,,3,04:00 AM,EA,S P Global Composite PMI Final  JAN,1,,49.3,50.2,50.2
+Friday,February,2023,,3,04:00 AM,EA,ECB Survey of Professional Forecasters,1,,,,
+Friday,February,2023,,3,04:00 AM,WL,FAO Food Price Index  JAN,1,,132.4,,
+Friday,February,2023,,3,04:30 AM,GB,S P Global/CIPS UK Services PMI Final  JAN,1,,49.9,48,48
+Friday,February,2023,,3,04:30 AM,GB,S P Global/CIPS Composite PMI Final  JAN,1,,49,47.8,47.8
+Friday,February,2023,,3,05:00 AM,EA,PPI MoM  DEC,1,,-0.9%,-0.4%,-1.2%
+Friday,February,2023,,3,05:00 AM,EA,PPI YoY  DEC,1,,27.1%,22.5%,24.8%
+Friday,February,2023,,3,06:30 AM,IN,Foreign Exchange Reserves  JAN/27,1,,$573.73B,,
+Friday,February,2023,,3,07:00 AM,BR,Industrial Production MoM  DEC,1,,-0.1%,0%,0.1%
+Friday,February,2023,,3,07:00 AM,BR,Industrial Production YoY  DEC,1,,0.9%,-1.2%,-1.1%
+Friday,February,2023,,3,07:00 AM,MX,Consumer Confidence  JAN,1,,42.5,,42
+Friday,February,2023,,3,07:15 AM,GB,BoE Pill Speech,1,,,,
+Friday,February,2023,,3,08:00 AM,BR,S P Global Services PMI  JAN,1,,51,,50
+Friday,February,2023,,3,08:00 AM,BR,S P Global Composite PMI  JAN,1,,49.1,,48
+Friday,February,2023,,3,08:00 AM,EA,ECB Elderson Speech,1,,,,
+Friday,February,2023,,3,08:30 AM,US,Unemployment Rate  JAN,1,,3.5%,3.6%,3.6%
+Friday,February,2023,,3,08:30 AM,US,Non Farm Payrolls  JAN,1,,223K,185K,190K
+Friday,February,2023,,3,08:30 AM,US,Participation Rate  JAN,1,,62.3%,,62.3%
+Friday,February,2023,,3,08:30 AM,US,Average Hourly Earnings MoM  JAN,1,,0.3%,0.3%,0.3%
+Friday,February,2023,,3,08:30 AM,US,Average Hourly Earnings YoY  JAN,1,,4.6%,4.3%,4.4%
+Friday,February,2023,,3,08:30 AM,US,Manufacturing Payrolls  JAN,1,,8K,5K,5K
+Friday,February,2023,,3,08:30 AM,US,Nonfarm Payrolls Private  JAN,1,,220K,180K,190K
+Friday,February,2023,,3,08:30 AM,US,Government Payrolls  JAN,1,,3K,,0K
+Friday,February,2023,,3,08:30 AM,US,Average Weekly Hours  JAN,1,,34.3,34.3,34.4
+Friday,February,2023,,3,09:45 AM,US,S P Global Services PMI Final  JAN,1,,44.7,46.6,46.6
+Friday,February,2023,,3,09:45 AM,US,S P Global Composite PMI Final  JAN,1,,45,46.6,46.6
+Friday,February,2023,,3,10:00 AM,US,ISM Non-Manufacturing PMI  JAN,1,,49.6,50.3,50.6
+Friday,February,2023,,3,10:00 AM,US,ISM Non-Manufacturing Employment  JAN,1,,49.8,,50
+Friday,February,2023,,3,10:00 AM,US,ISM Non-Manufacturing New Orders  JAN,1,,45.2,,47
+Friday,February,2023,,3,10:00 AM,US,ISM Non-Manufacturing Business Activity  JAN,1,,54.7,,52
+Friday,February,2023,,3,10:00 AM,US,ISM Non-Manufacturing Prices  JAN,1,,67.6,,66
+Friday,February,2023,,3,01:00 PM,US,Baker Hughes Oil Rig Count  FEB/03,1,,609,,
+Friday,February,2023,,3,01:00 PM,US,Baker Hughes Total Rig Count  FEB/03,1,,771,,
+Friday,February,2023,,3,,DE,New Car Registrations YoY  JAN,1,,38.1%,,22.0%
+Saturday,February,2023,,4,11:15 PM,SA,Riyad Bank PMI  JAN,1,,56.9,,56.6
+Sunday,February,2023,,5,07:00 PM,AU,TD-MI Inflation Gauge MoM  JAN,1,,0.2%,,0.3%
+Sunday,February,2023,,5,07:30 PM,AU,Retail Sales MoM Final  DEC,1,,1.4%,,
+Sunday,February,2023,,5,11:00 PM,ID,Full Year GDP Growth  2023,1,,,,5%
+Sunday,February,2023,,5,11:00 PM,ID,GDP Growth Rate QoQ  Q4,1,,1.81%,,1.6%
+Sunday,February,2023,,5,11:00 PM,ID,GDP Growth Rate YoY  Q4,1,,5.72%,,5.2%
+Monday,February,2023,,6,02:00 AM,DE,Factory Orders MoM  DEC,1,,-5.3%,,2.5%
+Monday,February,2023,,6,03:30 AM,EA,S P Global Construction PMI  JAN,1,,42.6,,43.1
+Monday,February,2023,,6,03:30 AM,FR,S P Global Construction PMI  JAN,1,,41,,44.5
+Monday,February,2023,,6,03:30 AM,DE,S P Global Construction PMI  JAN,1,,41.7,,43
+Monday,February,2023,,6,03:30 AM,IT,S P Global Construction PMI  JAN,1,,47,,
+Monday,February,2023,,6,04:00 AM,GB,New Car Sales YoY  JAN,1,,18.3%,,16.0%
+Monday,February,2023,,6,04:30 AM,GB,S P Global/CIPS Construction PMI  JAN,1,,48.8,,46.5
+Monday,February,2023,,6,05:00 AM,EA,Retail Sales MoM  DEC,1,,0.8%,-0.3%,-1.1%
+Monday,February,2023,,6,05:00 AM,EA,Retail Sales YoY  DEC,1,,-2.8%,,-1.8%
+Monday,February,2023,,6,05:00 AM,FR,Retail Sales MoM  DEC,1,,-1%,,0.5%
+Monday,February,2023,,6,05:00 AM,FR,Retail Sales YoY  DEC,1,,-0.6%,,-4.8%
+Monday,February,2023,,6,05:30 AM,DE,3-Month Bubill Auction,1,,2.1422%,,
+Monday,February,2023,,6,06:30 AM,BR,BCB Focus Market Readout,1,,,,
+Monday,February,2023,,6,08:00 AM,BR,Car Production MoM  JAN,1,,-11.3%,,1.2%
+Monday,February,2023,,6,08:00 AM,BR,New Car Registrations MoM  JAN,1,,6.3%,,1.1%
+Monday,February,2023,,6,09:00 AM,FR,3-Month BTF Auction,1,,,,
+Monday,February,2023,,6,09:00 AM,FR,12-Month BTF Auction,1,,,,
+Monday,February,2023,,6,09:00 AM,FR,6-Month BTF Auction,1,,,,
+Monday,February,2023,,6,10:00 AM,CA,Ivey PMI s.a  JAN,1,,33.4,,34
+Monday,February,2023,,6,11:30 AM,US,3-Month Bill Auction,1,,4.595%,,
+Monday,February,2023,,6,11:30 AM,US,6-Month Bill Auction,1,,4.68%,,
+Monday,February,2023,,6,04:30 PM,AU,Ai Group Services Index  JAN,1,,45.6,,47.8
+Monday,February,2023,,6,06:30 PM,JP,Household Spending MoM  DEC,1,,-0.9%,,-0.5%
+Monday,February,2023,,6,06:30 PM,JP,Household Spending YoY  DEC,1,,-1.2%,,0.5%
+Monday,February,2023,,6,06:30 PM,JP,Average Cash Earnings YoY  DEC,1,,0.5%,,1.0%
+Monday,February,2023,,6,06:30 PM,JP,Overtime Pay YoY  DEC,1,,,,
+Monday,February,2023,,6,06:50 PM,JP,Foreign Exchange Reserves  JAN,1,,,,
+Monday,February,2023,,6,07:01 PM,GB,BRC Retail Sales Monitor YoY  JAN,1,,6.5%,,
+Monday,February,2023,,6,07:30 PM,AU,Balance of Trade  DEC,1,,A$13.201B,,A$8.5B
+Monday,February,2023,,6,07:30 PM,AU,Exports MoM  DEC,1,,-0.4%,,
+Monday,February,2023,,6,07:30 PM,AU,Imports MoM  DEC,1,,-1.5%,,
+Monday,February,2023,,6,10:00 PM,ID,Foreign Exchange Reserves  JAN,1,,$137.2B,,
+Monday,February,2023,,6,10:30 PM,AU,RBA Interest Rate Decision,1,,3.1%,,3.3%
+Monday,February,2023,,6,10:35 PM,JP,30-Year JGB Auction,1,,1.649%,,
+Monday,February,2023,,6,,ES,Consumer Confidence  JAN,1,,68,,65
+Tuesday,February,2023,,7,12:00 AM,JP,Leading Economic Index Prel  DEC,1,,97.4,,98
+Tuesday,February,2023,,7,12:00 AM,JP,Coincident Index Prel  DEC,1,,99.3,,99.5
+Tuesday,February,2023,,7,01:00 AM,ZA,Foreign Exchange Reserves  JAN,1,,$60.57B,,
+Tuesday,February,2023,,7,02:00 AM,DE,Industrial Production MoM  DEC,1,,0.2%,,0.4%
+Tuesday,February,2023,,7,02:00 AM,GB,Halifax House Price Index MoM  JAN,1,,-1.5%,,
+Tuesday,February,2023,,7,02:00 AM,GB,Halifax House Price Index YoY  JAN,1,,2%,,
+Tuesday,February,2023,,7,02:45 AM,FR,Balance of Trade  DEC,1,,€-13.77B,,€ -7.9B
+Tuesday,February,2023,,7,02:45 AM,FR,Current Account  DEC,1,,€-6.8B,,€ -1.6B
+Tuesday,February,2023,,7,02:45 AM,FR,Exports  DEC,1,,€51.035B,,
+Tuesday,February,2023,,7,02:45 AM,FR,Imports  DEC,1,,€64.8B,,
+Tuesday,February,2023,,7,02:45 AM,FR,Private Non Farm Payrolls QoQ Prel  Q4,1,,0.6%,,19880%
+Tuesday,February,2023,,7,03:00 AM,FR,Foreign Exchange Reserves  JAN,1,,€237.68B,,
+Tuesday,February,2023,,7,03:00 AM,ES,Industrial Production YoY  DEC,1,,-1.1%,,3.4%
+Tuesday,February,2023,,7,04:00 AM,SG,Foreign Exchange Reserves  JAN,1,,S$388.3B,,S$387B
+Tuesday,February,2023,,7,04:40 AM,ES,12-Month Letras Auction,1,,2.983%,,
+Tuesday,February,2023,,7,04:40 AM,ES,6-Month Letras Auction,1,,2.584%,,
+Tuesday,February,2023,,7,05:00 AM,GB,5-Year Treasury Gilt Auction,1,,,,
+Tuesday,February,2023,,7,05:30 AM,DE,Index-Linked Bund Auction,1,,,,
+Tuesday,February,2023,,7,06:00 AM,BR,BCB Copom Meeting Minutes,1,,,,
+Tuesday,February,2023,,7,06:00 AM,GB,BBA Mortgage Rate  JAN,1,,6.41%,,6.6%
+Tuesday,February,2023,,7,07:00 AM,MX,Auto Production YoY  JAN,1,,4.5%,,4.1%
+Tuesday,February,2023,,7,07:00 AM,MX,Auto Exports YoY  JAN,1,,7%,,-5.4%
+Tuesday,February,2023,,7,07:00 AM,MX,Gross Fixed Investment YoY  NOV,1,,6.2%,,2.9%
+Tuesday,February,2023,,7,07:00 AM,MX,Gross Fixed Investment MoM  NOV,1,,1.4%,,-0.3%
+Tuesday,February,2023,,7,08:00 AM,RU,Foreign Exchange Reserves  JAN,1,,$582B,,$540B
+Tuesday,February,2023,,7,08:30 AM,CA,Balance of Trade  DEC,1,,C$-0.04B,,C$ 0.14B
+Tuesday,February,2023,,7,08:30 AM,CA,Exports  DEC,1,,,,C$64.6B
+Tuesday,February,2023,,7,08:30 AM,CA,Imports  DEC,1,,C$64.41B,,C$64.4B
+Tuesday,February,2023,,7,08:30 AM,US,Balance of Trade  DEC,1,,$-61.5B,$-68.7B,$-68.8B
+Tuesday,February,2023,,7,08:30 AM,US,Exports  DEC,1,,$251.9B,,$249.4B
+Tuesday,February,2023,,7,08:30 AM,US,Imports  DEC,1,,$313.4B,,$318.2B
+Tuesday,February,2023,,7,08:55 AM,US,Redbook YoY  FEB/04,1,,,,
+Tuesday,February,2023,,7,09:30 AM,TR,Treasury Cash Balance  JAN,1,,TRY-108.27B,,
+Tuesday,February,2023,,7,10:00 AM,US,IBD/TIPP Economic Optimism  FEB,1,,42.3,,
+Tuesday,February,2023,,7,12:45 PM,CA,BoC Gov Macklem Speech,1,,,,
+Tuesday,February,2023,,7,01:00 PM,US,3-Year Note Auction,1,,3.977%,,
+Tuesday,February,2023,,7,03:00 PM,US,Consumer Credit Change  DEC,1,,$27.96B,$24.5B,$ 23.4B
+Tuesday,February,2023,,7,04:30 PM,US,API Crude Oil Stock Change  FEB/03,1,,,,
+Tuesday,February,2023,,7,06:00 PM,KR,Current Account  DEC,1,,$-0.62B,,$0.2B
+Tuesday,February,2023,,7,06:50 PM,JP,Current Account  DEC,1,,¥1803.6B,,¥ -250B
+Tuesday,February,2023,,7,06:50 PM,JP,Bank Lending YoY  JAN,1,,2.7%,,2.6%
+Tuesday,February,2023,,7,07:30 PM,AU,RBA Chart Pack,1,,,,
+Tuesday,February,2023,,7,11:30 PM,IN,RBI Interest Rate Decision,1,,6.25%,6.5%,6.5%
+Tuesday,February,2023,,7,11:30 PM,IN,Cash Reserve Ratio,1,,4.5%,4.5%,4.5%
+Tuesday,February,2023,,7,,CN,Foreign Exchange Reserves  JAN,1,,$3.128T,,$3.12T
+Tuesday,February,2023,,7,,US,LMI Logistics Managers Index Current  JAN,1,,54.6,,
+Wednesday,February,2023,,8,12:00 AM,JP,Eco Watchers Survey Current  JAN,1,,47.9,,
+Wednesday,February,2023,,8,12:00 AM,JP,Eco Watchers Survey Outlook  JAN,1,,47.0,,
+Wednesday,February,2023,,8,04:00 AM,IT,Retail Sales MoM  DEC,1,,,,-0.2%
+Wednesday,February,2023,,8,04:00 AM,IT,Retail Sales YoY  DEC,1,,,,1.8%
+Wednesday,February,2023,,8,04:50 AM,RU,Vehicle Sales YoY  JAN,1,,-50.2%,,-48%
+Wednesday,February,2023,,8,05:30 AM,DE,7-Year Bund Auction,1,,,,
+Wednesday,February,2023,,8,07:00 AM,US,MBA 30-Year Mortgage Rate  FEB/03,1,,,,
+Wednesday,February,2023,,8,07:00 AM,US,MBA Mortgage Applications  FEB/03,1,,,,
+Wednesday,February,2023,,8,07:00 AM,US,MBA Mortgage Refinance Index  FEB/03,1,,,,
+Wednesday,February,2023,,8,07:00 AM,US,MBA Mortgage Market Index  FEB/03,1,,,,
+Wednesday,February,2023,,8,07:00 AM,US,MBA Purchase Index  FEB/03,1,,,,
+Wednesday,February,2023,,8,10:00 AM,US,Wholesale Inventories MoM  DEC,1,,0.9%,0.1%,0.1%
+Wednesday,February,2023,,8,10:30 AM,US,EIA Crude Oil Stocks Change  FEB/03,1,,,,
+Wednesday,February,2023,,8,10:30 AM,US,EIA Gasoline Stocks Change  FEB/03,1,,,,
+Wednesday,February,2023,,8,10:30 AM,US,EIA Cushing Crude Oil Stocks Change  FEB/03,1,,,,
+Wednesday,February,2023,,8,10:30 AM,US,EIA Distillate Fuel Production Change  FEB/03,1,,,,
+Wednesday,February,2023,,8,10:30 AM,US,EIA Distillate Stocks Change  FEB/03,1,,,,
+Wednesday,February,2023,,8,10:30 AM,US,EIA Heating Oil Stocks Change  FEB/03,1,,,,
+Wednesday,February,2023,,8,10:30 AM,US,EIA Gasoline Production Change  FEB/03,1,,,,
+Wednesday,February,2023,,8,10:30 AM,US,EIA Crude Oil Imports Change  FEB/03,1,,,,
+Wednesday,February,2023,,8,10:30 AM,US,EIA Refinery Crude Runs Change  FEB/03,1,,,,
+Wednesday,February,2023,,8,11:00 AM,RU,Inflation Rate MoM  JAN,1,,,,
+Wednesday,February,2023,,8,11:00 AM,RU,Inflation Rate YoY  JAN,1,,11.9%,,
+Wednesday,February,2023,,8,11:00 AM,RU,Unemployment Rate  DEC,1,,3.7%,4%,3.7%
+Wednesday,February,2023,,8,11:00 AM,RU,Retail Sales YoY  DEC,1,,-7.9%,-9.5%,-7.4%
+Wednesday,February,2023,,8,11:00 AM,RU,Real Wage Growth YoY  NOV,1,,0.4%,-1.6%,0.5%
+Wednesday,February,2023,,8,11:00 AM,RU,Business Confidence  JAN,1,,-4,,-4.1
+Wednesday,February,2023,,8,11:00 AM,RU,Corporate Profits  NOV,1,,RUB21.8T,,RUB 21.3T
+Wednesday,February,2023,,8,12:00 PM,CA,2-Year Bond Auction,1,,3.747%,,
+Wednesday,February,2023,,8,12:00 PM,US,WASDE Report,1,,,,
+Wednesday,February,2023,,8,01:00 PM,US,10-Year Note Auction,1,,3.575%,,
+Wednesday,February,2023,,8,02:00 PM,AR,Industrial Production YoY  DEC,1,,1.4%,,0.9%
+Wednesday,February,2023,,8,06:50 PM,JP,Foreign Bond Investment  FEB/04,1,,,,
+Wednesday,February,2023,,8,06:50 PM,JP,Stock Investment by Foreigners  FEB/04,1,,,,
+Wednesday,February,2023,,8,07:01 PM,GB,RICS House Price Balance  JAN,1,,-42%,,
+Wednesday,February,2023,,8,07:30 PM,AU,Building Permits MoM Final  DEC,1,,-9.0%,,
+Wednesday,February,2023,,8,07:30 PM,AU,Building Permits YoY Final  DEC,1,,-15.1%,,
+Wednesday,February,2023,,8,07:30 PM,AU,Private House Approvals MoM Final  DEC,1,,-2.5%,,
+Wednesday,February,2023,,8,10:35 PM,JP,6-Month Bill Auction,1,,-0.1007%,,
+Wednesday,February,2023,,8,,ZA,SACCI Business Confidence  JAN,1,,,,105
+Wednesday,February,2023,,8,,ZA,SACCI Business Confidence  DEC,1,,110.9,,108.6
+Wednesday,February,2023,,8,,RU,GDP YoY  DEC,1,,-4%,,-3.9%
+Thursday,February,2023,,9,01:00 AM,JP,Machine Tool Orders YoY  JAN,1,,1.0%,,
+Thursday,February,2023,,9,01:00 AM,SA,Industrial Production YoY  DEC,1,,8.6%,,6.1%
+Thursday,February,2023,,9,04:30 AM,ZA,Mining Production MoM  DEC,1,,-0.4%,,2.6%
+Thursday,February,2023,,9,04:30 AM,ZA,Mining Production YoY  DEC,1,,-9%,,2.6%
+Thursday,February,2023,,9,04:30 AM,ZA,Gold Production YoY  DEC,1,,-4.6%,,-10%
+Thursday,February,2023,,9,06:00 AM,ZA,Manufacturing Production MoM  DEC,1,,2%,,2%
+Thursday,February,2023,,9,06:00 AM,ZA,Manufacturing Production YoY  DEC,1,,-1.1%,,0.7%
+Thursday,February,2023,,9,06:30 AM,IN,M3 Money Supply YoY  JAN/27,1,,9.7%,,
+Thursday,February,2023,,9,06:30 AM,TR,Foreign Exchange Reserves  FEB/03,1,,,,
+Thursday,February,2023,,9,07:00 AM,BR,Inflation Rate YoY  JAN,1,,5.79%,,5.92%
+Thursday,February,2023,,9,07:00 AM,BR,Inflation Rate MoM  JAN,1,,0.62%,,0.58%
+Thursday,February,2023,,9,07:00 AM,BR,Retail Sales MoM  DEC,1,,-0.6%,,-0.4%
+Thursday,February,2023,,9,07:00 AM,BR,Retail Sales YoY  DEC,1,,1.5%,,1.1%
+Thursday,February,2023,,9,07:00 AM,MX,Inflation Rate MoM  JAN,1,,0.38%,,0.39%
+Thursday,February,2023,,9,07:00 AM,MX,Inflation Rate YoY  JAN,1,,7.82%,,7.68%
+Thursday,February,2023,,9,07:00 AM,MX,Core Inflation Rate YoY  JAN,1,,8.35%,,7.77%
+Thursday,February,2023,,9,07:00 AM,MX,Core Inflation Rate MoM  JAN,1,,,,0.35%
+Thursday,February,2023,,9,08:30 AM,US,Initial Jobless Claims  FEB/04,1,,,,
+Thursday,February,2023,,9,08:30 AM,US,Jobless Claims 4-week Average  FEB/04,1,,,,
+Thursday,February,2023,,9,08:30 AM,US,Continuing Jobless Claims  JAN/28,1,,,,
+Thursday,February,2023,,9,10:30 AM,US,EIA Natural Gas Stocks Change  FEB/03,1,,,,
+Thursday,February,2023,,9,11:30 AM,US,8-Week Bill Auction,1,,,,
+Thursday,February,2023,,9,11:30 AM,US,4-Week Bill Auction,1,,,,
+Thursday,February,2023,,9,01:00 PM,US,30-Year Bond Auction,1,,3.585%,,
+Thursday,February,2023,,9,02:00 PM,MX,Interest Rate Decision,1,,10.5%,,10.5%
+Thursday,February,2023,,9,06:50 PM,JP,PPI MoM  JAN,1,,,,
+Thursday,February,2023,,9,06:50 PM,JP,PPI YoY  JAN,1,,,,
+Thursday,February,2023,,9,07:30 PM,AU,RBA Statement on Monetary Policy,1,,,,
+Thursday,February,2023,,9,08:30 PM,CN,Inflation Rate YoY  JAN,1,,1.8%,,2%
+Thursday,February,2023,,9,08:30 PM,CN,Inflation Rate MoM  JAN,1,,0%,,0.6%
+Thursday,February,2023,,9,08:30 PM,CN,PPI YoY  JAN,1,,-0.7%,,-1.3%
+Thursday,February,2023,,9,10:35 PM,JP,3-Month Bill Auction,1,,,,
+Thursday,February,2023,,9,,EU,Special European Council Meeting,1,,,,
+Friday,February,2023,,10,02:00 AM,TR,Industrial Production YoY  DEC,1,,-1.3%,,3.1%
+Friday,February,2023,,10,02:00 AM,TR,Unemployment Rate  DEC,1,,10.2%,,10.5%
+Friday,February,2023,,10,02:00 AM,TR,Participation Rate  DEC,1,,54.1%,,53.6%
+Friday,February,2023,,10,02:00 AM,TR,Industrial Production MoM  DEC,1,,-1.1%,,0.2%
+Friday,February,2023,,10,02:00 AM,GB,GDP MoM  DEC,1,,0.1%,,-0.1%
+Friday,February,2023,,10,02:00 AM,GB,GDP Growth Rate QoQ Prel  Q4,1,,-0.3%,,0.1%
+Friday,February,2023,,10,02:00 AM,GB,GDP Growth Rate YoY Prel  Q4,1,,1.9%,,-0.2%
+Friday,February,2023,,10,02:00 AM,GB,Goods Trade Balance  DEC,1,,£-15.623B,,£ -17.8B
+Friday,February,2023,,10,02:00 AM,GB,Goods Trade Balance Non-EU  DEC,1,,£-4.666B,,£ -8.1B
+Friday,February,2023,,10,02:00 AM,GB,Industrial Production MoM  DEC,1,,-0.2%,,0.2%
+Friday,February,2023,,10,02:00 AM,GB,GDP 3-Month Avg  DEC,1,,-0.3%,,0.1%
+Friday,February,2023,,10,02:00 AM,GB,Manufacturing Production MoM  DEC,1,,-0.5%,,-0.2%
+Friday,February,2023,,10,02:00 AM,GB,Business Investment QoQ Prel  Q4,1,,-2.5%,,
+Friday,February,2023,,10,02:00 AM,GB,Business Investment YoY Prel  Q4,1,,1.3%,,
+Friday,February,2023,,10,02:00 AM,GB,Manufacturing Production YoY  DEC,1,,-5.9%,,-6.0%
+Friday,February,2023,,10,02:00 AM,GB,GDP YoY  DEC,1,,0.2%,,0.1%
+Friday,February,2023,,10,02:00 AM,GB,Industrial Production YoY  DEC,1,,-5.1%,,-5.0%
+Friday,February,2023,,10,02:00 AM,GB,Balance of Trade  DEC,1,,£-1.802B,,£ -2.8B
+Friday,February,2023,,10,02:00 AM,GB,Construction Orders YoY  Q4,1,,,,-10.4%
+Friday,February,2023,,10,02:00 AM,GB,Construction Output YoY  DEC,1,,4%,,2.9%
+Friday,February,2023,,10,04:00 AM,IT,Industrial Production MoM  DEC,1,,-0.3%,,0.2%
+Friday,February,2023,,10,04:00 AM,IT,Industrial Production YoY  DEC,1,,-3.7%,,-1.1%
+Friday,February,2023,,10,05:10 AM,IT,12-Month BOT Auction,1,,,,
+Friday,February,2023,,10,05:30 AM,RU,Interest Rate Decision,1,,,,
+Friday,February,2023,,10,06:30 AM,IN,Deposit Growth YoY  JAN/27,1,,10.6%,,
+Friday,February,2023,,10,06:30 AM,IN,Foreign Exchange Reserves  FEB/03,1,,,,
+Friday,February,2023,,10,06:30 AM,IN,Bank Loan Growth YoY  JAN/27,1,,16.5%,,
+Friday,February,2023,,10,07:00 AM,IN,Industrial Production YoY  DEC,1,,7.1%,,3.2%
+Friday,February,2023,,10,07:00 AM,IN,Manufacturing Production YoY  DEC,1,,6.1%,,4%
+Friday,February,2023,,10,07:00 AM,MX,Industrial Production MoM  DEC,1,,0%,,-0.5%
+Friday,February,2023,,10,07:00 AM,MX,Industrial Production YoY  DEC,1,,3.2%,,3.6%
+Friday,February,2023,,10,07:00 AM,RU,CBR Press Conference,1,,,,
+Friday,February,2023,,10,08:00 AM,GB,NIESR Monthly GDP Tracker  JAN,1,,0.1%,,0.2%
+Friday,February,2023,,10,08:30 AM,CA,Unemployment Rate  JAN,1,,5%,,5.2%
+Friday,February,2023,,10,08:30 AM,CA,Employment Change  JAN,1,,104K,,15K
+Friday,February,2023,,10,08:30 AM,CA,Full Time Employment Chg  JAN,1,,84.5K,,5K
+Friday,February,2023,,10,08:30 AM,CA,Participation Rate  JAN,1,,65%,,64.9%
+Friday,February,2023,,10,08:30 AM,CA,Part Time Employment Chg  JAN,1,,19.5K,,10K
+Friday,February,2023,,10,08:30 AM,CA,Average Hourly Wages YoY  JAN,1,,5.2%,,4.4%
+Friday,February,2023,,10,08:45 AM,DE,Current Account  DEC,1,,€16.9B,,€12.5B
+Friday,February,2023,,10,09:30 AM,BR,Business Confidence  FEB,1,,48.6,,48
+Friday,February,2023,,10,10:00 AM,US,Michigan Consumer Sentiment Prel  FEB,1,,64.9,65,
+Friday,February,2023,,10,10:00 AM,US,Michigan Consumer Expectations Prel  FEB,1,,62.7,,
+Friday,February,2023,,10,10:00 AM,US,Michigan Current Conditions Prel  FEB,1,,68.4,,
+Friday,February,2023,,10,10:00 AM,US,Michigan 5 Year Inflation Expectations Prel  FEB,1,,2.9%,,
+Friday,February,2023,,10,10:00 AM,US,Michigan Inflation Expectations Prel  FEB,1,,3.9%,,
+Friday,February,2023,,10,01:00 PM,US,Baker Hughes Oil Rig Count  FEB/10,1,,,,
+Friday,February,2023,,10,01:00 PM,US,Baker Hughes Total Rig Count  FEB/10,1,,,,
+Friday,February,2023,,10,02:00 PM,US,Monthly Budget Statement  JAN,1,,$-85B,,
+Friday,February,2023,,10,,CN,New Yuan Loans  JAN,1,,CNY1400B,,CNY4150B
+Friday,February,2023,,10,,CN,Outstanding Loan Growth YoY  JAN,1,,11.1%,,11.2%
+Friday,February,2023,,10,,CN,Total Social Financing  JAN,1,,CNY1310B,,CNY3100B
+Friday,February,2023,,10,,CN,M2 Money Supply YoY  JAN,1,,11.8%,,12.1%
+Friday,February,2023,,10,,DE,Inflation Rate YoY Prel  JAN,1,,8.6%,9.2%,9%
+Friday,February,2023,,10,,DE,Inflation Rate MoM Prel  JAN,1,,-0.8%,1.1%,0.9%
+Friday,February,2023,,10,,DE,Harmonised Inflation Rate MoM Prel  JAN,1,,-1.2%,1.4%,1.1%
+Friday,February,2023,,10,,DE,Harmonised Inflation Rate YoY Prel  JAN,1,,9.6%,10%,10%
+Friday,February,2023,,10,,ZA,State of the Nation Address,1,,,,
+Saturday,February,2023,,11,,CN,Current Account Prel  Q4,1,,$144.3,,$90B
+Sunday,February,2023,,12,,EA,Eurogroup Meeting,1,,,,
+Monday,February,2023,,13,02:00 AM,TR,Current Account  DEC,1,,$-3.666B,,$ -2.5B
+Monday,February,2023,,13,02:00 AM,TR,Retail Sales YoY  DEC,1,,12.1%,,2.8%
+Monday,February,2023,,13,02:00 AM,TR,Retail Sales MoM  DEC,1,,1.5%,,-0.4%
+Monday,February,2023,,13,06:30 AM,BR,BCB Focus Market Readout,1,,,,
+Monday,February,2023,,13,09:00 AM,FR,3-Month BTF Auction,1,,,,
+Monday,February,2023,,13,09:00 AM,FR,12-Month BTF Auction,1,,,,
+Monday,February,2023,,13,09:00 AM,FR,6-Month BTF Auction,1,,,,
+Monday,February,2023,,13,11:00 AM,US,Consumer Inflation Expectations  JAN,1,,5%,,4.7%
+Monday,February,2023,,13,11:30 AM,US,3-Month Bill Auction,1,,,,
+Monday,February,2023,,13,11:30 AM,US,6-Month Bill Auction,1,,,,
+Monday,February,2023,,13,06:50 PM,JP,GDP Growth Rate QoQ Prel  Q4,1,,-0.2%,,0.1%
+Monday,February,2023,,13,06:50 PM,JP,GDP Growth Annualized Prel  Q4,1,,-0.8%,,0.2%
+Monday,February,2023,,13,06:50 PM,JP,GDP External Demand QoQ Prel  Q4,1,,-0.6%,,-0.8%
+Monday,February,2023,,13,06:50 PM,JP,GDP Capital Expenditure QoQ Prel  Q4,1,,1.5%,,1.8%
+Monday,February,2023,,13,06:50 PM,JP,GDP Private Consumption QoQ Prel  Q4,1,,0.1%,,0.3%
+Monday,February,2023,,13,06:50 PM,JP,GDP Price Index YoY Prel  Q4,1,,-0.3%,,
+Monday,February,2023,,13,07:30 PM,AU,NAB Business Confidence  JAN,1,,-1,,1
+Monday,February,2023,,13,11:30 PM,JP,Industrial Production MoM Final  DEC,1,,0.2%,,-1.3%
+Monday,February,2023,,13,11:30 PM,JP,Industrial Production YoY Final  DEC,1,,-0.9%,,-2.0%
+Monday,February,2023,,13,11:30 PM,JP,Capacity Utilization MoM  DEC,1,,-1.4%,,95%
+Monday,February,2023,,13,,TR,Natural Gas Summit,1,,,,
+Monday,February,2023,,13,,IN,Passenger Vehicles Sales MoM  JAN,1,,-14.8%,,
+Monday,February,2023,,13,,ID,Motorbike Sales YoY  JAN,1,,,,
+Tuesday,February,2023,,14,01:30 AM,IN,WPI Inflation YoY  JAN,1,,4.95%,,4.9%
+Tuesday,February,2023,,14,01:30 AM,IN,WPI Food YoY  JAN,1,,-1.25%,,-1.3%
+Tuesday,February,2023,,14,01:30 AM,IN,WPI Fuel YoY  JAN,1,,18.09%,,18.2%
+Tuesday,February,2023,,14,01:30 AM,IN,WPI Manufacturing YoY  JAN,1,,3.37%,,3.3%
+Tuesday,February,2023,,14,02:00 AM,GB,Claimant Count Change  JAN,1,,19.7K,,
+Tuesday,February,2023,,14,02:00 AM,GB,Unemployment Rate  DEC,1,,3.7%,,3.80%
+Tuesday,February,2023,,14,02:00 AM,GB,Employment Change  NOV,1,,27K,,
+Tuesday,February,2023,,14,02:00 AM,GB,Average Earnings incl. Bonus (3Mo/Yr)  DEC,1,,6.4%,,6.4%
+Tuesday,February,2023,,14,02:00 AM,GB,HMRC Payrolls Change  JAN,1,,28K,,
+Tuesday,February,2023,,14,02:00 AM,GB,Average Earnings excl. Bonus (3Mo/Yr)  DEC,1,,6.4%,,6.4%
+Tuesday,February,2023,,14,04:40 AM,ES,3-Month Letras Auction,1,,2.182%,,
+Tuesday,February,2023,,14,05:00 AM,EA,Employment Change YoY Prel  Q4,1,,1.8%,,0.5%
+Tuesday,February,2023,,14,05:00 AM,EA,Employment Change QoQ Prel  Q4,1,,0.3%,,0.5%
+Tuesday,February,2023,,14,05:00 AM,EA,GDP Growth Rate QoQ 2nd Est  Q4,1,,0.3%,,
+Tuesday,February,2023,,14,05:00 AM,EA,GDP Growth Rate YoY 2nd Est  Q4,1,,2.3%,,
+Tuesday,February,2023,,14,05:00 AM,GB,10-Year Treasury Gilt Auction,1,,3.697%,,
+Tuesday,February,2023,,14,05:10 AM,IT,3-Year BTP Auction,1,,,,
+Tuesday,February,2023,,14,05:10 AM,IT,7-Year BTP Auction,1,,,,
+Tuesday,February,2023,,14,06:00 AM,US,NFIB Business Optimism Index  JAN,1,,89.8,,88
+Tuesday,February,2023,,14,07:00 AM,IN,Inflation Rate YoY  JAN,1,,5.72%,,5.7%
+Tuesday,February,2023,,14,07:00 AM,IN,Inflation Rate MoM  JAN,1,,-0.45%,,-0.3%
+Tuesday,February,2023,,14,08:30 AM,CA,New Motor Vehicle Sales  DEC,1,,123.87K,,90.9K
+Tuesday,February,2023,,14,08:30 AM,US,Inflation Rate YoY  JAN,1,,6.5%,,6.3%
+Tuesday,February,2023,,14,08:30 AM,US,Core Inflation Rate YoY  JAN,1,,5.7%,,5.5%
+Tuesday,February,2023,,14,08:30 AM,US,Core Inflation Rate MoM  JAN,1,,0.3%,,0.3%
+Tuesday,February,2023,,14,08:30 AM,US,Inflation Rate MoM  JAN,1,,-0.1%,,-0.1%
+Tuesday,February,2023,,14,08:30 AM,US,CPI  JAN,1,,296.797,,298
+Tuesday,February,2023,,14,08:55 AM,US,Redbook YoY  FEB/11,1,,,,
+Tuesday,February,2023,,14,02:00 PM,AR,Inflation Rate YoY  JAN,1,,94.8%,,98.3%
+Tuesday,February,2023,,14,02:00 PM,AR,Inflation Rate MoM  JAN,1,,5.1%,,5.7%
+Tuesday,February,2023,,14,04:00 PM,KR,Import Prices YoY  JAN,1,,9.1%,,
+Tuesday,February,2023,,14,04:00 PM,KR,Export Prices YoY  JAN,1,,,,
+Tuesday,February,2023,,14,04:30 PM,US,API Crude Oil Stock Change  FEB/10,1,,,,
+Tuesday,February,2023,,14,06:00 PM,KR,Unemployment Rate  JAN,1,,,,
+Tuesday,February,2023,,14,06:30 PM,AU,Westpac Consumer Confidence Change  FEB,1,,,,
+Tuesday,February,2023,,14,06:30 PM,AU,Westpac Consumer Confidence Index  FEB,1,,,,
+Tuesday,February,2023,,14,10:00 PM,ID,Consumer Confidence  JAN,1,,119.9,,
+Tuesday,February,2023,,14,11:00 PM,ID,Balance of Trade  JAN,1,,$3.89B,,$3.1B
+Tuesday,February,2023,,14,11:00 PM,ID,Exports YoY  JAN,1,,6.58%,,
+Tuesday,February,2023,,14,11:00 PM,ID,Imports YoY  JAN,1,,-6.61%,,
+Tuesday,February,2023,,14,11:30 PM,JP,Tertiary Industry Index MoM  DEC,1,,-0.2%,,
+Tuesday,February,2023,,14,,EU,ECOFIN Meeting,1,,,,
+Tuesday,February,2023,,14,,TR,Auto Production YoY  JAN,1,,8.2%,,
+Tuesday,February,2023,,14,,OP,OPEC Monthly Report,1,,,,
+Tuesday,February,2023,,14,,TR,Natural Gas Summit,1,,,,
+Wednesday,February,2023,,15,01:00 AM,SA,Wholesale Prices YoY  JAN,1,,3.0%,,3.7%
+Wednesday,February,2023,,15,01:00 AM,SA,Inflation Rate MoM  JAN,1,,0.3%,,
+Wednesday,February,2023,,15,01:00 AM,SA,Inflation Rate YoY  JAN,1,,3.3%,,
+Wednesday,February,2023,,15,02:00 AM,DE,Wholesale Prices MoM  JAN,1,,-1.6%,,
+Wednesday,February,2023,,15,02:00 AM,DE,Wholesale Prices YoY  JAN,1,,12.8%,,
+Wednesday,February,2023,,15,02:00 AM,GB,Inflation Rate YoY  JAN,1,,10.5%,,10.3%
+Wednesday,February,2023,,15,02:00 AM,GB,Inflation Rate MoM  JAN,1,,0.4%,,-0.3%
+Wednesday,February,2023,,15,02:00 AM,GB,Core Inflation Rate YoY  JAN,1,,6.3%,,
+Wednesday,February,2023,,15,02:00 AM,GB,PPI Core Output MoM  JAN,1,,0.1%,,-0.2%
+Wednesday,February,2023,,15,02:00 AM,GB,PPI Core Output YoY  JAN,1,,12.4%,,10.6%
+Wednesday,February,2023,,15,02:00 AM,GB,Core Inflation Rate MoM  JAN,1,,0.5%,,
+Wednesday,February,2023,,15,02:00 AM,GB,PPI Input MoM  JAN,1,,-1.1%,,-0.6%
+Wednesday,February,2023,,15,02:00 AM,GB,PPI Input YoY  JAN,1,,16.5%,,13.8%
+Wednesday,February,2023,,15,02:00 AM,GB,PPI Output MoM  JAN,1,,-0.8%,,-0.6%
+Wednesday,February,2023,,15,02:00 AM,GB,PPI Output YoY  JAN,1,,14.7%,,12.4%
+Wednesday,February,2023,,15,02:00 AM,GB,Labour Productivity QoQ Prel  Q4,1,,0.1%,,-0.3%
+Wednesday,February,2023,,15,02:00 AM,GB,Retail Price Index MoM  JAN,1,,0.6%,,
+Wednesday,February,2023,,15,02:00 AM,GB,Retail Price Index YoY  JAN,1,,13.4%,,
+Wednesday,February,2023,,15,03:00 AM,ZA,Inflation Rate MoM  JAN,1,,,,
+Wednesday,February,2023,,15,03:00 AM,ZA,Inflation Rate YoY  JAN,1,,7.2%,,
+Wednesday,February,2023,,15,03:00 AM,ZA,Core Inflation Rate YoY  JAN,1,,4.9%,,
+Wednesday,February,2023,,15,03:00 AM,ES,CPI  JAN,1,,109.9,,109.6
+Wednesday,February,2023,,15,03:00 AM,ES,Core Inflation Rate YoY  JAN,1,,7%,,7.5%
+Wednesday,February,2023,,15,03:00 AM,ES,Harmonised Inflation Rate MoM Final  JAN,1,,-0.1%,-0.5%,-0.5%
+Wednesday,February,2023,,15,03:00 AM,ES,Harmonised Inflation Rate YoY Final  JAN,1,,5.5%,5.8%,5.8%
+Wednesday,February,2023,,15,03:00 AM,ES,Inflation Rate YoY Final  JAN,1,,5.7%,5.8%,5.8%
+Wednesday,February,2023,,15,03:00 AM,ES,Inflation Rate MoM Final  JAN,1,,0.2%,-0.3%,-0.3%
+Wednesday,February,2023,,15,03:00 AM,TR,Budget Balance  JAN,1,,TRY-118.6B,,
+Wednesday,February,2023,,15,05:00 AM,EA,Balance of Trade  DEC,1,,,,€ -30.8B
+Wednesday,February,2023,,15,05:00 AM,EA,Industrial Production MoM  DEC,1,,1%,,0.3%
+Wednesday,February,2023,,15,05:00 AM,EA,Industrial Production YoY  DEC,1,,2%,,1.5%
+Wednesday,February,2023,,15,05:30 AM,DE,30-Year Bund Auction,1,,,,
+Wednesday,February,2023,,15,06:00 AM,ZA,Retail Sales YoY  DEC,1,,0.4%,,1.3%
+Wednesday,February,2023,,15,06:00 AM,ZA,Retail Sales MoM  DEC,1,,1.1%,,0.6%
+Wednesday,February,2023,,15,06:10 AM,EU,3-Month Bill Auction,1,,,,
+Wednesday,February,2023,,15,06:10 AM,EU,6-Month Bill Auction,1,,,,
+Wednesday,February,2023,,15,07:00 AM,US,MBA 30-Year Mortgage Rate  FEB/10,1,,,,
+Wednesday,February,2023,,15,07:00 AM,US,MBA Mortgage Applications  FEB/10,1,,,,
+Wednesday,February,2023,,15,07:00 AM,US,MBA Mortgage Refinance Index  FEB/10,1,,,,
+Wednesday,February,2023,,15,07:00 AM,US,MBA Mortgage Market Index  FEB/10,1,,,,
+Wednesday,February,2023,,15,07:00 AM,US,MBA Purchase Index  FEB/10,1,,,,
+Wednesday,February,2023,,15,07:20 AM,IN,Balance of Trade  JAN,1,,$-23.76B,,$-22.2B
+Wednesday,February,2023,,15,07:20 AM,IN,Exports  JAN,1,,$34.48B,,$32.3B
+Wednesday,February,2023,,15,07:20 AM,IN,Imports  JAN,1,,$58.24B,,$54.5B
+Wednesday,February,2023,,15,08:15 AM,CA,Housing Starts  JAN,1,,248.6K,,238K
+Wednesday,February,2023,,15,08:30 AM,CA,Manufacturing Sales MoM Final  DEC,1,,0%,,-1.8%
+Wednesday,February,2023,,15,08:30 AM,CA,Wholesale Sales MoM Final  DEC,1,,0.5%,-1.8%,-1.8%
+Wednesday,February,2023,,15,08:30 AM,US,Retail Sales MoM  JAN,1,,-1.1%,,-0.6%
+Wednesday,February,2023,,15,08:30 AM,US,Retail Sales Ex Autos MoM  JAN,1,,-1.1%,,-0.7%
+Wednesday,February,2023,,15,08:30 AM,US,NY Empire State Manufacturing Index  FEB,1,,-32.9,,
+Wednesday,February,2023,,15,08:30 AM,US,Retail Sales Ex Gas/Autos MoM  JAN,1,,-0.7%,,-0.4%
+Wednesday,February,2023,,15,08:30 AM,US,Retail Sales YoY  JAN,1,,6%,,4.5%
+Wednesday,February,2023,,15,09:15 AM,US,Industrial Production YoY  JAN,1,,1.6%,,
+Wednesday,February,2023,,15,09:15 AM,US,Industrial Production MoM  JAN,1,,-0.7%,,-0.9%
+Wednesday,February,2023,,15,09:15 AM,US,Manufacturing Production MoM  JAN,1,,-1.3%,,-1.6%
+Wednesday,February,2023,,15,09:15 AM,US,Capacity Utilization  JAN,1,,78.8%,,
+Wednesday,February,2023,,15,09:15 AM,US,Manufacturing Production YoY  JAN,1,,-0.5%,,-0.9%
+Wednesday,February,2023,,15,10:00 AM,US,Business Inventories MoM  DEC,1,,0.4%,,0.3%
+Wednesday,February,2023,,15,10:00 AM,US,NAHB Housing Market Index  FEB,1,,,,
+Wednesday,February,2023,,15,10:00 AM,US,Retail Inventories Ex Autos MoM  DEC,1,,-0.3%,,0.3%
+Wednesday,February,2023,,15,10:30 AM,US,EIA Crude Oil Stocks Change  FEB/10,1,,,,
+Wednesday,February,2023,,15,10:30 AM,US,EIA Gasoline Stocks Change  FEB/10,1,,,,
+Wednesday,February,2023,,15,10:30 AM,US,EIA Cushing Crude Oil Stocks Change  FEB/10,1,,,,
+Wednesday,February,2023,,15,10:30 AM,US,EIA Distillate Fuel Production Change  FEB/10,1,,,,
+Wednesday,February,2023,,15,10:30 AM,US,EIA Distillate Stocks Change  FEB/10,1,,,,
+Wednesday,February,2023,,15,10:30 AM,US,EIA Heating Oil Stocks Change  FEB/10,1,,,,
+Wednesday,February,2023,,15,10:30 AM,US,EIA Gasoline Production Change  FEB/10,1,,,,
+Wednesday,February,2023,,15,10:30 AM,US,EIA Crude Oil Imports Change  FEB/10,1,,,,
+Wednesday,February,2023,,15,10:30 AM,US,EIA Refinery Crude Runs Change  FEB/10,1,,,,
+Wednesday,February,2023,,15,12:00 PM,CA,3-Year Bond Auction,1,,,,
+Wednesday,February,2023,,15,01:00 PM,US,20-Year Bond Auction,1,,3.678%,,
+Wednesday,February,2023,,15,04:00 PM,US,Net Long-term TIC Flows  DEC,1,,,,
+Wednesday,February,2023,,15,04:00 PM,US,Foreign Bond Investment  DEC,1,,,,
+Wednesday,February,2023,,15,04:00 PM,US,Overall Net Capital Flows  DEC,1,,,,$ 23B
+Wednesday,February,2023,,15,06:50 PM,JP,Balance of Trade  JAN,1,,¥-1448.5B,,¥-1200.0B
+Wednesday,February,2023,,15,06:50 PM,JP,Machinery Orders MoM  DEC,1,,-8.3%,,-1.1%
+Wednesday,February,2023,,15,06:50 PM,JP,Machinery Orders YoY  DEC,1,,-3.7%,,
+Wednesday,February,2023,,15,06:50 PM,JP,Exports YoY  JAN,1,,11.5%,,
+Wednesday,February,2023,,15,06:50 PM,JP,Imports YoY  JAN,1,,20.6%,,
+Wednesday,February,2023,,15,06:50 PM,JP,Foreign Bond Investment  FEB/11,1,,,,
+Wednesday,February,2023,,15,06:50 PM,JP,Stock Investment by Foreigners  FEB/11,1,,,,
+Wednesday,February,2023,,15,07:00 PM,AU,Consumer Inflation Expectations  FEB,1,,,,
+Wednesday,February,2023,,15,07:30 PM,AU,Part Time Employment Chg  JAN,1,,-32.2K,,
+Wednesday,February,2023,,15,07:30 PM,AU,Unemployment Rate  JAN,1,,3.5%,,3.5%
+Wednesday,February,2023,,15,07:30 PM,AU,Employment Change  JAN,1,,-14.6K,,26K
+Wednesday,February,2023,,15,07:30 PM,AU,Full Time Employment Chg  JAN,1,,17.6K,,
+Wednesday,February,2023,,15,07:30 PM,AU,Participation Rate  JAN,1,,66.6%,,66.6%
+Wednesday,February,2023,,15,08:30 PM,CN,House Price Index YoY  JAN,1,,-1.5%,,-1.3%
+Wednesday,February,2023,,15,10:00 PM,ID,Retail Sales YoY  DEC,1,,1.3%,,3%
+Wednesday,February,2023,,15,10:35 PM,JP,5-Year JGB Auction,1,,0.393%,,
+Wednesday,February,2023,,15,10:35 PM,JP,52-Week Bill Auction,1,,-0.0616%,,
+Wednesday,February,2023,,15,,CN,FDI (YTD) YoY  JAN,1,,6.3%,,5%
+Wednesday,February,2023,,15,,ID,Car Sales YoY  JAN,1,,9.0%,,
+Wednesday,February,2023,,15,,AU,RBA Payments System Board Meeting,1,,,,
+Thursday,February,2023,,16,02:20 AM,ID,Loan Growth YoY  JAN,1,,11.35%,,
+Thursday,February,2023,,16,02:30 AM,ID,Interest Rate Decision,1,,5.75%,,6%
+Thursday,February,2023,,16,02:30 AM,ID,Lending Facility Rate  FEB,1,,6.5%,,6.75%
+Thursday,February,2023,,16,02:30 AM,ID,Deposit Facility Rate  FEB,1,,5%,,5.25%
+Thursday,February,2023,,16,04:00 AM,IT,Balance of Trade  DEC,1,,€1.445B,,€0.5B
+Thursday,February,2023,,16,04:00 AM,ES,Balance of Trade  DEC,1,,€-3.31B,,€ -7.8B
+Thursday,February,2023,,16,04:40 AM,ES,Obligacion Auction,1,,,,
+Thursday,February,2023,,16,04:40 AM,ES,Bonos Auction,1,,,,
+Thursday,February,2023,,16,05:00 AM,FR,3-Year BTAN Auction,1,,,,
+Thursday,February,2023,,16,05:00 AM,FR,5-Year BTAN Auction,1,,,,
+Thursday,February,2023,,16,06:00 AM,FR,10-Year Index-Linked OAT Auction,1,,,,
+Thursday,February,2023,,16,06:00 AM,ZA,Building Permits YoY  DEC,1,,8.7%,,6%
+Thursday,February,2023,,16,06:30 AM,TR,Foreign Exchange Reserves  FEB/10,1,,,,
+Thursday,February,2023,,16,07:00 AM,BR,IBC-BR Economic Activity  DEC,1,,-0.55%,,-0.1%
+Thursday,February,2023,,16,08:30 AM,CA,New Housing Price Index MoM  JAN,1,,,,-0.3%
+Thursday,February,2023,,16,08:30 AM,US,PPI MoM  JAN,1,,-0.5%,,-0.3%
+Thursday,February,2023,,16,08:30 AM,US,Building Permits Prel  JAN,1,,1.337M,,1.374M
+Thursday,February,2023,,16,08:30 AM,US,Housing Starts  JAN,1,,1.382M,,1.37M
+Thursday,February,2023,,16,08:30 AM,US,Philadelphia Fed Manufacturing Index  FEB,1,,-8.9,,-7
+Thursday,February,2023,,16,08:30 AM,US,Core PPI MoM  JAN,1,,0.1%,,
+Thursday,February,2023,,16,08:30 AM,US,Housing Starts MoM  JAN,1,,-1.4%,,-1.2%
+Thursday,February,2023,,16,08:30 AM,US,Building Permits MoM Prel  JAN,1,,-1.0%,,2.8%
+Thursday,February,2023,,16,08:30 AM,US,Initial Jobless Claims  FEB/11,1,,,,
+Thursday,February,2023,,16,08:30 AM,US,Jobless Claims 4-week Average  FEB/11,1,,,,
+Thursday,February,2023,,16,08:30 AM,US,Continuing Jobless Claims  FEB/04,1,,,,
+Thursday,February,2023,,16,08:30 AM,US,Philly Fed Prices Paid  FEB,1,,24.5,,
+Thursday,February,2023,,16,08:30 AM,US,Philly Fed CAPEX Index  FEB,1,,10.5,,
+Thursday,February,2023,,16,08:30 AM,US,Philly Fed Business Conditions  FEB,1,,4.9,,
+Thursday,February,2023,,16,08:30 AM,US,Philly Fed Employment  FEB,1,,10.9,,
+Thursday,February,2023,,16,08:30 AM,US,Core PPI YoY  JAN,1,,5.5%,,
+Thursday,February,2023,,16,08:30 AM,US,PPI YoY  JAN,1,,6.2%,,6%
+Thursday,February,2023,,16,08:30 AM,US,Philly Fed New Orders  FEB,1,,-10.9,,
+Thursday,February,2023,,16,10:30 AM,US,EIA Natural Gas Stocks Change  FEB/10,1,,,,
+Thursday,February,2023,,16,11:30 AM,US,8-Week Bill Auction,1,,,,
+Thursday,February,2023,,16,11:30 AM,US,4-Week Bill Auction,1,,,,
+Thursday,February,2023,,16,01:00 PM,US,30-Year TIPS Auction,1,,0.920%,,
+Thursday,February,2023,,16,05:30 PM,AU,RBA Gov Lowe Speech,1,,,,
+Thursday,February,2023,,16,07:30 PM,SG,Non-Oil Exports MoM  JAN,1,,-3.3%,,
+Thursday,February,2023,,16,07:30 PM,SG,Non-Oil Exports YoY  JAN,1,,-20.6%,,
+Thursday,February,2023,,16,08:30 PM,SG,Balance of Trade  JAN,1,,$5.367B,,
+Thursday,February,2023,,16,10:35 PM,JP,3-Month Bill Auction,1,,,,
+Friday,February,2023,,17,01:30 AM,FR,Unemployment Rate  Q4,1,,7.3%,,7.50%
+Friday,February,2023,,17,02:00 AM,EU,New Car Registrations YoY  JAN,1,,12.8%,,
+Friday,February,2023,,17,02:00 AM,GB,Retail Sales MoM  JAN,1,,-1%,,-1.8%
+Friday,February,2023,,17,02:00 AM,GB,Retail Sales YoY  JAN,1,,-5.8%,,
+Friday,February,2023,,17,02:00 AM,GB,Retail Sales ex Fuel MoM  JAN,1,,-1.1%,,
+Friday,February,2023,,17,02:00 AM,GB,Retail Sales ex Fuel YoY  JAN,1,,-6.1%,,
+Friday,February,2023,,17,02:45 AM,FR,Inflation Rate YoY Final  JAN,1,,5.9%,,
+Friday,February,2023,,17,02:45 AM,FR,Inflation Rate MoM Final  JAN,1,,-0.1%,,
+Friday,February,2023,,17,02:45 AM,FR,Harmonised Inflation Rate MoM Final  JAN,1,,-0.1%,,
+Friday,February,2023,,17,02:45 AM,FR,Harmonised Inflation Rate YoY Final  JAN,1,,6.7%,,
+Friday,February,2023,,17,04:00 AM,EA,Current Account s.a  DEC,1,,,,
+Friday,February,2023,,17,04:00 AM,EA,Current Account  DEC,1,,€13.41B,,€ -9B
+Friday,February,2023,,17,05:00 AM,IT,Current Account  DEC,1,,€446M,,€250
+Friday,February,2023,,17,06:30 AM,IN,Foreign Exchange Reserves  FEB/10,1,,,,
+Friday,February,2023,,17,08:30 AM,CA,New Housing Price Index YoY  JAN,1,,3.9%,,2.9%
+Friday,February,2023,,17,08:30 AM,CA,Foreign Securities Purchases by Canadians  DEC,1,,C$14.13B,,
+Friday,February,2023,,17,08:30 AM,CA,PPI MoM  JAN,1,,-1.1%,,-0.1%
+Friday,February,2023,,17,08:30 AM,CA,PPI YoY  JAN,1,,7.6%,,4.8%
+Friday,February,2023,,17,08:30 AM,CA,Raw Materials Prices MoM  JAN,1,,-3.1%,,0.4%
+Friday,February,2023,,17,08:30 AM,CA,Raw Materials Prices YoY  JAN,1,,7.5%,,6.2%
+Friday,February,2023,,17,08:30 AM,CA,Foreign Securities Purchases  DEC,1,,C$12.76B,,C$ 13.1B
+Friday,February,2023,,17,08:30 AM,US,Export Prices MoM  JAN,1,,-2.6%,,
+Friday,February,2023,,17,08:30 AM,US,Import Prices MoM  JAN,1,,0.4%,,0.3%
+Friday,February,2023,,17,08:30 AM,US,Import Prices YoY  JAN,1,,3.5%,,1.8%
+Friday,February,2023,,17,08:30 AM,US,Export Prices YoY  JAN,1,,5%,,
+Friday,February,2023,,17,10:00 AM,US,CB Leading Index MoM  JAN,1,,-1%,,
+Friday,February,2023,,17,11:00 AM,RU,Full Year GDP Growth  2023,1,,,,-3.7%
+Friday,February,2023,,17,01:00 PM,US,Baker Hughes Total Rig Count  FEB/17,1,,,,
+Friday,February,2023,,17,01:00 PM,US,Baker Hughes Oil Rig Count  FEB/17,1,,,,
+Saturday,February,2023,,18,,CN,Vehicle Sales YoY  JAN,1,,-8.4%,,-3%
+Sunday,February,2023,,19,07:00 PM,AU,Westpac Leading Index MoM  JAN,1,,-0.1%,,
+Sunday,February,2023,,19,08:15 PM,CN,Loan Prime Rate 1Y,1,,3.65%,,3.65%
+Sunday,February,2023,,19,08:15 PM,CN,Loan Prime Rate 5Y  FEB,1,,4.3%,,4.3%
+Monday,February,2023,,20,02:00 AM,DE,PPI MoM  JAN,1,,-0.4%,,
+Monday,February,2023,,20,02:00 AM,DE,PPI YoY  JAN,1,,21.6%,,
+Monday,February,2023,,20,02:00 AM,TR,Consumer Confidence  FEB,1,,79.1,,
+Monday,February,2023,,20,05:00 AM,EA,Construction Output YoY  DEC,1,,1.3%,,2.1%
+Monday,February,2023,,20,05:30 AM,DE,12-Month Bubill Auction,1,,,,
+Monday,February,2023,,20,09:00 AM,FR,3-Month BTF Auction,1,,,,
+Monday,February,2023,,20,09:00 AM,FR,12-Month BTF Auction,1,,,,
+Monday,February,2023,,20,09:00 AM,FR,6-Month BTF Auction,1,,,,
+Monday,February,2023,,20,09:30 AM,TR,Central Government Debt  JAN,1,,,,
+Monday,February,2023,,20,10:00 AM,EA,Consumer Confidence Flash  FEB,1,,-20.9,,-21.2
+Monday,February,2023,,20,04:00 PM,KR,Consumer Confidence  FEB,1,,,,
+Monday,February,2023,,20,05:00 PM,AU,Judo Bank Manufacturing PMI Flash  FEB,1,,,,
+Monday,February,2023,,20,05:00 PM,AU,Judo Bank Services PMI Flash  FEB,1,,,,
+Monday,February,2023,,20,05:00 PM,AU,Judo Bank Composite PMI Flash  FEB,1,,,,
+Monday,February,2023,,20,07:30 PM,AU,RBA Meeting Minutes,1,,,,
+Monday,February,2023,,20,07:30 PM,JP,Jibun Bank Manufacturing PMI Flash  FEB,1,,,,
+Monday,February,2023,,20,07:30 PM,JP,Jibun Bank Services PMI Flash  FEB,1,,,,
+Monday,February,2023,,20,07:30 PM,JP,Jibun Bank Composite PMI Flash  FEB,1,,,,
+Monday,February,2023,,20,10:35 PM,JP,20-Year JGB Auction,1,,1.341%,,
+Monday,February,2023,,20,,RU,Monetary Policy Report,1,,,,
+Monday,February,2023,,20,,BR,BCB Focus Market Readout,1,,,,
+Tuesday,February,2023,,21,01:00 AM,SA,Balance of Trade  DEC,1,,SAR50.1B,,SAR52.0B
+Tuesday,February,2023,,21,02:00 AM,ZA,Leading Business Cycle Indicator MoM  DEC,1,,0.1%,,0.3%
+Tuesday,February,2023,,21,02:00 AM,GB,Public Sector Net Borrowing Ex Banks  JAN,1,,£-27.4B,,£1.2B
+Tuesday,February,2023,,21,02:00 AM,GB,Public Sector Net Borrowing  JAN,1,,£-26.6B,,£2.2B
+Tuesday,February,2023,,21,03:15 AM,FR,S P Global Manufacturing PMI Flash  FEB,1,,,,
+Tuesday,February,2023,,21,03:15 AM,FR,S P Global Services PMI Flash  FEB,1,,,,
+Tuesday,February,2023,,21,03:15 AM,FR,S P Global Composite PMI Flash  FEB,1,,,,
+Tuesday,February,2023,,21,03:30 AM,DE,S P Global Services PMI Flash  FEB,1,,,,
+Tuesday,February,2023,,21,03:30 AM,DE,S P Global Manufacturing PMI Flash  FEB,1,,,,
+Tuesday,February,2023,,21,03:30 AM,DE,S P Global Composite PMI Flash  FEB,1,,,,
+Tuesday,February,2023,,21,04:00 AM,EA,S P Global Manufacturing PMI Flash  FEB,1,,,,
+Tuesday,February,2023,,21,04:00 AM,EA,S P Global Services PMI Flash  FEB,1,,,,
+Tuesday,February,2023,,21,04:00 AM,EA,S P Global Composite PMI Flash  FEB,1,,,,
+Tuesday,February,2023,,21,04:30 AM,ZA,Unemployment Rate  Q4,1,,32.9%,,33.2%
+Tuesday,February,2023,,21,04:30 AM,ZA,Unemployed Persons  Q4,1,,7.7M,,7.8M
+Tuesday,February,2023,,21,04:30 AM,GB,S P Global/CIPS Manufacturing PMI Flash  FEB,1,,,,46.7
+Tuesday,February,2023,,21,04:30 AM,GB,S P Global/CIPS UK Services PMI Flash  FEB,1,,,,49.3
+Tuesday,February,2023,,21,04:30 AM,GB,S P Global/CIPS Composite PMI Flash  FEB,1,,,,48.5
+Tuesday,February,2023,,21,05:00 AM,EA,ZEW Economic Sentiment Index  FEB,1,,16.7,,18.5
+Tuesday,February,2023,,21,05:00 AM,DE,ZEW Economic Sentiment Index  FEB,1,,16.9,,25.1
+Tuesday,February,2023,,21,05:00 AM,DE,ZEW Current Conditions  FEB,1,,,,
+Tuesday,February,2023,,21,05:30 AM,DE,5-Year Bobl Auction,1,,2.22%,,
+Tuesday,February,2023,,21,07:00 AM,MX,Retail Sales MoM  DEC,1,,-0.2%,,0.1%
+Tuesday,February,2023,,21,07:00 AM,MX,Retail Sales YoY  DEC,1,,,,2.8%
+Tuesday,February,2023,,21,08:30 AM,CA,Inflation Rate YoY  JAN,1,,6.3%,,5.6%
+Tuesday,February,2023,,21,08:30 AM,CA,Inflation Rate MoM  JAN,1,,-0.6%,,0.2%
+Tuesday,February,2023,,21,08:30 AM,CA,Retail Sales MoM  DEC,1,,-0.1%,,-0.3%
+Tuesday,February,2023,,21,08:30 AM,CA,Core Inflation Rate YoY  JAN,1,,5.4%,,4.7%
+Tuesday,February,2023,,21,08:30 AM,CA,Retail Sales Ex Autos MoM  DEC,1,,-0.6%,,-0.3%
+Tuesday,February,2023,,21,08:30 AM,CA,Core Inflation Rate MoM  JAN,1,,-0.3%,,0.1%
+Tuesday,February,2023,,21,08:30 AM,CA,CPI Median YoY  JAN,1,,5%,,4.9%
+Tuesday,February,2023,,21,08:30 AM,CA,CPI Trimmed-Mean YoY  JAN,1,,5.3%,,5.2%
+Tuesday,February,2023,,21,08:30 AM,CA,Retail Sales YoY  DEC,1,,5.2%,,3.5%
+Tuesday,February,2023,,21,08:55 AM,US,Redbook YoY  FEB/18,1,,,,
+Tuesday,February,2023,,21,09:45 AM,US,S P Global Manufacturing PMI Flash  FEB,1,,,,
+Tuesday,February,2023,,21,09:45 AM,US,S P Global Composite PMI Flash  FEB,1,,,,
+Tuesday,February,2023,,21,09:45 AM,US,S P Global Services PMI Flash  FEB,1,,,,
+Tuesday,February,2023,,21,10:00 AM,US,Existing Home Sales MoM  JAN,1,,-1.5%,,-0.2%
+Tuesday,February,2023,,21,10:00 AM,US,Existing Home Sales  JAN,1,,4.02M,,4M
+Tuesday,February,2023,,21,11:30 AM,US,52-Week Bill Auction,1,,,,
+Tuesday,February,2023,,21,11:30 AM,US,3-Month Bill Auction,1,,,,
+Tuesday,February,2023,,21,11:30 AM,US,6-Month Bill Auction,1,,,,
+Tuesday,February,2023,,21,01:00 PM,US,2-Year Note Auction,1,,,,
+Tuesday,February,2023,,21,04:00 PM,KR,Business Confidence  FEB,1,,,,
+Tuesday,February,2023,,21,06:00 PM,JP,Reuters Tankan Index  FEB,1,,,,
+Tuesday,February,2023,,21,07:30 PM,AU,Construction Work Done QoQ  Q4,1,,2.2%,,1.2%
+Tuesday,February,2023,,21,07:30 PM,AU,Wage Price Index YoY  Q4,1,,3.1%,,3.6%
+Tuesday,February,2023,,21,07:30 PM,AU,Wage Price Index QoQ  Q4,1,,1%,,1.1%
+Wednesday,February,2023,,22,01:30 AM,DE,North Rhine Westphalia CPI YoY  JAN,1,,8.7%,,
+Wednesday,February,2023,,22,01:30 AM,DE,North Rhine Westphalia CPI MoM  JAN,1,,-1%,,
+Wednesday,February,2023,,22,02:00 AM,DE,Inflation Rate YoY Final  JAN,1,,8.6%,,
+Wednesday,February,2023,,22,02:00 AM,DE,Inflation Rate MoM Final  JAN,1,,-0.8%,,
+Wednesday,February,2023,,22,02:00 AM,DE,CPI  JAN,1,,120.6,,
+Wednesday,February,2023,,22,02:00 AM,DE,Harmonised Inflation Rate MoM Final  JAN,1,,-1.2%,,
+Wednesday,February,2023,,22,02:00 AM,DE,Harmonised Inflation Rate YoY Final  JAN,1,,9.6%,,
+Wednesday,February,2023,,22,02:00 AM,TR,Business Confidence  FEB,1,,101.7,,
+Wednesday,February,2023,,22,02:00 AM,TR,Capacity Utilization  FEB,1,,75.3%,,
+Wednesday,February,2023,,22,02:45 AM,FR,Business Confidence  FEB,1,,103,,
+Wednesday,February,2023,,22,02:45 AM,FR,Business Climate Indicator  FEB,1,,102,,
+Wednesday,February,2023,,22,03:00 AM,EA,ECB Non-Monetary Policy Meeting,1,,,,
+Wednesday,February,2023,,22,04:00 AM,DE,Ifo Business Climate  FEB,1,,90.2,,
+Wednesday,February,2023,,22,04:00 AM,DE,Hesse CPI YoY  JAN,1,,8.1%,,
+Wednesday,February,2023,,22,04:00 AM,DE,Hesse CPI MoM  JAN,1,,-0.7%,,
+Wednesday,February,2023,,22,04:00 AM,DE,Ifo Current Conditions  FEB,1,,,,
+Wednesday,February,2023,,22,04:00 AM,DE,Ifo Expectations  FEB,1,,,,
+Wednesday,February,2023,,22,04:00 AM,DE,Baden Wuerttemberg CPI MoM  JAN,1,,-0.4%,,
+Wednesday,February,2023,,22,04:00 AM,DE,Baden Wuerttemberg CPI YoY  JAN,1,,8.5%,,
+Wednesday,February,2023,,22,04:00 AM,DE,Bavaria CPI YoY  JAN,1,,9.2%,,
+Wednesday,February,2023,,22,04:00 AM,DE,Bavaria CPI MoM  JAN,1,,-1.1%,,
+Wednesday,February,2023,,22,04:00 AM,DE,Brandenburg CPI YoY  JAN,1,,9.1%,,
+Wednesday,February,2023,,22,04:00 AM,DE,Brandenburg CPI MoM  JAN,1,,-0.6%,,
+Wednesday,February,2023,,22,04:00 AM,IT,Inflation Rate YoY Final  JAN,1,,11.6%,,
+Wednesday,February,2023,,22,04:00 AM,IT,Harmonised Inflation Rate YoY Final  JAN,1,,12.3%,,
+Wednesday,February,2023,,22,04:00 AM,IT,Inflation Rate MoM Final  JAN,1,,0.3%,,
+Wednesday,February,2023,,22,04:00 AM,IT,Harmonised Inflation Rate MoM Final  JAN,1,,0.2%,,
+Wednesday,February,2023,,22,05:00 AM,DE,Saxony CPI YoY  JAN,1,,8.7%,,
+Wednesday,February,2023,,22,05:00 AM,DE,Saxony CPI MoM  JAN,1,,-0.6%,,
+Wednesday,February,2023,,22,05:00 AM,IT,Construction Output YoY  DEC,1,,,,-3%
+Wednesday,February,2023,,22,05:00 AM,IT,CPI Final  JAN,1,,119,,
+Wednesday,February,2023,,22,05:10 AM,IT,Index-Linked BTP Auction,1,,,,
+Wednesday,February,2023,,22,05:10 AM,IT,BTP Short Term,1,,,,
+Wednesday,February,2023,,22,05:30 AM,DE,10-Year Bund Auction,1,,,,
+Wednesday,February,2023,,22,06:00 AM,GB,CBI Industrial Trends Orders  FEB,1,,-17,,-12
+Wednesday,February,2023,,22,07:00 AM,US,MBA 30-Year Mortgage Rate  FEB/17,1,,,,
+Wednesday,February,2023,,22,07:00 AM,US,MBA Mortgage Applications  FEB/17,1,,,,
+Wednesday,February,2023,,22,07:00 AM,US,MBA Mortgage Refinance Index  FEB/17,1,,,,
+Wednesday,February,2023,,22,07:00 AM,US,MBA Mortgage Market Index  FEB/17,1,,,,
+Wednesday,February,2023,,22,07:00 AM,US,MBA Purchase Index  FEB/17,1,,,,
+Wednesday,February,2023,,22,09:00 AM,AR,Leading Indicator MoM  JAN,1,,0.1%,,
+Wednesday,February,2023,,22,10:00 AM,RU,Industrial Production YoY  JAN,1,,,,
+Wednesday,February,2023,,22,11:00 AM,RU,PPI YoY  JAN,1,,-3.3%,,-4.0%
+Wednesday,February,2023,,22,11:00 AM,RU,PPI MoM  JAN,1,,,,
+Wednesday,February,2023,,22,11:30 AM,US,2-Year FRN Auction,1,,0.200%,,
+Wednesday,February,2023,,22,01:00 PM,US,5-Year Note Auction,1,,3.530%,,
+Wednesday,February,2023,,22,02:00 PM,AR,Balance of Trade  JAN,1,,$1102M,,$1159.0M
+Wednesday,February,2023,,22,02:00 PM,US,FOMC Minutes,1,,,,
+Wednesday,February,2023,,22,04:00 PM,KR,PPI YoY  JAN,1,,6%,,5.8%
+Wednesday,February,2023,,22,04:00 PM,KR,PPI MoM  JAN,1,,-0.3%,,-0.2%
+Wednesday,February,2023,,22,04:30 PM,US,API Crude Oil Stock Change  FEB/17,1,,,,
+Wednesday,February,2023,,22,06:50 PM,JP,Foreign Bond Investment  FEB/18,1,,,,
+Wednesday,February,2023,,22,06:50 PM,JP,Stock Investment by Foreigners  FEB/18,1,,,,
+Wednesday,February,2023,,22,07:30 PM,AU,Building Capital Expenditure QoQ  Q4,1,,0.5%,,
+Wednesday,February,2023,,22,07:30 PM,AU,Plant Machinery Capital Expenditure QoQ  Q4,1,,-1.6%,,
+Wednesday,February,2023,,22,07:30 PM,AU,Private Capital Expenditure QoQ  Q4,1,,-0.6%,,0.5%
+Wednesday,February,2023,,22,08:00 PM,KR,Interest Rate Decision,1,,3.5%,,3.75%
+Wednesday,February,2023,,22,09:10 PM,SG,Current Account  Q4,1,,$30.38B,,$28B
+Wednesday,February,2023,,22,10:00 PM,ID,Property Price Index YoY  Q4,1,,1.94%,,218%
+Wednesday,February,2023,,22,,ZA,Budget 2023,1,,,,
+Wednesday,February,2023,,22,,AR,Interest Rate Decision,1,,,,
+Thursday,February,2023,,23,12:00 AM,SG,CPI  JAN,1,,111.2,,111.1
+Thursday,February,2023,,23,12:00 AM,SG,Core Inflation Rate YoY  JAN,1,,5.1%,,5.0%
+Thursday,February,2023,,23,12:00 AM,SG,Inflation Rate YoY  JAN,1,,6.5%,,6.3%
+Thursday,February,2023,,23,12:00 AM,SG,Inflation Rate MoM  JAN,1,,0.2%,,0.2%
+Thursday,February,2023,,23,04:30 AM,ZA,PPI MoM  JAN,1,,0%,,
+Thursday,February,2023,,23,04:30 AM,ZA,PPI YoY  JAN,1,,13.5%,,
+Thursday,February,2023,,23,05:00 AM,EA,Inflation Rate YoY Final  JAN,1,,9.2%,,
+Thursday,February,2023,,23,05:00 AM,EA,Core Inflation Rate YoY Final  JAN,1,,5.2%,,
+Thursday,February,2023,,23,05:00 AM,EA,Inflation Rate MoM Final  JAN,1,,-0.4%,,
+Thursday,February,2023,,23,05:00 AM,EA,CPI Final  JAN,1,,120.52,,
+Thursday,February,2023,,23,05:10 AM,IT,6-Month BOT Auction,1,,,,
+Thursday,February,2023,,23,06:00 AM,CA,CFIB Business Barometer  FEB,1,,51.4,,
+Thursday,February,2023,,23,06:00 AM,TR,TCMB Interest Rate Decision,1,,9%,,9%
+Thursday,February,2023,,23,06:00 AM,TR,Overnight Borrowing Rate  FEB,1,,,,
+Thursday,February,2023,,23,06:00 AM,TR,Overnight Lending Rate  FEB,1,,,,
+Thursday,February,2023,,23,06:30 AM,IN,M3 Money Supply YoY  FEB/10,1,,,,
+Thursday,February,2023,,23,06:30 AM,TR,Foreign Exchange Reserves  FEB/17,1,,,,
+Thursday,February,2023,,23,07:00 AM,MX,Mid-month Core Inflation Rate MoM  FEB,1,,0.44%,,
+Thursday,February,2023,,23,07:00 AM,MX,Mid-month Inflation Rate YoY  FEB,1,,7.94%,,
+Thursday,February,2023,,23,07:00 AM,MX,Mid-month Inflation Rate MoM  FEB,1,,,,
+Thursday,February,2023,,23,08:30 AM,US,Chicago Fed National Activity Index  JAN,1,,-0.49,,
+Thursday,February,2023,,23,08:30 AM,US,GDP Price Index QoQ 2nd Est  Q4,1,,4.4%,,3.5%
+Thursday,February,2023,,23,08:30 AM,US,GDP Growth Rate QoQ 2nd Est  Q4,1,,3.2%,,2.8%
+Thursday,February,2023,,23,08:30 AM,US,Initial Jobless Claims  FEB/18,1,,,,
+Thursday,February,2023,,23,08:30 AM,US,Jobless Claims 4-week Average  FEB/18,1,,,,
+Thursday,February,2023,,23,08:30 AM,US,Continuing Jobless Claims  FEB/11,1,,,,
+Thursday,February,2023,,23,08:30 AM,US,PCE Prices QoQ 2nd Est  Q4,1,,,,3.2%
+Thursday,February,2023,,23,08:30 AM,US,Core PCE Prices QoQ 2nd Est  Q4,1,,,,3.9%
+Thursday,February,2023,,23,08:30 AM,US,Real Consumer Spending QoQ 2nd Est  Q4,1,,2.3%,,2.0%
+Thursday,February,2023,,23,08:30 AM,US,GDP Sales QoQ 2nd Est  Q4,1,,,,1.4%
+Thursday,February,2023,,23,09:00 AM,AR,Consumer Confidence  FEB,1,,39,,
+Thursday,February,2023,,23,10:00 AM,MX,Monetary Policy Meeting Minutes,1,,,,
+Thursday,February,2023,,23,10:30 AM,US,EIA Natural Gas Stocks Change  FEB/17,1,,,,
+Thursday,February,2023,,23,11:00 AM,US,EIA Crude Oil Stocks Change  FEB/17,1,,,,
+Thursday,February,2023,,23,11:00 AM,US,EIA Gasoline Stocks Change  FEB/17,1,,,,
+Thursday,February,2023,,23,11:00 AM,US,EIA Cushing Crude Oil Stocks Change  FEB/17,1,,,,
+Thursday,February,2023,,23,11:00 AM,US,EIA Distillate Fuel Production Change  FEB/17,1,,,,
+Thursday,February,2023,,23,11:00 AM,US,EIA Distillate Stocks Change  FEB/17,1,,,,
+Thursday,February,2023,,23,11:00 AM,US,EIA Heating Oil Stocks Change  FEB/17,1,,,,
+Thursday,February,2023,,23,11:00 AM,US,EIA Gasoline Production Change  FEB/17,1,,,,
+Thursday,February,2023,,23,11:00 AM,US,EIA Crude Oil Imports Change  FEB/17,1,,,,
+Thursday,February,2023,,23,11:00 AM,US,EIA Refinery Crude Runs Change  FEB/17,1,,,,
+Thursday,February,2023,,23,11:00 AM,US,Kansas Fed Composite Index  FEB,1,,,,
+Thursday,February,2023,,23,11:00 AM,US,Kansas Fed Manufacturing Index  FEB,1,,-4,,
+Thursday,February,2023,,23,11:30 AM,US,8-Week Bill Auction,1,,,,
+Thursday,February,2023,,23,11:30 AM,US,4-Week Bill Auction,1,,,,
+Thursday,February,2023,,23,12:00 PM,CA,10-Year Bond Auction,1,,,,
+Thursday,February,2023,,23,01:00 PM,US,7-Year Note Auction,1,,3.517%,,
+Thursday,February,2023,,23,02:00 PM,AR,Economic Activity YoY  DEC,1,,,,
+Thursday,February,2023,,23,06:30 PM,JP,Inflation Rate YoY  JAN,1,,4%,,4.1%
+Thursday,February,2023,,23,06:30 PM,JP,Core Inflation Rate YoY  JAN,1,,4%,,4%
+Thursday,February,2023,,23,06:30 PM,JP,Inflation Rate Ex-Food and Energy YoY  JAN,1,,3%,,3%
+Thursday,February,2023,,23,06:30 PM,JP,Inflation Rate MoM  JAN,1,,0.3%,,0.2%
+Thursday,February,2023,,23,07:01 PM,GB,Gfk Consumer Confidence  FEB,1,,-45,,-42
+Thursday,February,2023,,23,07:01 PM,GB,Car Production YoY  JAN,1,,,,
+Thursday,February,2023,,23,08:00 PM,SG,GDP Growth Rate YoY Final  Q4,1,,4.1%,2%,2.2%
+Thursday,February,2023,,23,09:00 PM,SG,GDP Growth Rate QoQ Final  Q4,1,,1.1%,,0.2%
+Thursday,February,2023,,23,10:35 PM,JP,3-Month Bill Auction,1,,,,
+Thursday,February,2023,,23,,BR,Federal Tax Revenues  JAN,1,,BRL210.2B,,BRL240.4B
+Friday,February,2023,,24,12:00 AM,SG,Industrial Production MoM  JAN,1,,3.2%,,
+Friday,February,2023,,24,12:00 AM,SG,Industrial Production YoY  JAN,1,,-3.1%,,
+Friday,February,2023,,24,02:00 AM,DE,GfK Consumer Confidence  MAR,1,,-33.9,,-34
+Friday,February,2023,,24,02:00 AM,DE,GDP Growth Rate QoQ Final  Q4,1,,0.5%,-0.2%,-0.2%
+Friday,February,2023,,24,02:00 AM,DE,GDP Growth Rate YoY Final  Q4,1,,1.4%,1.1%,1.1%
+Friday,February,2023,,24,02:00 AM,DE,Import Prices MoM  JAN,1,,,,
+Friday,February,2023,,24,02:00 AM,DE,Import Prices YoY  JAN,1,,,,
+Friday,February,2023,,24,02:45 AM,FR,Consumer Confidence  FEB,1,,80,,
+Friday,February,2023,,24,02:45 AM,FR,GDP Growth Rate QoQ Final  Q4,1,,0.2%,,
+Friday,February,2023,,24,02:45 AM,FR,GDP Growth Rate YoY Final  Q4,1,,1%,,
+Friday,February,2023,,24,03:00 AM,ES,PPI YoY  JAN,1,,14.7%,,14.3%
+Friday,February,2023,,24,03:00 AM,TR,Tourist Arrivals YoY  JAN,1,,,,
+Friday,February,2023,,24,05:10 AM,IT,5-Year BTP Auction,1,,,,
+Friday,February,2023,,24,05:10 AM,IT,10-Year BTP Auction,1,,,,
+Friday,February,2023,,24,06:00 AM,BR,FGV Consumer Confidence  FEB,1,,85.8,,85
+Friday,February,2023,,24,06:00 AM,GB,CBI Distributive Trades  FEB,1,,-23,,-14
+Friday,February,2023,,24,06:30 AM,IN,Deposit Growth YoY  FEB/10,1,,,,
+Friday,February,2023,,24,06:30 AM,IN,Foreign Exchange Reserves  FEB/17,1,,,,
+Friday,February,2023,,24,06:30 AM,IN,Bank Loan Growth YoY  FEB/10,1,,,,
+Friday,February,2023,,24,07:00 AM,BR,IPCA mid-month CPI YoY  FEB,1,,5.87%,,
+Friday,February,2023,,24,07:00 AM,BR,IPCA mid-month CPI MoM  FEB,1,,0.55%,,
+Friday,February,2023,,24,07:00 AM,MX,GDP Growth Rate QoQ Final  Q4,1,,0.9%,,0.4%
+Friday,February,2023,,24,07:00 AM,MX,GDP Growth Rate YoY Final  Q4,1,,4.3%,,2.3%
+Friday,February,2023,,24,07:00 AM,MX,Economic Activity MoM  DEC,1,,,,-0.2%
+Friday,February,2023,,24,07:00 AM,MX,Mid-month Core Inflation Rate YoY  FEB,1,,8.45%,,
+Friday,February,2023,,24,07:00 AM,MX,Economic Activity YoY  DEC,1,,,,2.9%
+Friday,February,2023,,24,07:30 AM,BR,Foreign Direct Investment  JAN,1,,$5.57B,,$ 7.1B
+Friday,February,2023,,24,07:30 AM,BR,Current Account  JAN,1,,$-10.878B,,$ -10.5B
+Friday,February,2023,,24,08:00 AM,US,Building Permits Final  JAN,1,,1.337M,,
+Friday,February,2023,,24,08:00 AM,US,Building Permits MoM Final  JAN,1,,-1.0%,,
+Friday,February,2023,,24,08:30 AM,CA,Manufacturing Sales MoM Prel  JAN,1,,,,
+Friday,February,2023,,24,08:30 AM,CA,Average Weekly Earnings YoY  DEC,1,,4.2%,,3.0%
+Friday,February,2023,,24,08:30 AM,CA,Wholesale Sales MoM Prel  JAN,1,,,,
+Friday,February,2023,,24,08:30 AM,US,Core PCE Price Index MoM  JAN,1,,0.3%,,
+Friday,February,2023,,24,08:30 AM,US,Personal Income MoM  JAN,1,,0.2%,,
+Friday,February,2023,,24,08:30 AM,US,Personal Spending MoM  JAN,1,,,,
+Friday,February,2023,,24,08:30 AM,US,PCE Price Index MoM  JAN,1,,0.1%,,
+Friday,February,2023,,24,08:30 AM,US,PCE Price Index YoY  JAN,1,,5%,,
+Friday,February,2023,,24,08:30 AM,US,Core PCE Price Index YoY  JAN,1,,4.4%,,
+Friday,February,2023,,24,10:00 AM,MX,Current Account  Q4,1,,,,$ 4324M
+Friday,February,2023,,24,10:00 AM,US,New Home Sales MoM  JAN,1,,2.3%,,0.4%
+Friday,February,2023,,24,10:00 AM,US,New Home Sales  JAN,1,,0.616M,,0.615M
+Friday,February,2023,,24,10:00 AM,US,Michigan Consumer Sentiment Final  FEB,1,,,,
+Friday,February,2023,,24,10:00 AM,US,Michigan Consumer Expectations Final  FEB,1,,,,
+Friday,February,2023,,24,10:00 AM,US,Michigan 5 Year Inflation Expectations Final  FEB,1,,2.9%,,
+Friday,February,2023,,24,10:00 AM,US,Michigan Current Conditions Final  FEB,1,,,,
+Friday,February,2023,,24,10:00 AM,US,Michigan Inflation Expectations Final  FEB,1,,3.9%,,
+Friday,February,2023,,24,11:00 AM,CA,Budget Balance  DEC,1,,C$-3.38B,,
+Friday,February,2023,,24,01:00 PM,US,Baker Hughes Oil Rig Count  FEB/24,1,,,,
+Friday,February,2023,,24,01:00 PM,US,Baker Hughes Total Rig Count  FEB/24,1,,,,
+Sunday,February,2023,,26,07:30 PM,AU,Company Gross Profits QoQ  Q4,1,,-12.4%,,
+Sunday,February,2023,,26,07:30 PM,AU,Business Inventories QoQ  Q4,1,,1.7%,,1.0%
+Monday,February,2023,,27,12:00 AM,JP,Leading Economic Index Final  DEC,1,,,,98
+Monday,February,2023,,27,12:00 AM,JP,Coincident Index Final  DEC,1,,99.3,,99.5
+Monday,February,2023,,27,02:00 AM,TR,Economic Confidence Index  FEB,1,,99.3,,100.1
+Monday,February,2023,,27,02:00 AM,TR,Balance of Trade Final  JAN,1,,,,
+Monday,February,2023,,27,02:00 AM,TR,Imports Final  JAN,1,,,,
+Monday,February,2023,,27,02:00 AM,TR,Exports Final  JAN,1,,,,
+Monday,February,2023,,27,04:00 AM,EA,Loans to Households YoY  JAN,1,,3.8%,,
+Monday,February,2023,,27,04:00 AM,EA,Loans to Companies YoY  JAN,1,,6.3%,,
+Monday,February,2023,,27,04:00 AM,EA,M3 Money Supply YoY  JAN,1,,4.1%,,
+Monday,February,2023,,27,04:00 AM,IT,Business Confidence  FEB,1,,102.7,,
+Monday,February,2023,,27,04:00 AM,IT,Consumer Confidence  FEB,1,,100.9,,
+Monday,February,2023,,27,05:00 AM,EA,Economic Sentiment  FEB,1,,99.9,,100.5
+Monday,February,2023,,27,05:00 AM,EA,Industrial Sentiment  FEB,1,,1.3,,2.1
+Monday,February,2023,,27,05:00 AM,EA,Services Sentiment  FEB,1,,10.7,,11
+Monday,February,2023,,27,05:00 AM,EA,Consumer Confidence Final  FEB,1,,-20.9,,
+Monday,February,2023,,27,05:00 AM,EA,Consumer Inflation Expectations  FEB,1,,17.7,,15
+Monday,February,2023,,27,05:00 AM,EA,Selling Price Expectations  FEB,1,,31.9,,25
+Monday,February,2023,,27,05:45 AM,EU,EU Bond Auction,1,,,,
+Monday,February,2023,,27,06:00 AM,FR,Unemployment Benefit Claims  JAN,1,,6.2K,,8.0K
+Monday,February,2023,,27,06:00 AM,FR,Jobseekers Total  JAN,1,,2817K,,2825.0K
+Monday,February,2023,,27,07:00 AM,BR,IGP-M Inflation MoM  FEB,1,,0.21%,,0.29%
+Monday,February,2023,,27,07:00 AM,MX,Balance of Trade  JAN,1,,$0.984B,,$ -3.55B
+Monday,February,2023,,27,07:00 AM,ES,Business Confidence  FEB,1,,-4.3,,
+Monday,February,2023,,27,07:30 AM,BR,Bank Lending MoM  JAN,1,,1.3%,,1.1%
+Monday,February,2023,,27,08:30 AM,CA,Current Account  Q4,1,,C$-11.1B,,C$ -18B
+Monday,February,2023,,27,08:30 AM,US,Durable Goods Orders MoM  JAN,1,,5.6%,,
+Monday,February,2023,,27,08:30 AM,US,Durable Goods Orders Ex Transp MoM  JAN,1,,-0.1%,,
+Monday,February,2023,,27,08:30 AM,US,Durable Goods Orders ex Defense MoM  JAN,1,,6.3%,,
+Monday,February,2023,,27,08:30 AM,US,Non Defense Goods Orders Ex Air  JAN,1,,-0.2%,,
+Monday,February,2023,,27,09:00 AM,FR,3-Month BTF Auction,1,,,,
+Monday,February,2023,,27,09:00 AM,FR,12-Month BTF Auction,1,,,,
+Monday,February,2023,,27,09:00 AM,FR,6-Month BTF Auction,1,,,,
+Monday,February,2023,,27,10:00 AM,US,Pending Home Sales YoY  JAN,1,,-33.8%,,-28.0%
+Monday,February,2023,,27,10:00 AM,US,Pending Home Sales MoM  JAN,1,,2.5%,,1.3%
+Monday,February,2023,,27,10:30 AM,US,Dallas Fed Manufacturing Index  FEB,1,,-8.4,,
+Monday,February,2023,,27,11:30 AM,US,3-Month Bill Auction,1,,,,
+Monday,February,2023,,27,11:30 AM,US,6-Month Bill Auction,1,,,,
+Monday,February,2023,,27,02:00 PM,AR,Retail Sales YoY  DEC,1,,,,30%
+Monday,February,2023,,27,06:50 PM,JP,Industrial Production MoM Prel  JAN,1,,,,
+Monday,February,2023,,27,06:50 PM,JP,Retail Sales YoY  JAN,1,,,,
+Monday,February,2023,,27,06:50 PM,JP,Industrial Production YoY Prel  JAN,1,,,,
+Monday,February,2023,,27,06:50 PM,JP,Retail Sales MoM  JAN,1,,,,
+Monday,February,2023,,27,07:30 PM,AU,Retail Sales MoM Prel  JAN,1,,,,
+Monday,February,2023,,27,07:30 PM,AU,Housing Credit MoM  JAN,1,,,,
+Monday,February,2023,,27,07:30 PM,AU,Private Sector Credit MoM  JAN,1,,,,
+Monday,February,2023,,27,07:30 PM,AU,Private Sector Credit YoY  JAN,1,,,,
+Monday,February,2023,,27,07:30 PM,AU,Current Account  Q4,1,,A$-2.3B,,A$ 9.6B
+Monday,February,2023,,27,09:00 PM,SG,Bank Lending  JAN,1,,,,
+Monday,February,2023,,27,10:35 PM,JP,2-Year JGB Auction,1,,,,
+Monday,February,2023,,27,,BR,BCB Focus Market Readout,1,,,,
+Monday,February,2023,,27,,AU,CoreLogic Dwelling Prices MoM  FEB,1,,,,
+Tuesday,February,2023,,28,12:00 AM,JP,Housing Starts YoY  JAN,1,,,,
+Tuesday,February,2023,,28,12:00 AM,JP,Construction Orders YoY  JAN,1,,,,
+Tuesday,February,2023,,28,12:00 AM,SG,Export Prices YoY  JAN,1,,-0.1%,,
+Tuesday,February,2023,,28,12:00 AM,SG,PPI YoY  JAN,1,,2.4%,,
+Tuesday,February,2023,,28,12:00 AM,SG,Import Prices YoY  JAN,1,,1.2%,,
+Tuesday,February,2023,,28,01:00 AM,ZA,M3 Money Supply YoY  JAN,1,,,,
+Tuesday,February,2023,,28,01:00 AM,ZA,Private Sector Credit YoY  JAN,1,,,,
+Tuesday,February,2023,,28,02:00 AM,TR,GDP Growth Rate YoY  Q4,1,,,,4.4%
+Tuesday,February,2023,,28,02:00 AM,TR,GDP Growth Rate QoQ  Q4,1,,,,-0.3%
+Tuesday,February,2023,,28,02:45 AM,FR,Inflation Rate YoY Prel  FEB,1,,,,
+Tuesday,February,2023,,28,02:45 AM,FR,Inflation Rate MoM Prel  FEB,1,,,,
+Tuesday,February,2023,,28,02:45 AM,FR,Household Consumption MoM  JAN,1,,,,
+Tuesday,February,2023,,28,02:45 AM,FR,PPI MoM  JAN,1,,,,
+Tuesday,February,2023,,28,02:45 AM,FR,PPI YoY  JAN,1,,,,
+Tuesday,February,2023,,28,02:45 AM,FR,Harmonised Inflation Rate MoM Prel  FEB,1,,,,
+Tuesday,February,2023,,28,02:45 AM,FR,Harmonised Inflation Rate YoY Prel  FEB,1,,,,
+Tuesday,February,2023,,28,03:00 AM,ES,Inflation Rate YoY Prel  FEB,1,,,,
+Tuesday,February,2023,,28,03:00 AM,ES,Inflation Rate MoM Prel  FEB,1,,,,
+Tuesday,February,2023,,28,03:00 AM,ES,Harmonised Inflation Rate MoM Prel  FEB,1,,,,
+Tuesday,February,2023,,28,03:00 AM,ES,Harmonised Inflation Rate YoY Prel  FEB,1,,,,
+Tuesday,February,2023,,28,04:00 AM,IT,Industrial Sales MoM  DEC,1,,,,
+Tuesday,February,2023,,28,04:00 AM,IT,Industrial Sales YoY  DEC,1,,,,
+Tuesday,February,2023,,28,04:00 AM,ES,Current Account  DEC,1,,,,€ -0.32B
+Tuesday,February,2023,,28,05:30 AM,DE,2-Year Schatz Auction,1,,,,
+Tuesday,February,2023,,28,05:30 AM,IN,Government Budget Value  JAN,1,,,,
+Tuesday,February,2023,,28,06:30 AM,IN,Infrastructure Output YoY  JAN,1,,,,
+Tuesday,February,2023,,28,07:00 AM,BR,Unemployment Rate  DEC,1,,8.1%,,8.3%
+Tuesday,February,2023,,28,07:00 AM,IN,GDP Growth Rate YoY  Q4,1,,6.3%,,4.4%
+Tuesday,February,2023,,28,07:00 AM,IN,Fiscal Year GDP Growth Final  2021-22,1,,-6.6%,,8.7%
+Tuesday,February,2023,,28,07:00 AM,IN,Fiscal Year GDP Growth 2nd Est  2023-22,1,,8.7%,,7%
+Tuesday,February,2023,,28,07:00 AM,ZA,Balance of Trade  JAN,1,,,,
+Tuesday,February,2023,,28,07:30 AM,BR,Nominal Budget Balance  JAN,1,,BRL-70.821B,,BRL 28.2B
+Tuesday,February,2023,,28,07:30 AM,BR,Gross Debt to GDP  JAN,1,,73.5%,,73.7%
+Tuesday,February,2023,,28,08:00 AM,RU,M2 Money Supply YoY  JAN,1,,,,
+Tuesday,February,2023,,28,08:30 AM,CA,GDP Growth Rate QoQ  Q4,1,,0.7%,,0.2%
+Tuesday,February,2023,,28,08:30 AM,CA,GDP Growth Rate Annualized  Q4,1,,2.9%,,0.7%
+Tuesday,February,2023,,28,08:30 AM,CA,GDP MoM  DEC,1,,,,
+Tuesday,February,2023,,28,08:30 AM,CA,GDP MoM Prel  JAN,1,,,,
+Tuesday,February,2023,,28,08:30 AM,CA,GDP Implicit Price QoQ  Q4,1,,-1.4%,,-0.8%
+Tuesday,February,2023,,28,08:30 AM,US,Retail Inventories Ex Autos MoM Adv  JAN,1,,,,
+Tuesday,February,2023,,28,08:30 AM,US,Wholesale Inventories MoM Adv  JAN,1,,,,
+Tuesday,February,2023,,28,08:30 AM,US,Goods Trade Balance Adv  JAN,1,,$-90.3B,,
+Tuesday,February,2023,,28,08:55 AM,US,Redbook YoY  FEB/25,1,,,,
+Tuesday,February,2023,,28,09:00 AM,US,S P/Case-Shiller Home Price MoM  DEC,1,,,,
+Tuesday,February,2023,,28,09:00 AM,US,S P/Case-Shiller Home Price YoY  DEC,1,,,,
+Tuesday,February,2023,,28,09:00 AM,US,House Price Index  DEC,1,,,,390
+Tuesday,February,2023,,28,09:00 AM,US,House Price Index YoY  DEC,1,,,,
+Tuesday,February,2023,,28,09:00 AM,US,House Price Index MoM  DEC,1,,,,
+Tuesday,February,2023,,28,09:45 AM,US,Chicago PMI  FEB,1,,,,
+Tuesday,February,2023,,28,10:00 AM,US,CB Consumer Confidence  FEB,1,,,,
+Tuesday,February,2023,,28,10:00 AM,US,Richmond Fed Manufacturing Shipments Index  FEB,1,,,,
+Tuesday,February,2023,,28,10:00 AM,US,Richmond Fed Manufacturing Index  FEB,1,,-11,,
+Tuesday,February,2023,,28,10:00 AM,US,Richmond Fed Services Index  FEB,1,,-6,,
+Tuesday,February,2023,,28,10:30 AM,US,Dallas Fed Services Index  FEB,1,,,,
+Tuesday,February,2023,,28,10:30 AM,US,Dallas Fed Services Revenues Index  FEB,1,,,,
+Tuesday,February,2023,,28,04:30 PM,AU,Ai Group Manufacturing Index  FEB,1,,,,
+Tuesday,February,2023,,28,04:30 PM,US,API Crude Oil Stock Change  FEB/24,1,,,,
+Tuesday,February,2023,,28,05:00 PM,AU,Judo Bank Manufacturing PMI Final  FEB,1,,,,
+Tuesday,February,2023,,28,07:00 PM,KR,Exports YoY  FEB,1,,,,
+Tuesday,February,2023,,28,07:00 PM,KR,Balance of Trade  FEB,1,,,,
+Tuesday,February,2023,,28,07:00 PM,KR,Imports YoY  FEB,1,,,,
+Wednesday,February,2023,,1,05:00 AM,EA,Inflation Rate YoY Flash  JAN,3,,9.2%,9%,8.7%
+Wednesday,February,2023,,1,05:00 AM,EA,Unemployment Rate  DEC,3,,6.5%,6.5%,6.5%
+Wednesday,February,2023,,1,05:00 AM,IT,Inflation Rate YoY Prel  JAN,3,,11.6%,10.1%,10.4%
+Wednesday,February,2023,,1,10:00 AM,US,ISM Manufacturing PMI  JAN,3,,48.4,48,48
+Wednesday,February,2023,,1,10:00 AM,US,JOLTs Job Openings  DEC,3,,10.458M,10.25M,9.5M
+Wednesday,February,2023,,1,02:00 PM,US,Fed Interest Rate Decision,3,,4.5%,4.75%,4.75%
+Wednesday,February,2023,,1,02:30 PM,US,Fed Press Conference,3,,,,
+Thursday,February,2023,,2,02:00 AM,DE,Balance of Trade  DEC,3,,€11.1B,,€5.1B
+Thursday,February,2023,,2,07:00 AM,GB,BoE Interest Rate Decision,3,,3.5%,4%,4%
+Thursday,February,2023,,2,08:15 AM,EA,Deposit Facility Rate,3,,2%,2.5%,2.5%
+Thursday,February,2023,,2,08:15 AM,EA,ECB Interest Rate Decision,3,,2.5%,3%,3.0%
+Thursday,February,2023,,2,08:45 AM,EA,ECB Press Conference,3,,,,
+Friday,February,2023,,3,08:30 AM,US,Unemployment Rate  JAN,3,,3.5%,3.6%,3.6%
+Friday,February,2023,,3,08:30 AM,US,Non Farm Payrolls  JAN,3,,223K,185K,190K
+Friday,February,2023,,3,10:00 AM,US,ISM Non-Manufacturing PMI  JAN,3,,49.6,50.4,50.6
+Monday,February,2023,,6,10:00 AM,CA,Ivey PMI s.a  JAN,3,,33.4,,34
+Monday,February,2023,,6,07:30 PM,AU,Balance of Trade  DEC,3,,A$13.201B,,A$8.5B
+Monday,February,2023,,6,10:30 PM,AU,RBA Interest Rate Decision,3,,3.1%,,3.3%
+Tuesday,February,2023,,7,08:30 AM,CA,Balance of Trade  DEC,3,,C$-0.04B,,C$ 0.14B
+Tuesday,February,2023,,7,08:30 AM,US,Balance of Trade  DEC,3,,$-61.5B,$-68.6B,$-68.8B
+Thursday,February,2023,,9,08:30 PM,CN,Inflation Rate YoY  JAN,3,,1.8%,,2%
+Friday,February,2023,,10,02:00 AM,GB,GDP Growth Rate QoQ Prel  Q4,3,,-0.3%,,0.1%
+Friday,February,2023,,10,02:00 AM,GB,GDP Growth Rate YoY Prel  Q4,3,,1.9%,,-0.2%
+Friday,February,2023,,10,02:00 AM,GB,GDP MoM  DEC,3,,0.1%,,-0.1%
+Friday,February,2023,,10,08:30 AM,CA,Unemployment Rate  JAN,3,,5%,,5.2%
+Friday,February,2023,,10,10:00 AM,US,Michigan Consumer Sentiment Prel  FEB,3,,64.9,65,
+Friday,February,2023,,10,,DE,Inflation Rate YoY Prel  JAN,3,,8.6%,9.2%,9%
+Monday,February,2023,,13,06:50 PM,JP,GDP Growth Rate QoQ Prel  Q4,3,,-0.2%,,0.1%
+Monday,February,2023,,13,06:50 PM,JP,GDP Growth Annualized Prel  Q4,3,,-0.8%,,0.2%
+Monday,February,2023,,13,07:30 PM,AU,NAB Business Confidence  JAN,3,,-1,,1
+Tuesday,February,2023,,14,02:00 AM,GB,Claimant Count Change  JAN,3,,19.7K,,
+Tuesday,February,2023,,14,02:00 AM,GB,Unemployment Rate  DEC,3,,3.7%,,3.80%
+Tuesday,February,2023,,14,08:30 AM,US,Inflation Rate YoY  JAN,3,,6.5%,,6.3%
+Tuesday,February,2023,,14,08:30 AM,US,Core Inflation Rate YoY  JAN,3,,5.7%,,5.5%
+Tuesday,February,2023,,14,06:30 PM,AU,Westpac Consumer Confidence Change  FEB,3,,,,
+Tuesday,February,2023,,14,06:30 PM,AU,Westpac Consumer Confidence Index  FEB,3,,,,
+Wednesday,February,2023,,15,02:00 AM,GB,Inflation Rate YoY  JAN,3,,10.5%,,10.3%
+Wednesday,February,2023,,15,08:30 AM,US,Retail Sales MoM  JAN,3,,-1.1%,,-0.6%
+Wednesday,February,2023,,15,06:50 PM,JP,Balance of Trade  JAN,3,,¥-1448.5B,,¥-1200.0B
+Thursday,February,2023,,16,08:30 AM,US,Building Permits Prel  JAN,3,,1.337M,,1.374M
+Thursday,February,2023,,16,08:30 AM,US,PPI MoM  JAN,3,,-0.5%,,-0.3%
+Friday,February,2023,,17,02:00 AM,GB,Retail Sales MoM  JAN,3,,-1%,,-1.8%
+Monday,February,2023,,20,07:30 PM,AU,RBA Meeting Minutes,3,,,,
+Tuesday,February,2023,,21,05:00 AM,DE,ZEW Economic Sentiment Index  FEB,3,,16.9,,25.1
+Tuesday,February,2023,,21,08:30 AM,CA,Inflation Rate YoY  JAN,3,,6.3%,,5.6%
+Wednesday,February,2023,,22,04:00 AM,DE,Ifo Business Climate  FEB,3,,90.2,,
+Wednesday,February,2023,,22,02:00 PM,US,FOMC Minutes,3,,,,
+Thursday,February,2023,,23,06:30 PM,JP,Inflation Rate YoY  JAN,3,,4%,,4.1%
+Thursday,February,2023,,23,07:01 PM,GB,Gfk Consumer Confidence  FEB,3,,-45,,-42
+Friday,February,2023,,24,02:00 AM,DE,GfK Consumer Confidence  MAR,3,,-33.9,,-34
+Friday,February,2023,,24,08:30 AM,US,Personal Income MoM  JAN,3,,0.2%,,
+Friday,February,2023,,24,08:30 AM,US,Personal Spending MoM  JAN,3,,,,
+Friday,February,2023,,24,08:30 AM,US,Core PCE Price Index MoM  JAN,3,,0.3%,,
+Monday,February,2023,,27,08:30 AM,US,Durable Goods Orders MoM  JAN,3,,5.6%,,
+Tuesday,February,2023,,28,02:45 AM,FR,Inflation Rate YoY Prel  FEB,3,,,,
+Tuesday,February,2023,,28,07:00 AM,IN,GDP Growth Rate YoY  Q4,3,,6.3%,,4.4%
+Tuesday,February,2023,,28,08:30 AM,CA,GDP Growth Rate QoQ  Q4,3,,0.7%,,0.4%
+Tuesday,February,2023,,28,07:30 PM,AU,GDP Growth Rate QoQ  Q4,3,,0.6%,,0.6%
+Tuesday,February,2023,,28,08:30 PM,CN,NBS Manufacturing PMI  FEB,3,,50.1,,
+Tuesday,February,2023,,28,08:45 PM,CN,Caixin Manufacturing PMI  FEB,3,,,,
+Wednesday,March,2023,,1,06:00 AM,IT,Full Year GDP Growth  2023,3,,6.6%,,3.9%
+Wednesday,March,2023,,1,08:00 AM,DE,Inflation Rate YoY Prel  FEB,3,,,,
+Wednesday,March,2023,,1,10:00 AM,US,ISM Manufacturing PMI  FEB,3,,,,
+Wednesday,February,2023,,1,12:00 AM,IN,S P Global Manufacturing PMI  JAN,2,,57.8,57.4,56
+Wednesday,February,2023,,1,01:00 AM,RU,S P Global Manufacturing PMI  JAN,2,,53,,52.3
+Wednesday,February,2023,,1,03:15 AM,ES,S P Global Manufacturing PMI  JAN,2,,46.4,48,47.8
+Wednesday,February,2023,,1,03:45 AM,IT,S P Global Manufacturing PMI  JAN,2,,48.5,49.6,49.2
+Wednesday,February,2023,,1,03:50 AM,FR,S P Global Manufacturing PMI Final  JAN,2,,49.2,50.8,50.8
+Wednesday,February,2023,,1,03:55 AM,DE,S P Global Manufacturing PMI Final  JAN,2,,47.1,47,47
+Wednesday,February,2023,,1,04:00 AM,EA,S P Global Manufacturing PMI Final  JAN,2,,47.8,48.8,48.8
+Wednesday,February,2023,,1,04:30 AM,GB,S P Global/CIPS Manufacturing PMI Final  JAN,2,,45.3,46.7,46.7
+Wednesday,February,2023,,1,05:00 AM,EA,Unemployment Rate  DEC,2,,6.5%,6.5%,6.5%
+Wednesday,February,2023,,1,05:00 AM,EA,Inflation Rate YoY Flash  JAN,2,,9.2%,9%,8.7%
+Wednesday,February,2023,,1,05:00 AM,EA,Inflation Rate MoM Flash  JAN,2,,-0.4%,,-0.2%
+Wednesday,February,2023,,1,05:00 AM,EA,Core Inflation Rate YoY Flash  JAN,2,,5.2%,5.1%,5.5%
+Wednesday,February,2023,,1,05:00 AM,IT,Inflation Rate YoY Prel  JAN,2,,11.6%,10.1%,10.4%
+Wednesday,February,2023,,1,05:00 AM,IT,Inflation Rate MoM Prel  JAN,2,,0.3%,0.1%,0.5%
+Wednesday,February,2023,,1,05:30 AM,DE,10-Year Bund Auction,2,,2.25%,,
+Wednesday,February,2023,,1,07:00 AM,MX,Business Confidence  JAN,2,,49.3,,49
+Wednesday,February,2023,,1,07:00 AM,US,MBA 30-Year Mortgage Rate  JAN/27,2,,6.2%,,
+Wednesday,February,2023,,1,08:15 AM,US,ADP Employment Change  JAN,2,,235K,178K,131K
+Wednesday,February,2023,,1,09:30 AM,CA,S P Global Manufacturing PMI  JAN,2,,49.2,,49
+Wednesday,February,2023,,1,09:45 AM,US,S P Global Manufacturing PMI Final  JAN,2,,46.2,,46.8
+Wednesday,February,2023,,1,10:00 AM,US,ISM Manufacturing PMI  JAN,2,,48.4,48,48
+Wednesday,February,2023,,1,10:00 AM,US,JOLTs Job Openings  DEC,2,,10.458M,10.25M,9.5M
+Wednesday,February,2023,,1,10:00 AM,US,ISM Manufacturing Employment  JAN,2,,51.4,49,51
+Wednesday,February,2023,,1,10:30 AM,US,EIA Crude Oil Stocks Change  JAN/27,2,,0.533M,0.376M,
+Wednesday,February,2023,,1,10:30 AM,US,EIA Gasoline Stocks Change  JAN/27,2,,1.763M,1.442M,
+Wednesday,February,2023,,1,01:00 PM,BR,Balance of Trade  JAN,2,,$4.8B,,$2.3B
+Wednesday,February,2023,,1,02:00 PM,US,Fed Interest Rate Decision,2,,4.5%,4.75%,4.75%
+Wednesday,February,2023,,1,02:30 PM,US,Fed Press Conference,2,,,,
+Wednesday,February,2023,,1,04:30 PM,BR,Interest Rate Decision,2,,13.75%,13.75%,13.75%
+Wednesday,February,2023,,1,06:00 PM,KR,Inflation Rate YoY  JAN,2,,5%,4.95%,4.8%
+Wednesday,February,2023,,1,07:30 PM,AU,Building Permits MoM Prel  DEC,2,,-9.0%,1%,-2.3%
+Wednesday,February,2023,,1,,GB,Nationwide Housing Prices YoY  JAN,2,,2.8%,1.9%,2.5%
+Wednesday,February,2023,,1,,GB,Nationwide Housing Prices MoM  JAN,2,,-0.1%,-0.3%,-0.3%
+Wednesday,February,2023,,1,,IN,Union Budget 2023-24,2,,,,
+Thursday,February,2023,,2,02:00 AM,DE,Balance of Trade  DEC,2,,€11.1B,,€5.1B
+Thursday,February,2023,,2,03:00 AM,ES,Unemployment Change  JAN,2,,-43.727K,,5K
+Thursday,February,2023,,2,07:00 AM,GB,BoE Interest Rate Decision,2,,3.5%,4%,4%
+Thursday,February,2023,,2,07:00 AM,GB,MPC Meeting Minutes,2,,,,
+Thursday,February,2023,,2,07:00 AM,GB,BoE MPC Vote Cut,2,,0/9,0/9,
+Thursday,February,2023,,2,07:00 AM,GB,BoE MPC Vote Unchanged,2,,2/9,2/9,
+Thursday,February,2023,,2,07:00 AM,GB,BoE MPC Vote Hike,2,,7/9,7/9,
+Thursday,February,2023,,2,07:00 AM,GB,BoE Monetary Policy Report,2,,,,
+Thursday,February,2023,,2,08:15 AM,EA,Deposit Facility Rate,2,,2%,2.5%,2.5%
+Thursday,February,2023,,2,08:15 AM,EA,ECB Interest Rate Decision,2,,2.5%,3%,3.0%
+Thursday,February,2023,,2,08:30 AM,US,Initial Jobless Claims  JAN/28,2,,186K,200K,187.0K
+Thursday,February,2023,,2,08:30 AM,US,Unit Labour Costs QoQ Prel  Q4,2,,2.4%,1.5%,1.7%
+Thursday,February,2023,,2,08:30 AM,US,Nonfarm Productivity QoQ Prel  Q4,2,,0.8%,2.4%,2.2%
+Thursday,February,2023,,2,08:45 AM,EA,ECB Press Conference,2,,,,
+Thursday,February,2023,,2,10:00 AM,US,Factory Orders MoM  DEC,2,,-1.8%,2.2%,1.2%
+Thursday,February,2023,,2,10:15 AM,EA,ECB President Lagarde Speech,2,,,,
+Thursday,February,2023,,2,05:00 PM,AU,Judo Bank Services PMI Final  JAN,2,,47.3,,48.3
+Thursday,February,2023,,2,07:30 PM,AU,Home Loans MoM  DEC,2,,-3.8%,-2.75%,-2.7%
+Thursday,February,2023,,2,07:30 PM,AU,Investment Lending for Homes  DEC,2,,-3.6%,,-2.4%
+Thursday,February,2023,,2,07:30 PM,JP,Jibun Bank Services PMI Final  JAN,2,,51.1,,52.4
+Thursday,February,2023,,2,08:45 PM,CN,Caixin Services PMI  JAN,2,,48,,52
+Thursday,February,2023,,2,,TR,Balance of Trade Prel  JAN,2,,$-10.38B,,
+Friday,February,2023,,3,02:00 AM,TR,Inflation Rate MoM  JAN,2,,1.18%,3.8%,0.9%
+Friday,February,2023,,3,02:00 AM,TR,Inflation Rate YoY  JAN,2,,64.27%,53.5%,61.0%
+Friday,February,2023,,3,02:45 AM,FR,Industrial Production MoM  DEC,2,,2%,0.2%,0.6%
+Friday,February,2023,,3,03:15 AM,ES,S P Global Services PMI  JAN,2,,51.6,52.5,51.9
+Friday,February,2023,,3,03:45 AM,IT,S P Global Services PMI  JAN,2,,49.9,51,50.3
+Friday,February,2023,,3,03:50 AM,FR,S P Global Services PMI Final  JAN,2,,49.5,49.2,49.2
+Friday,February,2023,,3,03:55 AM,DE,S P Global Services PMI Final  JAN,2,,49.2,50.4,50.4
+Friday,February,2023,,3,04:00 AM,EA,S P Global Services PMI Final  JAN,2,,49.8,50.7,50.7
+Friday,February,2023,,3,04:30 AM,GB,S P Global/CIPS UK Services PMI Final  JAN,2,,49.9,48,48
+Friday,February,2023,,3,07:00 AM,BR,Industrial Production MoM  DEC,2,,-0.1%,0%,0.1%
+Friday,February,2023,,3,07:00 AM,MX,Consumer Confidence  JAN,2,,42.5,,42
+Friday,February,2023,,3,07:15 AM,GB,BoE Pill Speech,2,,,,
+Friday,February,2023,,3,08:00 AM,BR,S P Global Services PMI  JAN,2,,51,,50
+Friday,February,2023,,3,08:30 AM,US,Unemployment Rate  JAN,2,,3.5%,3.6%,3.6%
+Friday,February,2023,,3,08:30 AM,US,Non Farm Payrolls  JAN,2,,223K,185K,190K
+Friday,February,2023,,3,08:30 AM,US,Participation Rate  JAN,2,,62.3%,,62.3%
+Friday,February,2023,,3,08:30 AM,US,Average Hourly Earnings MoM  JAN,2,,0.3%,0.3%,0.3%
+Friday,February,2023,,3,08:30 AM,US,Average Hourly Earnings YoY  JAN,2,,4.6%,4.3%,4.4%
+Friday,February,2023,,3,09:45 AM,US,S P Global Services PMI Final  JAN,2,,44.7,46.6,46.6
+Friday,February,2023,,3,09:45 AM,US,S P Global Composite PMI Final  JAN,2,,45,46.6,46.6
+Friday,February,2023,,3,10:00 AM,US,ISM Non-Manufacturing PMI  JAN,2,,49.6,50.4,50.6
+Friday,February,2023,,3,10:00 AM,US,ISM Non-Manufacturing Employment  JAN,2,,49.8,,50
+Sunday,February,2023,,5,11:00 PM,ID,Full Year GDP Growth  2023,2,,,,5%
+Sunday,February,2023,,5,11:00 PM,ID,GDP Growth Rate QoQ  Q4,2,,1.81%,,1.6%
+Sunday,February,2023,,5,11:00 PM,ID,GDP Growth Rate YoY  Q4,2,,5.72%,,5.2%
+Monday,February,2023,,6,02:00 AM,DE,Factory Orders MoM  DEC,2,,-5.3%,,2.5%
+Monday,February,2023,,6,03:30 AM,DE,S P Global Construction PMI  JAN,2,,41.7,,43
+Monday,February,2023,,6,04:30 AM,GB,S P Global/CIPS Construction PMI  JAN,2,,48.8,,46.5
+Monday,February,2023,,6,05:00 AM,EA,Retail Sales MoM  DEC,2,,0.8%,-0.3%,-1.1%
+Monday,February,2023,,6,05:00 AM,EA,Retail Sales YoY  DEC,2,,-2.8%,,-1.8%
+Monday,February,2023,,6,10:00 AM,CA,Ivey PMI s.a  JAN,2,,33.4,,34
+Monday,February,2023,,6,07:01 PM,GB,BRC Retail Sales Monitor YoY  JAN,2,,6.5%,,
+Monday,February,2023,,6,07:30 PM,AU,Balance of Trade  DEC,2,,A$13.201B,,A$8.5B
+Monday,February,2023,,6,10:30 PM,AU,RBA Interest Rate Decision,2,,3.1%,,3.3%
+Monday,February,2023,,6,,ES,Consumer Confidence  JAN,2,,68,,65
+Monday,February,2023,,6,,AU,Ai Group Industry Index  JAN,2,,,,
+Tuesday,February,2023,,7,02:00 AM,DE,Industrial Production MoM  DEC,2,,0.2%,,0.4%
+Tuesday,February,2023,,7,02:00 AM,GB,Halifax House Price Index MoM  JAN,2,,-1.5%,,
+Tuesday,February,2023,,7,02:00 AM,GB,Halifax House Price Index YoY  JAN,2,,2%,,
+Tuesday,February,2023,,7,02:45 AM,FR,Balance of Trade  DEC,2,,€-13.77B,,€ -7.9B
+Tuesday,February,2023,,7,06:00 AM,BR,BCB Copom Meeting Minutes,2,,,,
+Tuesday,February,2023,,7,08:30 AM,CA,Balance of Trade  DEC,2,,C$-0.04B,,C$ 0.14B
+Tuesday,February,2023,,7,08:30 AM,US,Balance of Trade  DEC,2,,$-61.5B,$-68.6B,$-68.8B
+Tuesday,February,2023,,7,08:30 AM,US,Exports  DEC,2,,$251.9B,,$249.4B
+Tuesday,February,2023,,7,08:30 AM,US,Imports  DEC,2,,$313.4B,,$318.2B
+Tuesday,February,2023,,7,10:00 AM,US,IBD/TIPP Economic Optimism  FEB,2,,42.3,,
+Tuesday,February,2023,,7,12:45 PM,CA,BoC Gov Macklem Speech,2,,,,
+Tuesday,February,2023,,7,04:30 PM,US,API Crude Oil Stock Change  FEB/03,2,,,,
+Tuesday,February,2023,,7,06:50 PM,JP,Current Account  DEC,2,,¥1803.6B,,¥ -250B
+Tuesday,February,2023,,7,11:30 PM,IN,RBI Interest Rate Decision,2,,6.25%,6.5%,6.5%
+Wednesday,February,2023,,8,04:00 AM,IT,Retail Sales MoM  DEC,2,,,,-0.2%
+Wednesday,February,2023,,8,07:00 AM,US,MBA 30-Year Mortgage Rate  FEB/03,2,,,,
+Wednesday,February,2023,,8,10:30 AM,US,EIA Crude Oil Stocks Change  FEB/03,2,,,,
+Wednesday,February,2023,,8,10:30 AM,US,EIA Gasoline Stocks Change  FEB/03,2,,,,
+Wednesday,February,2023,,8,11:00 AM,RU,Inflation Rate YoY  JAN,2,,11.9%,11.5%,
+Wednesday,February,2023,,8,11:00 AM,RU,Inflation Rate MoM  JAN,2,,,0.7,
+Wednesday,February,2023,,8,11:00 AM,RU,Unemployment Rate  DEC,2,,3.7%,4%,3.7%
+Thursday,February,2023,,9,07:00 AM,BR,Inflation Rate YoY  JAN,2,,5.79%,,5.92%
+Thursday,February,2023,,9,07:00 AM,BR,Inflation Rate MoM  JAN,2,,0.62%,,0.58%
+Thursday,February,2023,,9,07:00 AM,BR,Retail Sales MoM  DEC,2,,-0.6%,,-0.4%
+Thursday,February,2023,,9,07:00 AM,MX,Inflation Rate YoY  JAN,2,,7.82%,,7.68%
+Thursday,February,2023,,9,07:00 AM,MX,Inflation Rate MoM  JAN,2,,0.38%,,0.39%
+Thursday,February,2023,,9,08:30 AM,US,Initial Jobless Claims  FEB/04,2,,,,
+Thursday,February,2023,,9,07:30 PM,AU,RBA Statement on Monetary Policy,2,,,,
+Thursday,February,2023,,9,08:30 PM,CN,Inflation Rate YoY  JAN,2,,1.8%,,2%
+Thursday,February,2023,,9,08:30 PM,CN,Inflation Rate MoM  JAN,2,,0%,,0.6%
+Thursday,February,2023,,9,08:30 PM,CN,PPI YoY  JAN,2,,-0.7%,,-1.3%
+Thursday,February,2023,,9,,EU,Special European Council Meeting,2,,,,
+Friday,February,2023,,10,02:00 AM,TR,Industrial Production YoY  DEC,2,,-1.3%,,3.1%
+Friday,February,2023,,10,02:00 AM,TR,Unemployment Rate  DEC,2,,10.2%,,10.5%
+Friday,February,2023,,10,02:00 AM,GB,GDP MoM  DEC,2,,0.1%,,-0.1%
+Friday,February,2023,,10,02:00 AM,GB,GDP Growth Rate QoQ Prel  Q4,2,,-0.3%,,0.1%
+Friday,February,2023,,10,02:00 AM,GB,GDP Growth Rate YoY Prel  Q4,2,,1.9%,,-0.2%
+Friday,February,2023,,10,02:00 AM,GB,Goods Trade Balance  DEC,2,,£-15.623B,,£ -17.8B
+Friday,February,2023,,10,02:00 AM,GB,Goods Trade Balance Non-EU  DEC,2,,£-4.666B,,£ -8.1B
+Friday,February,2023,,10,02:00 AM,GB,Industrial Production MoM  DEC,2,,-0.2%,,0.2%
+Friday,February,2023,,10,02:00 AM,GB,GDP 3-Month Avg  DEC,2,,-0.3%,,0.1%
+Friday,February,2023,,10,02:00 AM,GB,Manufacturing Production MoM  DEC,2,,-0.5%,,-0.2%
+Friday,February,2023,,10,02:00 AM,GB,Business Investment QoQ Prel  Q4,2,,-2.5%,,
+Friday,February,2023,,10,04:00 AM,IT,Industrial Production MoM  DEC,2,,-0.3%,,0.2%
+Friday,February,2023,,10,07:00 AM,IN,Industrial Production YoY  DEC,2,,7.1%,,3.2%
+Friday,February,2023,,10,07:00 AM,IN,Manufacturing Production YoY  DEC,2,,6.1%,,4%
+Friday,February,2023,,10,08:30 AM,CA,Unemployment Rate  JAN,2,,5%,,5.2%
+Friday,February,2023,,10,08:30 AM,CA,Employment Change  JAN,2,,104K,,15K
+Friday,February,2023,,10,08:30 AM,CA,Full Time Employment Chg  JAN,2,,84.5K,,5K
+Friday,February,2023,,10,08:30 AM,CA,Participation Rate  JAN,2,,65%,,64.9%
+Friday,February,2023,,10,08:30 AM,CA,Part Time Employment Chg  JAN,2,,19.5K,,10K
+Friday,February,2023,,10,09:30 AM,BR,Business Confidence  FEB,2,,48.6,,48
+Friday,February,2023,,10,10:00 AM,US,Michigan Consumer Sentiment Prel  FEB,2,,64.9,65,
+Friday,February,2023,,10,02:00 PM,US,Monthly Budget Statement  JAN,2,,$-85B,,
+Friday,February,2023,,10,,DE,Inflation Rate YoY Prel  JAN,2,,8.6%,9.2%,9%
+Friday,February,2023,,10,,DE,Inflation Rate MoM Prel  JAN,2,,-0.8%,1.1%,0.9%
+Saturday,February,2023,,11,,CN,Current Account Prel  Q4,2,,$144.3,,$90B
+Sunday,February,2023,,12,,EA,Eurogroup Meeting,2,,,,
+Monday,February,2023,,13,06:50 PM,JP,GDP Growth Rate QoQ Prel  Q4,2,,-0.2%,,0.1%
+Monday,February,2023,,13,06:50 PM,JP,GDP Growth Annualized Prel  Q4,2,,-0.8%,,0.2%
+Monday,February,2023,,13,07:30 PM,AU,NAB Business Confidence  JAN,2,,-1,,1
+Monday,February,2023,,13,,TR,Natural Gas Summit,2,,,,
+Tuesday,February,2023,,14,02:00 AM,GB,Claimant Count Change  JAN,2,,19.7K,,
+Tuesday,February,2023,,14,02:00 AM,GB,Unemployment Rate  DEC,2,,3.7%,,3.80%
+Tuesday,February,2023,,14,02:00 AM,GB,Average Earnings incl. Bonus (3Mo/Yr)  DEC,2,,6.4%,,6.4%
+Tuesday,February,2023,,14,02:00 AM,GB,Employment Change  NOV,2,,27K,,
+Tuesday,February,2023,,14,05:00 AM,EA,Employment Change YoY Prel  Q4,2,,1.8%,,0.5%
+Tuesday,February,2023,,14,05:00 AM,EA,Employment Change QoQ Prel  Q4,2,,0.3%,,0.5%
+Tuesday,February,2023,,14,05:00 AM,EA,GDP Growth Rate QoQ 2nd Est  Q4,2,,0.3%,0.1%,0.1%
+Tuesday,February,2023,,14,05:00 AM,EA,GDP Growth Rate YoY 2nd Est  Q4,2,,2.3%,1.9%,1.9%
+Tuesday,February,2023,,14,07:00 AM,IN,Inflation Rate YoY  JAN,2,,5.72%,,5.7%
+Tuesday,February,2023,,14,08:30 AM,US,Inflation Rate YoY  JAN,2,,6.5%,,6.3%
+Tuesday,February,2023,,14,08:30 AM,US,Core Inflation Rate YoY  JAN,2,,5.7%,,5.5%
+Tuesday,February,2023,,14,08:30 AM,US,Core Inflation Rate MoM  JAN,2,,0.3%,,0.3%
+Tuesday,February,2023,,14,08:30 AM,US,Inflation Rate MoM  JAN,2,,-0.1%,,-0.1%
+Tuesday,February,2023,,14,08:30 AM,US,CPI  JAN,2,,296.797,,298
+Tuesday,February,2023,,14,04:30 PM,US,API Crude Oil Stock Change  FEB/10,2,,,,
+Tuesday,February,2023,,14,06:00 PM,KR,Unemployment Rate  JAN,2,,,,
+Tuesday,February,2023,,14,06:30 PM,AU,Westpac Consumer Confidence Change  FEB,2,,,,
+Tuesday,February,2023,,14,06:30 PM,AU,Westpac Consumer Confidence Index  FEB,2,,,,
+Tuesday,February,2023,,14,,EU,ECOFIN Meeting,2,,,,
+Tuesday,February,2023,,14,,OP,OPEC Monthly Report,2,,,,
+Tuesday,February,2023,,14,,TR,Natural Gas Summit,2,,,,
+Wednesday,February,2023,,15,02:00 AM,DE,Wholesale Prices MoM  JAN,2,,-1.6%,,
+Wednesday,February,2023,,15,02:00 AM,DE,Wholesale Prices YoY  JAN,2,,12.8%,,
+Wednesday,February,2023,,15,02:00 AM,GB,Inflation Rate YoY  JAN,2,,10.5%,,10.3%
+Wednesday,February,2023,,15,02:00 AM,GB,Inflation Rate MoM  JAN,2,,0.4%,,-0.3%
+Wednesday,February,2023,,15,02:00 AM,GB,Core Inflation Rate YoY  JAN,2,,6.3%,,
+Wednesday,February,2023,,15,03:00 AM,ZA,Inflation Rate MoM  JAN,2,,,,
+Wednesday,February,2023,,15,03:00 AM,ZA,Inflation Rate YoY  JAN,2,,7.2%,,
+Wednesday,February,2023,,15,05:00 AM,EA,Balance of Trade  DEC,2,,,,€ -30.8B
+Wednesday,February,2023,,15,05:00 AM,EA,Industrial Production MoM  DEC,2,,1%,,0.3%
+Wednesday,February,2023,,15,07:00 AM,US,MBA 30-Year Mortgage Rate  FEB/10,2,,,,
+Wednesday,February,2023,,15,07:20 AM,IN,Balance of Trade  JAN,2,,$-23.76B,,$-22.2B
+Wednesday,February,2023,,15,08:15 AM,CA,Housing Starts  JAN,2,,248.6K,,238K
+Wednesday,February,2023,,15,08:30 AM,US,Retail Sales MoM  JAN,2,,-1.1%,,-0.6%
+Wednesday,February,2023,,15,08:30 AM,US,NY Empire State Manufacturing Index  FEB,2,,-32.9,,
+Wednesday,February,2023,,15,08:30 AM,US,Retail Sales Ex Autos MoM  JAN,2,,-1.1%,,-0.7%
+Wednesday,February,2023,,15,09:15 AM,US,Industrial Production YoY  JAN,2,,1.6%,,
+Wednesday,February,2023,,15,09:15 AM,US,Industrial Production MoM  JAN,2,,-0.7%,,-0.9%
+Wednesday,February,2023,,15,10:00 AM,US,Business Inventories MoM  DEC,2,,0.4%,,0.3%
+Wednesday,February,2023,,15,10:00 AM,US,NAHB Housing Market Index  FEB,2,,,,
+Wednesday,February,2023,,15,10:30 AM,US,EIA Crude Oil Stocks Change  FEB/10,2,,,,
+Wednesday,February,2023,,15,10:30 AM,US,EIA Gasoline Stocks Change  FEB/10,2,,,,
+Wednesday,February,2023,,15,04:00 PM,US,Net Long-term TIC Flows  DEC,2,,,,
+Wednesday,February,2023,,15,06:50 PM,JP,Balance of Trade  JAN,2,,¥-1448.5B,,¥-1200.0B
+Wednesday,February,2023,,15,06:50 PM,JP,Exports YoY  JAN,2,,11.5%,,
+Wednesday,February,2023,,15,06:50 PM,JP,Machinery Orders MoM  DEC,2,,-8.3%,,-1.1%
+Wednesday,February,2023,,15,06:50 PM,JP,Machinery Orders YoY  DEC,2,,-3.7%,,
+Wednesday,February,2023,,15,07:30 PM,AU,Employment Change  JAN,2,,-14.6K,,26K
+Wednesday,February,2023,,15,07:30 PM,AU,Full Time Employment Chg  JAN,2,,17.6K,,
+Wednesday,February,2023,,15,07:30 PM,AU,Part Time Employment Chg  JAN,2,,-32.2K,,
+Wednesday,February,2023,,15,07:30 PM,AU,Unemployment Rate  JAN,2,,3.5%,,3.5%
+Wednesday,February,2023,,15,08:30 PM,CN,House Price Index YoY  JAN,2,,-1.5%,,-1.3%
+Wednesday,February,2023,,15,,CN,FDI (YTD) YoY  JAN,2,,6.3%,,5%
+Thursday,February,2023,,16,02:30 AM,ID,Interest Rate Decision,2,,5.75%,,6%
+Thursday,February,2023,,16,04:00 AM,IT,Balance of Trade  DEC,2,,€1.445B,,€0.5B
+Thursday,February,2023,,16,04:00 AM,ES,Balance of Trade  DEC,2,,€-3.31B,,€ -7.8B
+Thursday,February,2023,,16,08:30 AM,CA,New Housing Price Index MoM  JAN,2,,,,-0.3%
+Thursday,February,2023,,16,08:30 AM,US,Building Permits Prel  JAN,2,,1.337M,,1.374M
+Thursday,February,2023,,16,08:30 AM,US,PPI MoM  JAN,2,,-0.5%,,-0.3%
+Thursday,February,2023,,16,08:30 AM,US,Core PPI MoM  JAN,2,,0.1%,,
+Thursday,February,2023,,16,08:30 AM,US,Housing Starts  JAN,2,,1.382M,,1.37M
+Thursday,February,2023,,16,08:30 AM,US,Philadelphia Fed Manufacturing Index  FEB,2,,-8.9,,-7
+Thursday,February,2023,,16,08:30 AM,US,Housing Starts MoM  JAN,2,,-1.4%,,-1.2%
+Thursday,February,2023,,16,08:30 AM,US,Building Permits MoM Prel  JAN,2,,-1.0%,,2.8%
+Thursday,February,2023,,16,08:30 AM,US,Initial Jobless Claims  FEB/11,2,,,,
+Thursday,February,2023,,16,05:30 PM,AU,RBA Gov Lowe Speech,2,,,,
+Friday,February,2023,,17,01:30 AM,FR,Unemployment Rate  Q4,2,,7.3%,,7.50%
+Friday,February,2023,,17,02:00 AM,EU,New Car Registrations YoY  JAN,2,,12.8%,,
+Friday,February,2023,,17,02:00 AM,GB,Retail Sales MoM  JAN,2,,-1%,,-1.8%
+Friday,February,2023,,17,02:00 AM,GB,Retail Sales YoY  JAN,2,,-5.8%,,
+Friday,February,2023,,17,02:00 AM,GB,Retail Sales ex Fuel MoM  JAN,2,,-1.1%,,
+Friday,February,2023,,17,02:45 AM,FR,Inflation Rate YoY Final  JAN,2,,5.9%,6%,6.0%
+Friday,February,2023,,17,02:45 AM,FR,Inflation Rate MoM Final  JAN,2,,-0.1%,0.4%,0.4%
+Friday,February,2023,,17,08:30 AM,CA,New Housing Price Index YoY  JAN,2,,3.9%,,2.9%
+Friday,February,2023,,17,08:30 AM,US,Export Prices MoM  JAN,2,,-2.6%,,
+Friday,February,2023,,17,08:30 AM,US,Import Prices MoM  JAN,2,,0.4%,,0.3%
+Friday,February,2023,,17,11:00 AM,RU,Full Year GDP Growth  2022,2,,4.7%,,-2.5%
+Sunday,February,2023,,19,08:15 PM,CN,Loan Prime Rate 1Y,2,,3.65%,,3.65%
+Sunday,February,2023,,19,08:15 PM,CN,Loan Prime Rate 5Y  FEB,2,,4.3%,,4.3%
+Monday,February,2023,,20,02:00 AM,DE,PPI MoM  JAN,2,,-0.4%,,
+Monday,February,2023,,20,02:00 AM,TR,Consumer Confidence  FEB,2,,79.1,,
+Monday,February,2023,,20,10:00 AM,EA,Consumer Confidence Flash  FEB,2,,-20.9,,-21.2
+Monday,February,2023,,20,04:00 PM,KR,Consumer Confidence  FEB,2,,,,
+Monday,February,2023,,20,05:00 PM,AU,Judo Bank Manufacturing PMI Flash  FEB,2,,,,
+Monday,February,2023,,20,05:00 PM,AU,Judo Bank Services PMI Flash  FEB,2,,,,
+Monday,February,2023,,20,07:30 PM,AU,RBA Meeting Minutes,2,,,,
+Monday,February,2023,,20,07:30 PM,JP,Jibun Bank Manufacturing PMI Flash  FEB,2,,,,
+Monday,February,2023,,20,07:30 PM,JP,Jibun Bank Services PMI Flash  FEB,2,,,,
+Tuesday,February,2023,,21,03:15 AM,FR,S P Global Manufacturing PMI Flash  FEB,2,,,,
+Tuesday,February,2023,,21,03:15 AM,FR,S P Global Services PMI Flash  FEB,2,,,,
+Tuesday,February,2023,,21,03:30 AM,DE,S P Global Manufacturing PMI Flash  FEB,2,,,,
+Tuesday,February,2023,,21,03:30 AM,DE,S P Global Services PMI Flash  FEB,2,,,,
+Tuesday,February,2023,,21,04:00 AM,EA,S P Global Manufacturing PMI Flash  FEB,2,,,,
+Tuesday,February,2023,,21,04:00 AM,EA,S P Global Services PMI Flash  FEB,2,,,,
+Tuesday,February,2023,,21,04:30 AM,ZA,Unemployment Rate  Q4,2,,32.9%,,33.2%
+Tuesday,February,2023,,21,04:30 AM,GB,S P Global/CIPS Manufacturing PMI Flash  FEB,2,,,,46.7
+Tuesday,February,2023,,21,04:30 AM,GB,S P Global/CIPS UK Services PMI Flash  FEB,2,,,,49.3
+Tuesday,February,2023,,21,05:00 AM,EA,ZEW Economic Sentiment Index  FEB,2,,16.7,,18.5
+Tuesday,February,2023,,21,05:00 AM,DE,ZEW Economic Sentiment Index  FEB,2,,16.9,,25.1
+Tuesday,February,2023,,21,08:30 AM,CA,Inflation Rate YoY  JAN,2,,6.3%,,5.6%
+Tuesday,February,2023,,21,08:30 AM,CA,Inflation Rate MoM  JAN,2,,-0.6%,,0.2%
+Tuesday,February,2023,,21,08:30 AM,CA,Retail Sales MoM  DEC,2,,-0.1%,,-0.3%
+Tuesday,February,2023,,21,08:30 AM,CA,Retail Sales Ex Autos MoM  DEC,2,,-0.6%,,-0.3%
+Tuesday,February,2023,,21,08:30 AM,CA,Core Inflation Rate YoY  JAN,2,,5.4%,,4.7%
+Tuesday,February,2023,,21,09:45 AM,US,S P Global Manufacturing PMI Flash  FEB,2,,,,
+Tuesday,February,2023,,21,09:45 AM,US,S P Global Composite PMI Flash  FEB,2,,,,
+Tuesday,February,2023,,21,09:45 AM,US,S P Global Services PMI Flash  FEB,2,,,,
+Tuesday,February,2023,,21,10:00 AM,US,Existing Home Sales MoM  JAN,2,,-1.5%,,-0.2%
+Tuesday,February,2023,,21,10:00 AM,US,Existing Home Sales  JAN,2,,4.02M,,4M
+Tuesday,February,2023,,21,04:00 PM,KR,Business Confidence  FEB,2,,,,
+Tuesday,February,2023,,21,06:00 PM,JP,Reuters Tankan Index  FEB,2,,,,
+Tuesday,February,2023,,21,07:30 PM,AU,Construction Work Done QoQ  Q4,2,,2.2%,,1.2%
+Wednesday,February,2023,,22,02:00 AM,DE,Inflation Rate YoY Final  JAN,2,,8.6%,,
+Wednesday,February,2023,,22,02:00 AM,DE,Inflation Rate MoM Final  JAN,2,,-0.8%,,
+Wednesday,February,2023,,22,02:00 AM,TR,Business Confidence  FEB,2,,101.7,,
+Wednesday,February,2023,,22,02:45 AM,FR,Business Confidence  FEB,2,,103,,
+Wednesday,February,2023,,22,03:00 AM,EA,ECB Non-Monetary Policy Meeting,2,,,,
+Wednesday,February,2023,,22,04:00 AM,DE,Ifo Business Climate  FEB,2,,90.2,,
+Wednesday,February,2023,,22,04:00 AM,IT,Inflation Rate YoY Final  JAN,2,,11.6%,,
+Wednesday,February,2023,,22,05:30 AM,DE,10-Year Bund Auction,2,,,,
+Wednesday,February,2023,,22,06:00 AM,GB,CBI Industrial Trends Orders  FEB,2,,-17,,-12
+Wednesday,February,2023,,22,07:00 AM,US,MBA 30-Year Mortgage Rate  FEB/17,2,,,,
+Wednesday,February,2023,,22,02:00 PM,US,FOMC Minutes,2,,,,
+Wednesday,February,2023,,22,04:30 PM,US,API Crude Oil Stock Change  FEB/17,2,,,,
+Wednesday,February,2023,,22,08:00 PM,KR,Interest Rate Decision,2,,3.5%,,3.75%
+Thursday,February,2023,,23,05:00 AM,EA,Inflation Rate YoY Final  JAN,2,,9.2%,,
+Thursday,February,2023,,23,06:00 AM,TR,TCMB Interest Rate Decision,2,,9%,,9%
+Thursday,February,2023,,23,08:30 AM,US,GDP Price Index QoQ 2nd Est  Q4,2,,4.4%,,3.5%
+Thursday,February,2023,,23,08:30 AM,US,GDP Growth Rate QoQ 2nd Est  Q4,2,,3.2%,,2.8%
+Thursday,February,2023,,23,08:30 AM,US,Chicago Fed National Activity Index  JAN,2,,-0.49,,
+Thursday,February,2023,,23,08:30 AM,US,Initial Jobless Claims  FEB/18,2,,,,
+Thursday,February,2023,,23,11:00 AM,US,EIA Crude Oil Stocks Change  FEB/17,2,,,,
+Thursday,February,2023,,23,11:00 AM,US,EIA Gasoline Stocks Change  FEB/17,2,,,,
+Thursday,February,2023,,23,06:30 PM,JP,Inflation Rate YoY  JAN,2,,4%,,4.1%
+Thursday,February,2023,,23,06:30 PM,JP,Core Inflation Rate YoY  JAN,2,,4%,,4%
+Thursday,February,2023,,23,07:01 PM,GB,Gfk Consumer Confidence  FEB,2,,-45,,-42
+Friday,February,2023,,24,02:00 AM,DE,GfK Consumer Confidence  MAR,2,,-33.9,,-34
+Friday,February,2023,,24,02:00 AM,DE,GDP Growth Rate QoQ Final  Q4,2,,0.5%,-0.2%,-0.2%
+Friday,February,2023,,24,02:00 AM,DE,GDP Growth Rate YoY Final  Q4,2,,1.4%,1.1%,1.1%
+Friday,February,2023,,24,02:45 AM,FR,Consumer Confidence  FEB,2,,80,,
+Friday,February,2023,,24,02:45 AM,FR,GDP Growth Rate QoQ Final  Q4,2,,0.2%,0.1%,0.1%
+Friday,February,2023,,24,02:45 AM,FR,GDP Growth Rate YoY Final  Q4,2,,1%,0.5%,0.5%
+Friday,February,2023,,24,06:00 AM,GB,CBI Distributive Trades  FEB,2,,-23,,-14
+Friday,February,2023,,24,07:00 AM,MX,GDP Growth Rate QoQ Final  Q4,2,,0.9%,,0.4%
+Friday,February,2023,,24,07:00 AM,MX,GDP Growth Rate YoY Final  Q4,2,,4.3%,,3.5%
+Friday,February,2023,,24,08:00 AM,US,Building Permits Final  JAN,2,,1.337M,,
+Friday,February,2023,,24,08:30 AM,US,Personal Income MoM  JAN,2,,0.2%,,
+Friday,February,2023,,24,08:30 AM,US,Personal Spending MoM  JAN,2,,,,
+Friday,February,2023,,24,08:30 AM,US,Core PCE Price Index MoM  JAN,2,,0.3%,,
+Friday,February,2023,,24,08:30 AM,US,PCE Price Index MoM  JAN,2,,0.1%,,
+Friday,February,2023,,24,08:30 AM,US,PCE Price Index YoY  JAN,2,,5%,,
+Friday,February,2023,,24,10:00 AM,US,New Home Sales MoM  JAN,2,,2.3%,,0.4%
+Friday,February,2023,,24,10:00 AM,US,New Home Sales  JAN,2,,0.616M,,0.615M
+Friday,February,2023,,24,10:00 AM,US,Michigan Consumer Sentiment Final  FEB,2,,,,
+Sunday,February,2023,,26,07:30 PM,AU,Company Gross Profits QoQ  Q4,2,,-12.4%,,
+Monday,February,2023,,27,04:00 AM,IT,Business Confidence  FEB,2,,102.7,,
+Monday,February,2023,,27,04:00 AM,IT,Consumer Confidence  FEB,2,,100.9,,
+Monday,February,2023,,27,05:00 AM,EA,Economic Sentiment  FEB,2,,99.9,,100.5
+Monday,February,2023,,27,06:00 AM,FR,Unemployment Benefit Claims  JAN,2,,6.2K,,8.0K
+Monday,February,2023,,27,07:00 AM,MX,Balance of Trade  JAN,2,,$0.984B,,$ -3.55B
+Monday,February,2023,,27,07:00 AM,ES,Business Confidence  FEB,2,,-4.3,,
+Monday,February,2023,,27,08:30 AM,CA,Current Account  Q4,2,,C$-11.1B,,C$ -18B
+Monday,February,2023,,27,08:30 AM,US,Durable Goods Orders MoM  JAN,2,,5.6%,,
+Monday,February,2023,,27,08:30 AM,US,Durable Goods Orders Ex Transp MoM  JAN,2,,-0.1%,,
+Monday,February,2023,,27,10:00 AM,US,Pending Home Sales YoY  JAN,2,,-33.8%,,-28.0%
+Monday,February,2023,,27,10:00 AM,US,Pending Home Sales MoM  JAN,2,,2.5%,,1.3%
+Monday,February,2023,,27,10:30 AM,US,Dallas Fed Manufacturing Index  FEB,2,,-8.4,,
+Monday,February,2023,,27,06:50 PM,JP,Industrial Production MoM Prel  JAN,2,,,,
+Monday,February,2023,,27,06:50 PM,JP,Retail Sales YoY  JAN,2,,,,
+Monday,February,2023,,27,07:30 PM,AU,Housing Credit MoM  JAN,2,,0.3%,,0.3%
+Monday,February,2023,,27,07:30 PM,AU,Retail Sales MoM Prel  JAN,2,,,,
+Tuesday,February,2023,,28,12:00 AM,JP,Housing Starts YoY  JAN,2,,-1.7%,,
+Tuesday,February,2023,,28,02:00 AM,TR,GDP Growth Rate QoQ  Q4,2,,,,-0.3%
+Tuesday,February,2023,,28,02:00 AM,TR,GDP Growth Rate YoY  Q4,2,,,,4.4%
+Tuesday,February,2023,,28,02:45 AM,FR,Inflation Rate YoY Prel  FEB,2,,,,
+Tuesday,February,2023,,28,02:45 AM,FR,Inflation Rate MoM Prel  FEB,2,,,,
+Tuesday,February,2023,,28,03:00 AM,ES,Inflation Rate YoY Prel  FEB,2,,,,
+Tuesday,February,2023,,28,03:00 AM,ES,Inflation Rate MoM Prel  FEB,2,,,,
+Tuesday,February,2023,,28,07:00 AM,BR,Unemployment Rate  DEC,2,,8.1%,,8.3%
+Tuesday,February,2023,,28,07:00 AM,IN,GDP Growth Rate YoY  Q4,2,,6.3%,,4.4%
+Tuesday,February,2023,,28,07:00 AM,IN,Fiscal Year GDP Growth Final  2021-22,2,,-6.6%,,8.7%
+Tuesday,February,2023,,28,07:00 AM,IN,Fiscal Year GDP Growth 2nd Est  2023-22,2,,8.7%,,7%
+Tuesday,February,2023,,28,07:00 AM,ZA,Balance of Trade  JAN,2,,ZAR5.43B,,
+Tuesday,February,2023,,28,08:30 AM,CA,GDP Growth Rate QoQ  Q4,2,,0.7%,,0.4%
+Tuesday,February,2023,,28,08:30 AM,CA,GDP Growth Rate Annualized  Q4,2,,2.9%,,0.9%
+Tuesday,February,2023,,28,08:30 AM,CA,GDP MoM  DEC,2,,,,
+Tuesday,February,2023,,28,08:30 AM,CA,GDP MoM Prel  JAN,2,,,,
+Tuesday,February,2023,,28,08:30 AM,US,Retail Inventories Ex Autos MoM Adv  JAN,2,,,,
+Tuesday,February,2023,,28,08:30 AM,US,Wholesale Inventories MoM Adv  JAN,2,,,,
+Tuesday,February,2023,,28,08:30 AM,US,Goods Trade Balance Adv  JAN,2,,$-90.3B,,
+Tuesday,February,2023,,28,09:00 AM,US,S P/Case-Shiller Home Price MoM  DEC,2,,-0.8%,,-0.7%
+Tuesday,February,2023,,28,09:00 AM,US,S P/Case-Shiller Home Price YoY  DEC,2,,6.8%,,6.0%
+Tuesday,February,2023,,28,09:45 AM,US,Chicago PMI  FEB,2,,44.3,,
+Tuesday,February,2023,,28,10:00 AM,US,CB Consumer Confidence  FEB,2,,,,
+Tuesday,February,2023,,28,04:30 PM,US,API Crude Oil Stock Change  FEB/24,2,,,,
+Tuesday,February,2023,,28,05:00 PM,AU,Judo Bank Manufacturing PMI Final  FEB,2,,,,
+Tuesday,February,2023,,28,07:00 PM,KR,Exports YoY  FEB,2,,,,
+Tuesday,February,2023,,28,07:30 PM,AU,GDP Growth Rate QoQ  Q4,2,,0.6%,,0.6%
+Tuesday,February,2023,,28,07:30 PM,AU,GDP Growth Rate YoY  Q4,2,,5.9%,,2.5%
+Tuesday,February,2023,,28,07:30 PM,AU,Monthly CPI Indicator  JAN,2,,8.4%,,
+Tuesday,February,2023,,28,07:30 PM,JP,Jibun Bank Manufacturing PMI Final  FEB,2,,,,
+Tuesday,February,2023,,28,08:30 PM,CN,NBS Manufacturing PMI  FEB,2,,50.1,,
+Tuesday,February,2023,,28,08:30 PM,CN,NBS Non Manufacturing PMI  FEB,2,,54.4,,
+Tuesday,February,2023,,28,08:45 PM,CN,Caixin Manufacturing PMI  FEB,2,,,,
+Tuesday,February,2023,,28,11:00 PM,ID,Inflation Rate YoY  FEB,2,,,,
+Tuesday,February,2023,,28,,DE,Bundesbank Annual Report,2,,,,
+Wednesday,March,2023,,1,12:00 AM,IN,S P Global Manufacturing PMI  FEB,2,,,,
+Wednesday,March,2023,,1,01:00 AM,RU,S P Global Manufacturing PMI  FEB,2,,,,
+Wednesday,March,2023,,1,02:00 AM,DE,Retail Sales MoM  JAN,2,,-5.3%,,
+Wednesday,March,2023,,1,02:00 AM,DE,Retail Sales YoY  JAN,2,,-6.4%,,
+Wednesday,March,2023,,1,03:15 AM,ES,S P Global Manufacturing PMI  FEB,2,,,,
+Wednesday,March,2023,,1,03:45 AM,IT,S P Global Manufacturing PMI  FEB,2,,,,
+Wednesday,March,2023,,1,03:50 AM,FR,S P Global Manufacturing PMI Final  FEB,2,,,,
+Wednesday,March,2023,,1,03:55 AM,DE,S P Global Manufacturing PMI Final  FEB,2,,,,
+Wednesday,March,2023,,1,03:55 AM,DE,Unemployed Persons  FEB,2,,2.498M,,2.509M
+Wednesday,March,2023,,1,03:55 AM,DE,Unemployment Change  FEB,2,,-15K,,11.0K
+Wednesday,March,2023,,1,03:55 AM,DE,Unemployment Rate  FEB,2,,5.5%,,5.6%
+Wednesday,March,2023,,1,04:00 AM,EA,S P Global Manufacturing PMI Final  FEB,2,,,,
+Wednesday,March,2023,,1,04:30 AM,GB,BoE Consumer Credit  JAN,2,,£0.493B,,£0.35B
+Wednesday,March,2023,,1,04:30 AM,GB,Mortgage Lending  JAN,2,,£3.238B,,£3.0B
+Wednesday,March,2023,,1,04:30 AM,GB,S P Global/CIPS Manufacturing PMI Final  FEB,2,,,,
+Wednesday,March,2023,,1,04:30 AM,GB,Mortgage Approvals  JAN,2,,35.612K,,30.4K
+Wednesday,March,2023,,1,06:00 AM,IT,Full Year GDP Growth  2023,2,,6.6%,,3.9%
+Wednesday,March,2023,,1,07:00 AM,MX,Business Confidence  FEB,2,,,,
+Wednesday,March,2023,,1,07:00 AM,US,MBA 30-Year Mortgage Rate  FEB/24,2,,,,
+Wednesday,March,2023,,1,08:00 AM,DE,Inflation Rate YoY Prel  FEB,2,,,,
+Wednesday,March,2023,,1,08:00 AM,DE,Inflation Rate MoM Prel  FEB,2,,,,
+Wednesday,March,2023,,1,09:30 AM,CA,S P Global Manufacturing PMI  FEB,2,,,,
+Wednesday,March,2023,,1,09:45 AM,US,S P Global Manufacturing PMI Final  FEB,2,,,,
+Wednesday,March,2023,,1,10:00 AM,US,ISM Manufacturing PMI  FEB,2,,,,
+Wednesday,March,2023,,1,10:00 AM,US,ISM Manufacturing Employment  FEB,2,,,,
+Wednesday,March,2023,,1,10:30 AM,US,EIA Crude Oil Stocks Change  FEB/24,2,,,,
+Wednesday,March,2023,,1,10:30 AM,US,EIA Gasoline Stocks Change  FEB/24,2,,,,
+Wednesday,March,2023,,1,11:00 AM,RU,Unemployment Rate  JAN,2,,,,
+Wednesday,March,2023,,1,01:00 PM,BR,Balance of Trade  FEB,2,,,,$4.8B
+Wednesday,March,2023,,1,07:30 PM,AU,Building Permits MoM Prel  JAN,2,,,,
+Wednesday,March,2023,,1,07:30 PM,KR,S P Global Manufacturing PMI  FEB,2,,,,
+Wednesday,February,2023,,01,12:00 AM,IN,S P Global Manufacturing PMI  JAN,1,,57.8,57.4,56
+Wednesday,February,2023,,01,12:30 AM,AU,Commodity Prices YoY  JAN,1,,15.6%,,12.7%
+Wednesday,February,2023,,01,01:00 AM,RU,S P Global Manufacturing PMI  JAN,1,,53,,52.3
+Wednesday,February,2023,,01,02:00 AM,TR,Istanbul Chamber of Industry Manufacturing PMI  JAN,1,,48.1,,48.6
+Wednesday,February,2023,,01,03:15 AM,ES,S P Global Manufacturing PMI  JAN,1,,46.4,48,47.8
+Wednesday,February,2023,,01,03:45 AM,IT,S P Global Manufacturing PMI  JAN,1,,48.5,49.6,49.2
+Wednesday,February,2023,,01,03:50 AM,FR,S P Global Manufacturing PMI Final  JAN,1,,49.2,50.8,50.8
+Wednesday,February,2023,,01,03:55 AM,DE,S P Global Manufacturing PMI Final  JAN,1,,47.1,47,47
+Wednesday,February,2023,,01,04:00 AM,EA,S P Global Manufacturing PMI Final  JAN,1,,47.8,48.8,48.8
+Wednesday,February,2023,,01,04:00 AM,ZA,ABSA Manufacturing PMI  JAN,1,,53.1,,55
+Wednesday,February,2023,,01,04:30 AM,GB,S P Global/CIPS Manufacturing PMI Final  JAN,1,,45.3,46.7,46.7
+Wednesday,February,2023,,01,05:00 AM,EA,Unemployment Rate  DEC,1,,6.5%,6.5%,6.5%
+Wednesday,February,2023,,01,05:00 AM,EA,Inflation Rate YoY Flash  JAN,1,,9.2%,9%,8.7%
+Wednesday,February,2023,,01,05:00 AM,EA,Inflation Rate MoM Flash  JAN,1,,-0.4%,,-0.2%
+Wednesday,February,2023,,01,05:00 AM,EA,Core Inflation Rate YoY Flash  JAN,1,,5.2%,5.1%,5.5%
+Wednesday,February,2023,,01,05:00 AM,EA,CPI Flash  JAN,1,,120.52,,120.3
+Wednesday,February,2023,,01,05:00 AM,IT,Inflation Rate YoY Prel  JAN,1,,11.6%,10.1%,10.4%
+Wednesday,February,2023,,01,05:00 AM,IT,Inflation Rate MoM Prel  JAN,1,,0.3%,0.1%,0.5%
+Wednesday,February,2023,,01,05:00 AM,IT,Harmonised Inflation Rate YoY Prel  JAN,1,,12.3%,11%,11%
+Wednesday,February,2023,,01,05:00 AM,IT,Harmonised Inflation Rate MoM Prel  JAN,1,,0.2%,-1.5%,-1.1%
+Wednesday,February,2023,,01,05:00 AM,IT,CPI Prel  JAN,1,,119,,119.6
+Wednesday,February,2023,,01,05:30 AM,DE,10-Year Bund Auction,1,,2.25%,,
+Wednesday,February,2023,,01,06:10 AM,EU,6-Month Bill Auction,1,,2.556%,,
+Wednesday,February,2023,,01,06:10 AM,EU,3-Month Bill Auction,1,,2.194%,,
+Wednesday,February,2023,,01,07:00 AM,BR,PPI MoM  DEC,1,,-0.54%,,0.1%
+Wednesday,February,2023,,01,07:00 AM,BR,PPI YoY  DEC,1,,4.39%,,4.28%
+Wednesday,February,2023,,01,07:00 AM,MX,Business Confidence  JAN,1,,49.3,,49
+Wednesday,February,2023,,01,07:00 AM,US,MBA 30-Year Mortgage Rate  JAN/27,1,,6.2%,,
+Wednesday,February,2023,,01,07:00 AM,US,MBA Mortgage Applications  JAN/27,1,,7%,,
+Wednesday,February,2023,,01,07:00 AM,US,MBA Mortgage Refinance Index  JAN/27,1,,502.3,,
+Wednesday,February,2023,,01,07:00 AM,US,MBA Mortgage Market Index  JAN/27,1,,255.3,,
+Wednesday,February,2023,,01,07:00 AM,US,MBA Purchase Index  JAN/27,1,,205.4,,
+Wednesday,February,2023,,01,08:00 AM,BR,S P Global Manufacturing PMI  JAN,1,,44.2,,43
+Wednesday,February,2023,,01,08:15 AM,US,ADP Employment Change  JAN,1,,235K,178K,131K
+Wednesday,February,2023,,01,09:30 AM,CA,S P Global Manufacturing PMI  JAN,1,,49.2,,49
+Wednesday,February,2023,,01,09:45 AM,US,S P Global Manufacturing PMI Final  JAN,1,,46.2,,46.8
+Wednesday,February,2023,,01,10:00 AM,US,ISM Manufacturing PMI  JAN,1,,48.4,48,48
+Wednesday,February,2023,,01,10:00 AM,US,JOLTs Job Openings  DEC,1,,10.458M,10.25M,9.5M
+Wednesday,February,2023,,01,10:00 AM,US,ISM Manufacturing Employment  JAN,1,,51.4,49,51
+Wednesday,February,2023,,01,10:00 AM,US,Construction Spending MoM  DEC,1,,0.2%,0%,0.1%
+Wednesday,February,2023,,01,10:00 AM,US,ISM Manufacturing New Orders  JAN,1,,45.2,,45
+Wednesday,February,2023,,01,10:00 AM,US,JOLTs Job Quits  DEC,1,,4.173M,,4.19M
+Wednesday,February,2023,,01,10:00 AM,US,ISM Manufacturing Prices  JAN,1,,39.4,39.5,39
+Wednesday,February,2023,,01,10:30 AM,MX,S P Global Manufacturing PMI  JAN,1,,51.3,,50
+Wednesday,February,2023,,01,10:30 AM,US,EIA Gasoline Stocks Change  JAN/27,1,,1.763M,1.442M,
+Wednesday,February,2023,,01,10:30 AM,US,EIA Crude Oil Stocks Change  JAN/27,1,,0.533M,0.376M,
+Wednesday,February,2023,,01,10:30 AM,US,EIA Distillate Stocks Change  JAN/27,1,,-0.507M,-1.3M,
+Wednesday,February,2023,,01,10:30 AM,US,EIA Heating Oil Stocks Change  JAN/27,1,,-0.234M,,
+Wednesday,February,2023,,01,10:30 AM,US,EIA Gasoline Production Change  JAN/27,1,,-0.034M,,
+Wednesday,February,2023,,01,10:30 AM,US,EIA Crude Oil Imports Change  JAN/27,1,,-1.791M,,
+Wednesday,February,2023,,01,10:30 AM,US,EIA Cushing Crude Oil Stocks Change  JAN/27,1,,4.267M,,
+Wednesday,February,2023,,01,10:30 AM,US,EIA Distillate Fuel Production Change  JAN/27,1,,-0.009M,,
+Wednesday,February,2023,,01,10:30 AM,US,EIA Refinery Crude Runs Change  JAN/27,1,,0.128M,,
+Wednesday,February,2023,,01,11:00 AM,RU,Industrial Production YoY  DEC,1,,-1.8%,-4.2%,-3.9%
+Wednesday,February,2023,,01,11:30 AM,US,17-Week Bill Auction,1,,4.620%,,
+Wednesday,February,2023,,01,01:00 PM,BR,Balance of Trade  JAN,1,,$4.8B,,$2.3B
+Wednesday,February,2023,,01,02:00 PM,SA,Interest Rate Decision,1,,5%,,5.25%
+Wednesday,February,2023,,01,02:00 PM,US,Fed Interest Rate Decision,1,,4.5%,4.75%,4.75%
+Wednesday,February,2023,,01,02:30 PM,US,Fed Press Conference,1,,,,
+Wednesday,February,2023,,01,04:30 PM,BR,Interest Rate Decision,1,,13.75%,13.75%,13.75%
+Wednesday,February,2023,,01,06:00 PM,KR,Inflation Rate YoY  JAN,1,,5%,4.95%,4.8%
+Wednesday,February,2023,,01,06:00 PM,KR,Inflation Rate MoM  JAN,1,,0.2%,0.5%,0.1%
+Wednesday,February,2023,,01,06:00 PM,KR,CPI  JAN,1,,109.28,,109.7
+Wednesday,February,2023,,01,06:50 PM,JP,Foreign Bond Investment  JAN/28,1,,¥-344.2B,,
+Wednesday,February,2023,,01,06:50 PM,JP,Stock Investment by Foreigners  JAN/28,1,,¥-83B,,
+Wednesday,February,2023,,01,07:30 PM,AU,Building Permits MoM Prel  DEC,1,,-9.0%,1%,-2.3%
+Wednesday,February,2023,,01,07:30 PM,AU,Building Permits YoY Prel  DEC,1,,-15.1%,,-16%
+Wednesday,February,2023,,01,07:30 PM,AU,Private House Approvals MoM Prel  DEC,1,,-2.5%,,-0.7%
+Wednesday,February,2023,,01,10:35 PM,JP,10-Year JGB Auction,1,,0.500%,,
+Wednesday,February,2023,,01,,GB,Nationwide Housing Prices YoY  JAN,1,,2.8%,1.9%,2.5%
+Wednesday,February,2023,,01,,GB,Nationwide Housing Prices MoM  JAN,1,,-0.1%,-0.3%,-0.3%
+Wednesday,February,2023,,01,,IN,Union Budget 2023-24,1,,,,
+Wednesday,February,2023,,01,,IT,New Car Registrations YoY  JAN,1,,21%,,20.0%
+Wednesday,February,2023,,01,,ES,New Car Sales YoY  JAN,1,,-14.1%,,
+Wednesday,February,2023,,01,,ZA,Total New Vehicle Sales  JAN,1,,41.78K,,43.0K
+Wednesday,February,2023,,01,,AR,Tax Revenue  JAN,1,,ARS2307.48B,,ARS1958B
+Wednesday,February,2023,,01,,US,Total Vehicle Sales  JAN,1,,13.3M,,
+Thursday,February,2023,,02,02:00 AM,DE,Balance of Trade  DEC,1,,€11.1B,,€5.1B
+Thursday,February,2023,,02,02:00 AM,DE,Imports MoM s.a  DEC,1,,-3.3%,-0.8%,
+Thursday,February,2023,,02,02:00 AM,DE,Exports MoM s.a  DEC,1,,-0.3%,-3.3%,
+Thursday,February,2023,,02,02:00 AM,DE,Balance of Trade s.a  DEC,1,,€10.8B,€9.2B,
+Thursday,February,2023,,02,02:45 AM,FR,Budget Balance  DEC,1,,€-159.3B,,€ -157B
+Thursday,February,2023,,02,03:00 AM,BR,IPC-Fipe Inflation MoM  JAN,1,,0.54%,,0.4%
+Thursday,February,2023,,02,03:00 AM,ES,Unemployment Change  JAN,1,,-43.727K,,5K
+Thursday,February,2023,,02,03:00 AM,ES,Tourist Arrivals YoY  DEC,1,,29.2%,,20.0%
+Thursday,February,2023,,02,04:40 AM,ES,3-Year Bonos Auction,1,,2.81%,,
+Thursday,February,2023,,02,04:40 AM,ES,7-Year Index-Linked Obligacion Auction,1,,,,
+Thursday,February,2023,,02,04:40 AM,ES,20-Year Obligacion Auction,1,,,,
+Thursday,February,2023,,02,05:00 AM,FR,10-Year OAT Auction,1,,2.77%,,
+Thursday,February,2023,,02,06:00 AM,MX,Foreign Exchange Reserves  DEC,1,,$202.2B,,$203B
+Thursday,February,2023,,02,06:30 AM,TR,Foreign Exchange Reserves  JAN/27,1,,$79.15B,,
+Thursday,February,2023,,02,07:00 AM,GB,BoE Interest Rate Decision,1,,3.5%,4%,4%
+Thursday,February,2023,,02,07:00 AM,GB,MPC Meeting Minutes,1,,,,
+Thursday,February,2023,,02,07:00 AM,GB,BoE MPC Vote Cut,1,,0/9,0/9,
+Thursday,February,2023,,02,07:00 AM,GB,BoE MPC Vote Unchanged,1,,2/9,2/9,
+Thursday,February,2023,,02,07:00 AM,GB,BoE MPC Vote Hike,1,,7/9,7/9,
+Thursday,February,2023,,02,07:00 AM,GB,BoE Monetary Policy Report,1,,,,
+Thursday,February,2023,,02,07:30 AM,US,Challenger Job Cuts  JAN,1,,43.651K,,54K
+Thursday,February,2023,,02,08:00 AM,SG,SIPMM Manufacturing PMI  JAN,1,,49.7,,49.5
+Thursday,February,2023,,02,08:15 AM,EA,Deposit Facility Rate,1,,2%,2.5%,2.5%
+Thursday,February,2023,,02,08:15 AM,EA,ECB Interest Rate Decision,1,,2.5%,3%,3.0%
+Thursday,February,2023,,02,08:15 AM,EA,Marginal Lending Rate,1,,2.75%,,3.25%
+Thursday,February,2023,,02,08:30 AM,CA,Building Permits MoM  DEC,1,,14.1%,-5%,-1.8%
+Thursday,February,2023,,02,08:30 AM,US,Initial Jobless Claims  JAN/28,1,,186K,200K,187.0K
+Thursday,February,2023,,02,08:30 AM,US,Unit Labour Costs QoQ Prel  Q4,1,,2.4%,1.5%,1.7%
+Thursday,February,2023,,02,08:30 AM,US,Nonfarm Productivity QoQ Prel  Q4,1,,0.8%,2.4%,2.2%
+Thursday,February,2023,,02,08:30 AM,US,Jobless Claims 4-week Average  JAN/28,1,,197.5K,,199.0K
+Thursday,February,2023,,02,08:30 AM,US,Continuing Jobless Claims  JAN/21,1,,1675K,1677K,1680.0K
+Thursday,February,2023,,02,08:45 AM,EA,ECB Press Conference,1,,,,
+Thursday,February,2023,,02,10:00 AM,US,Factory Orders MoM  DEC,1,,-1.8%,2.2%,1.2%
+Thursday,February,2023,,02,10:00 AM,US,Factory Orders ex Transportation  DEC,1,,-0.8%,,-0.4%
+Thursday,February,2023,,02,10:15 AM,EA,ECB President Lagarde Speech,1,,,,
+Thursday,February,2023,,02,10:30 AM,US,EIA Natural Gas Stocks Change  JAN/27,1,,-91Bcf,,
+Thursday,February,2023,,02,11:30 AM,US,8-Week Bill Auction,1,,4.525%,,
+Thursday,February,2023,,02,11:30 AM,US,4-Week Bill Auction,1,,4.500%,,
+Thursday,February,2023,,02,12:00 PM,CA,10-Year Bond Auction,1,,3.062%,,
+Thursday,February,2023,,02,01:30 PM,EA,ECB President Lagarde Speech,1,,,,
+Thursday,February,2023,,02,04:00 PM,KR,Foreign Exchange Reserves  JAN,1,,$423.16B,,$425.0B
+Thursday,February,2023,,02,05:00 PM,AU,Judo Bank Services PMI Final  JAN,1,,47.3,,48.3
+Thursday,February,2023,,02,05:00 PM,AU,Judo Bank Composite PMI Final  JAN,1,,47.5,,48.2
+Thursday,February,2023,,02,07:30 PM,AU,Home Loans MoM  DEC,1,,-3.8%,-2.75%,-2.7%
+Thursday,February,2023,,02,07:30 PM,AU,Investment Lending for Homes  DEC,1,,-3.6%,,-2.4%
+Thursday,February,2023,,02,07:30 PM,JP,Jibun Bank Services PMI Final  JAN,1,,51.1,,52.4
+Thursday,February,2023,,02,07:30 PM,JP,Jibun Bank Composite PMI Final  JAN,1,,49.7,,50.8
+Thursday,February,2023,,02,07:30 PM,SG,S P Global PMI  JAN,1,,49.1,,49.2
+Thursday,February,2023,,02,08:45 PM,CN,Caixin Services PMI  JAN,1,,48,,52
+Thursday,February,2023,,02,08:45 PM,CN,Caixin Composite PMI  JAN,1,,48.3,,52.8
+Thursday,February,2023,,02,10:35 PM,JP,3-Month Bill Auction,1,,-0.1548%,,
+Thursday,February,2023,,02,,FR,New Car Registrations YoY  JAN,1,,-0.1%,,2.0%
+Thursday,February,2023,,02,,TR,Balance of Trade Prel  JAN,1,,$-10.38B,,
+Thursday,February,2023,,02,,TR,Exports Prel  JAN,1,,$22.92B,,
+Thursday,February,2023,,02,,TR,Imports Prel  JAN,1,,$33.3B,,
+Friday,February,2023,,03,12:00 AM,IN,S P Global Services PMI  JAN,1,,58.5,58.1,57
+Friday,February,2023,,03,12:00 AM,IN,S P Global Composite PMI  JAN,1,,59.4,,58
+Friday,February,2023,,03,12:00 AM,SG,Retail Sales MoM  DEC,1,,-3.7%,,0.4%
+Friday,February,2023,,03,12:00 AM,SG,Retail Sales YoY  DEC,1,,6.2%,,3.5%
+Friday,February,2023,,03,01:00 AM,RU,S P Global Services PMI  JAN,1,,45.9,,46.3
+Friday,February,2023,,03,01:00 AM,RU,S P Global Composite PMI  JAN,1,,48.0,,48.3
+Friday,February,2023,,03,02:00 AM,TR,Inflation Rate MoM  JAN,1,,1.18%,3.8%,0.9%
+Friday,February,2023,,03,02:00 AM,TR,Inflation Rate YoY  JAN,1,,64.27%,53.5%,61.0%
+Friday,February,2023,,03,02:00 AM,TR,PPI MoM  JAN,1,,-0.24%,,-0.1%
+Friday,February,2023,,03,02:00 AM,TR,PPI YoY  JAN,1,,97.72%,,91.0%
+Friday,February,2023,,03,02:00 AM,TR,CPI  JAN,1,,1128.45,,1229
+Friday,February,2023,,03,02:15 AM,ZA,S P Global PMI  JAN,1,,50.2,,50.7
+Friday,February,2023,,03,02:45 AM,FR,Industrial Production MoM  DEC,1,,2%,0.2%,0.6%
+Friday,February,2023,,03,03:15 AM,ES,S P Global Services PMI  JAN,1,,51.6,52.5,51.9
+Friday,February,2023,,03,03:15 AM,ES,S P Global Composite PMI  JAN,1,,49.9,,50.5
+Friday,February,2023,,03,03:45 AM,IT,S P Global Services PMI  JAN,1,,49.9,51,50.3
+Friday,February,2023,,03,03:45 AM,IT,S P Global Composite PMI  JAN,1,,49.6,,50
+Friday,February,2023,,03,03:50 AM,FR,S P Global Services PMI Final  JAN,1,,49.5,49.2,49.2
+Friday,February,2023,,03,03:50 AM,FR,S P Global Composite PMI Final  JAN,1,,49.1,49,49
+Friday,February,2023,,03,03:55 AM,DE,S P Global Services PMI Final  JAN,1,,49.2,50.4,50.4
+Friday,February,2023,,03,03:55 AM,DE,S P Global Composite PMI Final  JAN,1,,49,49.7,49.7
+Friday,February,2023,,03,04:00 AM,EA,S P Global Services PMI Final  JAN,1,,49.8,50.7,50.7
+Friday,February,2023,,03,04:00 AM,EA,S P Global Composite PMI Final  JAN,1,,49.3,50.2,50.2
+Friday,February,2023,,03,04:00 AM,EA,ECB Survey of Professional Forecasters,1,,,,
+Friday,February,2023,,03,04:00 AM,WL,FAO Food Price Index  JAN,1,,132.4,,
+Friday,February,2023,,03,04:30 AM,GB,S P Global/CIPS UK Services PMI Final  JAN,1,,49.9,48,48
+Friday,February,2023,,03,04:30 AM,GB,S P Global/CIPS Composite PMI Final  JAN,1,,49,47.8,47.8
+Friday,February,2023,,03,05:00 AM,EA,PPI MoM  DEC,1,,-0.9%,-0.4%,-1.2%
+Friday,February,2023,,03,05:00 AM,EA,PPI YoY  DEC,1,,27.1%,22.5%,24.8%
+Friday,February,2023,,03,06:30 AM,IN,Foreign Exchange Reserves  JAN/27,1,,$573.73B,,
+Friday,February,2023,,03,07:00 AM,BR,Industrial Production MoM  DEC,1,,-0.1%,0%,0.1%
+Friday,February,2023,,03,07:00 AM,BR,Industrial Production YoY  DEC,1,,0.9%,-1.1%,-1.1%
+Friday,February,2023,,03,07:00 AM,MX,Consumer Confidence  JAN,1,,42.5,,42
+Friday,February,2023,,03,07:15 AM,GB,BoE Pill Speech,1,,,,
+Friday,February,2023,,03,08:00 AM,BR,S P Global Services PMI  JAN,1,,51,,50
+Friday,February,2023,,03,08:00 AM,BR,S P Global Composite PMI  JAN,1,,49.1,,48
+Friday,February,2023,,03,08:00 AM,EA,ECB Elderson Speech,1,,,,
+Friday,February,2023,,03,08:30 AM,US,Unemployment Rate  JAN,1,,3.5%,3.6%,3.6%
+Friday,February,2023,,03,08:30 AM,US,Non Farm Payrolls  JAN,1,,223K,185K,190K
+Friday,February,2023,,03,08:30 AM,US,Participation Rate  JAN,1,,62.3%,,62.3%
+Friday,February,2023,,03,08:30 AM,US,Average Hourly Earnings MoM  JAN,1,,0.3%,0.3%,0.3%
+Friday,February,2023,,03,08:30 AM,US,Average Hourly Earnings YoY  JAN,1,,4.6%,4.3%,4.4%
+Friday,February,2023,,03,08:30 AM,US,Manufacturing Payrolls  JAN,1,,8K,6K,5K
+Friday,February,2023,,03,08:30 AM,US,Nonfarm Payrolls Private  JAN,1,,220K,190K,190K
+Friday,February,2023,,03,08:30 AM,US,Government Payrolls  JAN,1,,3K,,0K
+Friday,February,2023,,03,08:30 AM,US,Average Weekly Hours  JAN,1,,34.3,34.3,34.4
+Friday,February,2023,,03,09:45 AM,US,S P Global Services PMI Final  JAN,1,,44.7,46.6,46.6
+Friday,February,2023,,03,09:45 AM,US,S P Global Composite PMI Final  JAN,1,,45,46.6,46.6
+Friday,February,2023,,03,10:00 AM,US,ISM Non-Manufacturing PMI  JAN,1,,49.6,50.4,50.6
+Friday,February,2023,,03,10:00 AM,US,ISM Non-Manufacturing Employment  JAN,1,,49.8,,50
+Friday,February,2023,,03,10:00 AM,US,ISM Non-Manufacturing New Orders  JAN,1,,45.2,,47
+Friday,February,2023,,03,10:00 AM,US,ISM Non-Manufacturing Business Activity  JAN,1,,54.7,54.5,52
+Friday,February,2023,,03,10:00 AM,US,ISM Non-Manufacturing Prices  JAN,1,,67.6,,66
+Friday,February,2023,,03,01:00 PM,US,Baker Hughes Total Rig Count  FEB/03,1,,771,,
+Friday,February,2023,,03,01:00 PM,US,Baker Hughes Oil Rig Count  FEB/03,1,,609,,
+Friday,February,2023,,03,,DE,New Car Registrations YoY  JAN,1,,38.1%,,22.0%
+Saturday,February,2023,,04,11:15 PM,SA,Riyad Bank PMI  JAN,1,,56.9,,56.6
+Sunday,February,2023,,05,07:00 PM,AU,TD-MI Inflation Gauge MoM  JAN,1,,0.2%,,0.3%
+Sunday,February,2023,,05,07:30 PM,AU,Retail Sales MoM Final  DEC,1,,1.7%,-3.9%,-3.9%
+Sunday,February,2023,,05,11:00 PM,ID,GDP Growth Rate QoQ  Q4,1,,1.81%,,1.6%
+Sunday,February,2023,,05,11:00 PM,ID,GDP Growth Rate YoY  Q4,1,,5.72%,,5.2%
+Sunday,February,2023,,05,11:00 PM,ID,Full Year GDP Growth  2023,1,,,,5%
+Monday,February,2023,,06,02:00 AM,DE,Factory Orders MoM  DEC,1,,-5.3%,,2.5%
+Monday,February,2023,,06,03:30 AM,EA,S P Global Construction PMI  JAN,1,,42.6,,43.1
+Monday,February,2023,,06,03:30 AM,FR,S P Global Construction PMI  JAN,1,,41,,44.5
+Monday,February,2023,,06,03:30 AM,DE,S P Global Construction PMI  JAN,1,,41.7,,43
+Monday,February,2023,,06,03:30 AM,IT,S P Global Construction PMI  JAN,1,,47,,
+Monday,February,2023,,06,04:00 AM,GB,New Car Sales YoY  JAN,1,,18.3%,,16.0%
+Monday,February,2023,,06,04:30 AM,GB,S P Global/CIPS Construction PMI  JAN,1,,48.8,,46.5
+Monday,February,2023,,06,05:00 AM,EA,Retail Sales MoM  DEC,1,,0.8%,-0.3%,-1.1%
+Monday,February,2023,,06,05:00 AM,EA,Retail Sales YoY  DEC,1,,-2.8%,,-1.8%
+Monday,February,2023,,06,05:00 AM,FR,Retail Sales MoM  DEC,1,,-1%,,0.5%
+Monday,February,2023,,06,05:00 AM,FR,Retail Sales YoY  DEC,1,,-0.6%,,-4.8%
+Monday,February,2023,,06,05:30 AM,DE,3-Month Bubill Auction,1,,2.1422%,,
+Monday,February,2023,,06,06:30 AM,BR,BCB Focus Market Readout,1,,,,
+Monday,February,2023,,06,08:00 AM,BR,Car Production MoM  JAN,1,,-11.3%,,1.2%
+Monday,February,2023,,06,08:00 AM,BR,New Car Registrations MoM  JAN,1,,6.3%,,1.1%
+Monday,February,2023,,06,09:00 AM,FR,3-Month BTF Auction,1,,,,
+Monday,February,2023,,06,09:00 AM,FR,12-Month BTF Auction,1,,,,
+Monday,February,2023,,06,09:00 AM,FR,6-Month BTF Auction,1,,,,
+Monday,February,2023,,06,10:00 AM,CA,Ivey PMI s.a  JAN,1,,33.4,,34
+Monday,February,2023,,06,11:30 AM,US,3-Month Bill Auction,1,,4.595%,,
+Monday,February,2023,,06,11:30 AM,US,6-Month Bill Auction,1,,4.68%,,
+Monday,February,2023,,06,06:30 PM,JP,Household Spending MoM  DEC,1,,-0.9%,,-0.5%
+Monday,February,2023,,06,06:30 PM,JP,Household Spending YoY  DEC,1,,-1.2%,,0.5%
+Monday,February,2023,,06,06:30 PM,JP,Average Cash Earnings YoY  DEC,1,,0.5%,,1.0%
+Monday,February,2023,,06,06:30 PM,JP,Overtime Pay YoY  DEC,1,,,,
+Monday,February,2023,,06,06:50 PM,JP,Foreign Exchange Reserves  JAN,1,,,,
+Monday,February,2023,,06,07:01 PM,GB,BRC Retail Sales Monitor YoY  JAN,1,,6.5%,,
+Monday,February,2023,,06,07:30 PM,AU,Balance of Trade  DEC,1,,A$13.201B,,A$8.5B
+Monday,February,2023,,06,07:30 PM,AU,Exports MoM  DEC,1,,-0.4%,,
+Monday,February,2023,,06,07:30 PM,AU,Imports MoM  DEC,1,,-1.5%,,
+Monday,February,2023,,06,10:00 PM,ID,Foreign Exchange Reserves  JAN,1,,$137.2B,,
+Monday,February,2023,,06,10:30 PM,AU,RBA Interest Rate Decision,1,,3.1%,,3.3%
+Monday,February,2023,,06,10:35 PM,JP,30-Year JGB Auction,1,,1.649%,,
+Monday,February,2023,,06,,ES,Consumer Confidence  JAN,1,,68,,65
+Monday,February,2023,,06,,AU,Ai Group Industry Index  JAN,1,,,,
+Tuesday,February,2023,,07,12:00 AM,JP,Leading Economic Index Prel  DEC,1,,97.4,,98
+Tuesday,February,2023,,07,12:00 AM,JP,Coincident Index Prel  DEC,1,,99.3,,99.5
+Tuesday,February,2023,,07,01:00 AM,ZA,Foreign Exchange Reserves  JAN,1,,$60.57B,,
+Tuesday,February,2023,,07,02:00 AM,DE,Industrial Production MoM  DEC,1,,0.2%,,0.4%
+Tuesday,February,2023,,07,02:00 AM,GB,Halifax House Price Index YoY  JAN,1,,2%,,
+Tuesday,February,2023,,07,02:00 AM,GB,Halifax House Price Index MoM  JAN,1,,-1.5%,,
+Tuesday,February,2023,,07,02:45 AM,FR,Balance of Trade  DEC,1,,€-13.77B,,€ -7.9B
+Tuesday,February,2023,,07,02:45 AM,FR,Current Account  DEC,1,,€-6.8B,,€ -1.6B
+Tuesday,February,2023,,07,02:45 AM,FR,Exports  DEC,1,,€51.035B,,
+Tuesday,February,2023,,07,02:45 AM,FR,Imports  DEC,1,,€64.8B,,
+Tuesday,February,2023,,07,02:45 AM,FR,Private Non Farm Payrolls QoQ Prel  Q4,1,,0.6%,,19880%
+Tuesday,February,2023,,07,03:00 AM,FR,Foreign Exchange Reserves  JAN,1,,€237.68B,,
+Tuesday,February,2023,,07,03:00 AM,ES,Industrial Production YoY  DEC,1,,-1.1%,,3.4%
+Tuesday,February,2023,,07,04:00 AM,SG,Foreign Exchange Reserves  JAN,1,,S$388.3B,,S$387B
+Tuesday,February,2023,,07,04:40 AM,ES,12-Month Letras Auction,1,,2.983%,,
+Tuesday,February,2023,,07,04:40 AM,ES,6-Month Letras Auction,1,,2.584%,,
+Tuesday,February,2023,,07,05:00 AM,GB,5-Year Treasury Gilt Auction,1,,,,
+Tuesday,February,2023,,07,05:30 AM,DE,Index-Linked Bund Auction,1,,,,
+Tuesday,February,2023,,07,06:00 AM,BR,BCB Copom Meeting Minutes,1,,,,
+Tuesday,February,2023,,07,06:00 AM,GB,BBA Mortgage Rate  JAN,1,,6.41%,,6.6%
+Tuesday,February,2023,,07,07:00 AM,MX,Auto Production YoY  JAN,1,,4.5%,,4.1%
+Tuesday,February,2023,,07,07:00 AM,MX,Auto Exports YoY  JAN,1,,7%,,-5.4%
+Tuesday,February,2023,,07,07:00 AM,MX,Gross Fixed Investment YoY  NOV,1,,6.2%,,2.9%
+Tuesday,February,2023,,07,07:00 AM,MX,Gross Fixed Investment MoM  NOV,1,,1.4%,,-0.3%
+Tuesday,February,2023,,07,08:00 AM,RU,Foreign Exchange Reserves  JAN,1,,$582B,,$540B
+Tuesday,February,2023,,07,08:30 AM,CA,Balance of Trade  DEC,1,,C$-0.04B,,C$ 0.14B
+Tuesday,February,2023,,07,08:30 AM,CA,Exports  DEC,1,,,,C$64.6B
+Tuesday,February,2023,,07,08:30 AM,CA,Imports  DEC,1,,C$64.41B,,C$64.4B
+Tuesday,February,2023,,07,08:30 AM,US,Balance of Trade  DEC,1,,$-61.5B,$-68.6B,$-68.8B
+Tuesday,February,2023,,07,08:30 AM,US,Exports  DEC,1,,$251.9B,,$249.4B
+Tuesday,February,2023,,07,08:30 AM,US,Imports  DEC,1,,$313.4B,,$318.2B
+Tuesday,February,2023,,07,08:55 AM,US,Redbook YoY  FEB/04,1,,,,
+Tuesday,February,2023,,07,09:30 AM,TR,Treasury Cash Balance  JAN,1,,TRY-108.27B,,
+Tuesday,February,2023,,07,10:00 AM,US,IBD/TIPP Economic Optimism  FEB,1,,42.3,,
+Tuesday,February,2023,,07,12:45 PM,CA,BoC Gov Macklem Speech,1,,,,
+Tuesday,February,2023,,07,01:00 PM,US,3-Year Note Auction,1,,3.977%,,
+Tuesday,February,2023,,07,03:00 PM,US,Consumer Credit Change  DEC,1,,$27.96B,$24.5B,$ 23.4B
+Tuesday,February,2023,,07,04:30 PM,US,API Crude Oil Stock Change  FEB/03,1,,,,
+Tuesday,February,2023,,07,06:00 PM,KR,Current Account  DEC,1,,$-0.62B,,$0.2B
+Tuesday,February,2023,,07,06:50 PM,JP,Current Account  DEC,1,,¥1803.6B,,¥ -250B
+Tuesday,February,2023,,07,06:50 PM,JP,Bank Lending YoY  JAN,1,,2.7%,,2.6%
+Tuesday,February,2023,,07,07:30 PM,AU,RBA Chart Pack,1,,,,
+Tuesday,February,2023,,07,11:30 PM,IN,RBI Interest Rate Decision,1,,6.25%,6.5%,6.5%
+Tuesday,February,2023,,07,11:30 PM,IN,Cash Reserve Ratio,1,,4.5%,4.5%,4.5%
+Tuesday,February,2023,,07,,CN,Foreign Exchange Reserves  JAN,1,,$3.128T,,$3.12T
+Tuesday,February,2023,,07,,US,LMI Logistics Managers Index Current  JAN,1,,54.6,,
+Wednesday,February,2023,,08,12:00 AM,JP,Eco Watchers Survey Current  JAN,1,,47.9,,
+Wednesday,February,2023,,08,12:00 AM,JP,Eco Watchers Survey Outlook  JAN,1,,47.0,,
+Wednesday,February,2023,,08,04:00 AM,IT,Retail Sales MoM  DEC,1,,,,-0.2%
+Wednesday,February,2023,,08,04:00 AM,IT,Retail Sales YoY  DEC,1,,,,1.8%
+Wednesday,February,2023,,08,04:50 AM,RU,Vehicle Sales YoY  JAN,1,,-50.2%,,-48%
+Wednesday,February,2023,,08,05:30 AM,DE,7-Year Bund Auction,1,,,,
+Wednesday,February,2023,,08,07:00 AM,US,MBA 30-Year Mortgage Rate  FEB/03,1,,,,
+Wednesday,February,2023,,08,07:00 AM,US,MBA Mortgage Applications  FEB/03,1,,,,
+Wednesday,February,2023,,08,07:00 AM,US,MBA Mortgage Refinance Index  FEB/03,1,,,,
+Wednesday,February,2023,,08,07:00 AM,US,MBA Mortgage Market Index  FEB/03,1,,,,
+Wednesday,February,2023,,08,07:00 AM,US,MBA Purchase Index  FEB/03,1,,,,
+Wednesday,February,2023,,08,10:00 AM,US,Wholesale Inventories MoM  DEC,1,,0.9%,0.1%,0.1%
+Wednesday,February,2023,,08,10:30 AM,US,EIA Crude Oil Stocks Change  FEB/03,1,,,,
+Wednesday,February,2023,,08,10:30 AM,US,EIA Gasoline Stocks Change  FEB/03,1,,,,
+Wednesday,February,2023,,08,10:30 AM,US,EIA Cushing Crude Oil Stocks Change  FEB/03,1,,,,
+Wednesday,February,2023,,08,10:30 AM,US,EIA Distillate Fuel Production Change  FEB/03,1,,,,
+Wednesday,February,2023,,08,10:30 AM,US,EIA Distillate Stocks Change  FEB/03,1,,,,
+Wednesday,February,2023,,08,10:30 AM,US,EIA Heating Oil Stocks Change  FEB/03,1,,,,
+Wednesday,February,2023,,08,10:30 AM,US,EIA Gasoline Production Change  FEB/03,1,,,,
+Wednesday,February,2023,,08,10:30 AM,US,EIA Crude Oil Imports Change  FEB/03,1,,,,
+Wednesday,February,2023,,08,10:30 AM,US,EIA Refinery Crude Runs Change  FEB/03,1,,,,
+Wednesday,February,2023,,08,11:00 AM,RU,Inflation Rate MoM  JAN,1,,,0.7,
+Wednesday,February,2023,,08,11:00 AM,RU,Inflation Rate YoY  JAN,1,,11.9%,11.5%,
+Wednesday,February,2023,,08,11:00 AM,RU,Unemployment Rate  DEC,1,,3.7%,4%,3.7%
+Wednesday,February,2023,,08,11:00 AM,RU,Retail Sales YoY  DEC,1,,-7.9%,-9.5%,-7.4%
+Wednesday,February,2023,,08,11:00 AM,RU,Real Wage Growth YoY  NOV,1,,0.4%,-1.6%,0.5%
+Wednesday,February,2023,,08,11:00 AM,RU,Business Confidence  JAN,1,,-4,,-4.1
+Wednesday,February,2023,,08,11:00 AM,RU,Corporate Profits  NOV,1,,RUB21.8T,,RUB 21.3T
+Wednesday,February,2023,,08,12:00 PM,CA,2-Year Bond Auction,1,,3.747%,,
+Wednesday,February,2023,,08,12:00 PM,US,WASDE Report,1,,,,
+Wednesday,February,2023,,08,01:00 PM,US,10-Year Note Auction,1,,3.575%,,
+Wednesday,February,2023,,08,02:00 PM,AR,Industrial Production YoY  DEC,1,,1.4%,,0.9%
+Wednesday,February,2023,,08,06:50 PM,JP,Foreign Bond Investment  FEB/04,1,,,,
+Wednesday,February,2023,,08,06:50 PM,JP,Stock Investment by Foreigners  FEB/04,1,,,,
+Wednesday,February,2023,,08,07:01 PM,GB,RICS House Price Balance  JAN,1,,-42%,,
+Wednesday,February,2023,,08,07:30 PM,AU,Building Permits MoM Final  DEC,1,,-9.0%,,
+Wednesday,February,2023,,08,07:30 PM,AU,Building Permits YoY Final  DEC,1,,-15.1%,,
+Wednesday,February,2023,,08,07:30 PM,AU,Private House Approvals MoM Final  DEC,1,,-2.5%,,
+Wednesday,February,2023,,08,10:35 PM,JP,6-Month Bill Auction,1,,-0.1007%,,
+Wednesday,February,2023,,08,,ZA,SACCI Business Confidence  JAN,1,,,,105
+Wednesday,February,2023,,08,,ZA,SACCI Business Confidence  DEC,1,,110.9,,108.6
+Wednesday,February,2023,,08,,RU,GDP YoY  DEC,1,,-4%,,-3.9%
+Thursday,February,2023,,09,01:00 AM,JP,Machine Tool Orders YoY  JAN,1,,1.0%,,
+Thursday,February,2023,,09,01:00 AM,SA,Industrial Production YoY  DEC,1,,8.6%,,6.1%
+Thursday,February,2023,,09,04:30 AM,ZA,Mining Production MoM  DEC,1,,-0.4%,,2.6%
+Thursday,February,2023,,09,04:30 AM,ZA,Mining Production YoY  DEC,1,,-9%,,2.6%
+Thursday,February,2023,,09,04:30 AM,ZA,Gold Production YoY  DEC,1,,-4.6%,,-10%
+Thursday,February,2023,,09,06:00 AM,ZA,Manufacturing Production MoM  DEC,1,,2%,,2%
+Thursday,February,2023,,09,06:00 AM,ZA,Manufacturing Production YoY  DEC,1,,-1.1%,,0.7%
+Thursday,February,2023,,09,06:30 AM,IN,M3 Money Supply YoY  JAN/27,1,,9.7%,,
+Thursday,February,2023,,09,06:30 AM,TR,Foreign Exchange Reserves  FEB/03,1,,,,
+Thursday,February,2023,,09,07:00 AM,BR,Inflation Rate YoY  JAN,1,,5.79%,,5.92%
+Thursday,February,2023,,09,07:00 AM,BR,Inflation Rate MoM  JAN,1,,0.62%,,0.58%
+Thursday,February,2023,,09,07:00 AM,BR,Retail Sales MoM  DEC,1,,-0.6%,,-0.4%
+Thursday,February,2023,,09,07:00 AM,BR,Retail Sales YoY  DEC,1,,1.5%,,1.1%
+Thursday,February,2023,,09,07:00 AM,MX,Inflation Rate MoM  JAN,1,,0.38%,,0.39%
+Thursday,February,2023,,09,07:00 AM,MX,Inflation Rate YoY  JAN,1,,7.82%,,7.68%
+Thursday,February,2023,,09,07:00 AM,MX,Core Inflation Rate YoY  JAN,1,,8.35%,,7.77%
+Thursday,February,2023,,09,07:00 AM,MX,Core Inflation Rate MoM  JAN,1,,,,0.35%
+Thursday,February,2023,,09,08:30 AM,US,Initial Jobless Claims  FEB/04,1,,,,
+Thursday,February,2023,,09,08:30 AM,US,Jobless Claims 4-week Average  FEB/04,1,,,,
+Thursday,February,2023,,09,08:30 AM,US,Continuing Jobless Claims  JAN/28,1,,,,
+Thursday,February,2023,,09,10:30 AM,US,EIA Natural Gas Stocks Change  FEB/03,1,,,,
+Thursday,February,2023,,09,11:30 AM,US,8-Week Bill Auction,1,,,,
+Thursday,February,2023,,09,11:30 AM,US,4-Week Bill Auction,1,,,,
+Thursday,February,2023,,09,01:00 PM,US,30-Year Bond Auction,1,,3.585%,,
+Thursday,February,2023,,09,02:00 PM,MX,Interest Rate Decision,1,,10.5%,,10.5%
+Thursday,February,2023,,09,06:50 PM,JP,PPI MoM  JAN,1,,,,
+Thursday,February,2023,,09,06:50 PM,JP,PPI YoY  JAN,1,,,,
+Thursday,February,2023,,09,07:30 PM,AU,RBA Statement on Monetary Policy,1,,,,
+Thursday,February,2023,,09,08:30 PM,CN,Inflation Rate YoY  JAN,1,,1.8%,,2%
+Thursday,February,2023,,09,08:30 PM,CN,Inflation Rate MoM  JAN,1,,0%,,0.6%
+Thursday,February,2023,,09,08:30 PM,CN,PPI YoY  JAN,1,,-0.7%,,-1.3%
+Thursday,February,2023,,09,10:35 PM,JP,3-Month Bill Auction,1,,,,
+Thursday,February,2023,,09,,EU,Special European Council Meeting,1,,,,
+Friday,February,2023,,10,02:00 AM,TR,Industrial Production YoY  DEC,1,,-1.3%,,3.1%
+Friday,February,2023,,10,02:00 AM,TR,Unemployment Rate  DEC,1,,10.2%,,10.5%
+Friday,February,2023,,10,02:00 AM,TR,Participation Rate  DEC,1,,54.1%,,53.6%
+Friday,February,2023,,10,02:00 AM,TR,Industrial Production MoM  DEC,1,,-1.1%,,0.2%
+Friday,February,2023,,10,02:00 AM,GB,GDP MoM  DEC,1,,0.1%,,-0.1%
+Friday,February,2023,,10,02:00 AM,GB,GDP Growth Rate QoQ Prel  Q4,1,,-0.3%,,0.1%
+Friday,February,2023,,10,02:00 AM,GB,GDP Growth Rate YoY Prel  Q4,1,,1.9%,,-0.2%
+Friday,February,2023,,10,02:00 AM,GB,Business Investment QoQ Prel  Q4,1,,-2.5%,,
+Friday,February,2023,,10,02:00 AM,GB,GDP 3-Month Avg  DEC,1,,-0.3%,,0.1%
+Friday,February,2023,,10,02:00 AM,GB,Goods Trade Balance Non-EU  DEC,1,,£-4.666B,,£ -8.1B
+Friday,February,2023,,10,02:00 AM,GB,Goods Trade Balance  DEC,1,,£-15.623B,,£ -17.8B
+Friday,February,2023,,10,02:00 AM,GB,Industrial Production MoM  DEC,1,,-0.2%,,0.2%
+Friday,February,2023,,10,02:00 AM,GB,Manufacturing Production MoM  DEC,1,,-0.5%,,-0.2%
+Friday,February,2023,,10,02:00 AM,GB,Construction Output YoY  DEC,1,,4%,,2.9%
+Friday,February,2023,,10,02:00 AM,GB,Balance of Trade  DEC,1,,£-1.802B,,£ -2.8B
+Friday,February,2023,,10,02:00 AM,GB,Industrial Production YoY  DEC,1,,-5.1%,,-5.0%
+Friday,February,2023,,10,02:00 AM,GB,Manufacturing Production YoY  DEC,1,,-5.9%,,-6.0%
+Friday,February,2023,,10,02:00 AM,GB,GDP YoY  DEC,1,,0.2%,,0.1%
+Friday,February,2023,,10,02:00 AM,GB,Construction Orders YoY  Q4,1,,,,-10.4%
+Friday,February,2023,,10,02:00 AM,GB,Business Investment YoY Prel  Q4,1,,1.3%,,
+Friday,February,2023,,10,04:00 AM,IT,Industrial Production MoM  DEC,1,,-0.3%,,0.2%
+Friday,February,2023,,10,04:00 AM,IT,Industrial Production YoY  DEC,1,,-3.7%,,-1.1%
+Friday,February,2023,,10,05:10 AM,IT,12-Month BOT Auction,1,,,,
+Friday,February,2023,,10,05:30 AM,RU,Interest Rate Decision,1,,,,
+Friday,February,2023,,10,06:30 AM,IN,Bank Loan Growth YoY  JAN/27,1,,16.5%,,
+Friday,February,2023,,10,06:30 AM,IN,Foreign Exchange Reserves  FEB/03,1,,,,
+Friday,February,2023,,10,06:30 AM,IN,Deposit Growth YoY  JAN/27,1,,10.6%,,
+Friday,February,2023,,10,07:00 AM,IN,Manufacturing Production YoY  DEC,1,,6.1%,,4%
+Friday,February,2023,,10,07:00 AM,IN,Industrial Production YoY  DEC,1,,7.1%,,3.2%
+Friday,February,2023,,10,07:00 AM,MX,Industrial Production YoY  DEC,1,,3.2%,,3.6%
+Friday,February,2023,,10,07:00 AM,MX,Industrial Production MoM  DEC,1,,0%,,-0.5%
+Friday,February,2023,,10,07:00 AM,RU,CBR Press Conference,1,,,,
+Friday,February,2023,,10,08:00 AM,GB,NIESR Monthly GDP Tracker  JAN,1,,0.1%,,0.2%
+Friday,February,2023,,10,08:30 AM,CA,Unemployment Rate  JAN,1,,5%,,5.2%
+Friday,February,2023,,10,08:30 AM,CA,Employment Change  JAN,1,,104K,,15K
+Friday,February,2023,,10,08:30 AM,CA,Full Time Employment Chg  JAN,1,,84.5K,,5K
+Friday,February,2023,,10,08:30 AM,CA,Participation Rate  JAN,1,,65%,,64.9%
+Friday,February,2023,,10,08:30 AM,CA,Part Time Employment Chg  JAN,1,,19.5K,,10K
+Friday,February,2023,,10,08:30 AM,CA,Average Hourly Wages YoY  JAN,1,,5.2%,,4.4%
+Friday,February,2023,,10,08:45 AM,DE,Current Account  DEC,1,,€16.9B,,€12.5B
+Friday,February,2023,,10,09:30 AM,BR,Business Confidence  FEB,1,,48.6,,48
+Friday,February,2023,,10,10:00 AM,US,Michigan Consumer Sentiment Prel  FEB,1,,64.9,65,
+Friday,February,2023,,10,10:00 AM,US,Michigan Consumer Expectations Prel  FEB,1,,62.7,,
+Friday,February,2023,,10,10:00 AM,US,Michigan Current Conditions Prel  FEB,1,,68.4,,
+Friday,February,2023,,10,10:00 AM,US,Michigan 5 Year Inflation Expectations Prel  FEB,1,,2.9%,,
+Friday,February,2023,,10,10:00 AM,US,Michigan Inflation Expectations Prel  FEB,1,,3.9%,,
+Friday,February,2023,,10,01:00 PM,US,Baker Hughes Oil Rig Count  FEB/10,1,,,,
+Friday,February,2023,,10,01:00 PM,US,Baker Hughes Total Rig Count  FEB/10,1,,,,
+Friday,February,2023,,10,02:00 PM,US,Monthly Budget Statement  JAN,1,,$-85B,,
+Friday,February,2023,,10,,CN,New Yuan Loans  JAN,1,,CNY1400B,,CNY4150B
+Friday,February,2023,,10,,CN,Outstanding Loan Growth YoY  JAN,1,,11.1%,,11.2%
+Friday,February,2023,,10,,CN,Total Social Financing  JAN,1,,CNY1310B,,CNY3100B
+Friday,February,2023,,10,,CN,M2 Money Supply YoY  JAN,1,,11.8%,,12.1%
+Friday,February,2023,,10,,DE,Inflation Rate YoY Prel  JAN,1,,8.6%,9.2%,9%
+Friday,February,2023,,10,,DE,Inflation Rate MoM Prel  JAN,1,,-0.8%,1.1%,0.9%
+Friday,February,2023,,10,,DE,Harmonised Inflation Rate MoM Prel  JAN,1,,-1.2%,1.4%,1.1%
+Friday,February,2023,,10,,DE,Harmonised Inflation Rate YoY Prel  JAN,1,,9.6%,10%,10%
+Friday,February,2023,,10,,ZA,State of the Nation Address,1,,,,
+Saturday,February,2023,,11,,CN,Current Account Prel  Q4,1,,$144.3,,$90B
+Sunday,February,2023,,12,,EA,Eurogroup Meeting,1,,,,
+Monday,February,2023,,13,02:00 AM,TR,Current Account  DEC,1,,$-3.666B,,$ -2.5B
+Monday,February,2023,,13,02:00 AM,TR,Retail Sales YoY  DEC,1,,12.1%,,2.8%
+Monday,February,2023,,13,02:00 AM,TR,Retail Sales MoM  DEC,1,,1.5%,,-0.4%
+Monday,February,2023,,13,06:30 AM,BR,BCB Focus Market Readout,1,,,,
+Monday,February,2023,,13,09:00 AM,FR,3-Month BTF Auction,1,,,,
+Monday,February,2023,,13,09:00 AM,FR,12-Month BTF Auction,1,,,,
+Monday,February,2023,,13,09:00 AM,FR,6-Month BTF Auction,1,,,,
+Monday,February,2023,,13,11:00 AM,US,Consumer Inflation Expectations  JAN,1,,5%,,4.7%
+Monday,February,2023,,13,11:30 AM,US,3-Month Bill Auction,1,,,,
+Monday,February,2023,,13,11:30 AM,US,6-Month Bill Auction,1,,,,
+Monday,February,2023,,13,06:50 PM,JP,GDP Growth Annualized Prel  Q4,1,,-0.8%,,0.2%
+Monday,February,2023,,13,06:50 PM,JP,GDP Growth Rate QoQ Prel  Q4,1,,-0.2%,,0.1%
+Monday,February,2023,,13,06:50 PM,JP,GDP Price Index YoY Prel  Q4,1,,-0.3%,,
+Monday,February,2023,,13,06:50 PM,JP,GDP Private Consumption QoQ Prel  Q4,1,,0.1%,,0.3%
+Monday,February,2023,,13,06:50 PM,JP,GDP Capital Expenditure QoQ Prel  Q4,1,,1.5%,,1.8%
+Monday,February,2023,,13,06:50 PM,JP,GDP External Demand QoQ Prel  Q4,1,,-0.6%,,-0.8%
+Monday,February,2023,,13,07:30 PM,AU,NAB Business Confidence  JAN,1,,-1,,1
+Monday,February,2023,,13,11:30 PM,JP,Capacity Utilization MoM  DEC,1,,-1.4%,,95%
+Monday,February,2023,,13,11:30 PM,JP,Industrial Production YoY Final  DEC,1,,-0.9%,,-2.8%
+Monday,February,2023,,13,11:30 PM,JP,Industrial Production MoM Final  DEC,1,,0.2%,-0.1%,-0.1%
+Monday,February,2023,,13,,TR,Natural Gas Summit,1,,,,
+Monday,February,2023,,13,,IN,Passenger Vehicles Sales MoM  JAN,1,,-14.8%,,
+Monday,February,2023,,13,,ID,Motorbike Sales YoY  JAN,1,,,,
+Tuesday,February,2023,,14,01:30 AM,IN,WPI Fuel YoY  JAN,1,,18.09%,,18.2%
+Tuesday,February,2023,,14,01:30 AM,IN,WPI Food YoY  JAN,1,,-1.25%,,-1.3%
+Tuesday,February,2023,,14,01:30 AM,IN,WPI Manufacturing YoY  JAN,1,,3.37%,,3.3%
+Tuesday,February,2023,,14,01:30 AM,IN,WPI Inflation YoY  JAN,1,,4.95%,,4.9%
+Tuesday,February,2023,,14,02:00 AM,GB,Unemployment Rate  DEC,1,,3.7%,,3.80%
+Tuesday,February,2023,,14,02:00 AM,GB,Claimant Count Change  JAN,1,,19.7K,,
+Tuesday,February,2023,,14,02:00 AM,GB,Average Earnings incl. Bonus (3Mo/Yr)  DEC,1,,6.4%,,6.4%
+Tuesday,February,2023,,14,02:00 AM,GB,Employment Change  NOV,1,,27K,,
+Tuesday,February,2023,,14,02:00 AM,GB,Average Earnings excl. Bonus (3Mo/Yr)  DEC,1,,6.4%,,6.4%
+Tuesday,February,2023,,14,02:00 AM,GB,HMRC Payrolls Change  JAN,1,,28K,,
+Tuesday,February,2023,,14,04:40 AM,ES,3-Month Letras Auction,1,,2.182%,,
+Tuesday,February,2023,,14,05:00 AM,EA,GDP Growth Rate QoQ 2nd Est  Q4,1,,0.3%,0.1%,0.1%
+Tuesday,February,2023,,14,05:00 AM,EA,GDP Growth Rate YoY 2nd Est  Q4,1,,2.3%,1.9%,1.9%
+Tuesday,February,2023,,14,05:00 AM,EA,Employment Change QoQ Prel  Q4,1,,0.3%,,0.5%
+Tuesday,February,2023,,14,05:00 AM,EA,Employment Change YoY Prel  Q4,1,,1.8%,,0.5%
+Tuesday,February,2023,,14,05:00 AM,GB,10-Year Treasury Gilt Auction,1,,3.697%,,
+Tuesday,February,2023,,14,05:10 AM,IT,3-Year BTP Auction,1,,,,
+Tuesday,February,2023,,14,05:10 AM,IT,7-Year BTP Auction,1,,,,
+Tuesday,February,2023,,14,06:00 AM,US,NFIB Business Optimism Index  JAN,1,,89.8,,88
+Tuesday,February,2023,,14,07:00 AM,IN,Inflation Rate YoY  JAN,1,,5.72%,,5.7%
+Tuesday,February,2023,,14,07:00 AM,IN,Inflation Rate MoM  JAN,1,,-0.45%,,-0.3%
+Tuesday,February,2023,,14,08:30 AM,CA,New Motor Vehicle Sales  DEC,1,,123.87K,,90.9K
+Tuesday,February,2023,,14,08:30 AM,US,Inflation Rate YoY  JAN,1,,6.5%,,6.3%
+Tuesday,February,2023,,14,08:30 AM,US,Core Inflation Rate YoY  JAN,1,,5.7%,,5.5%
+Tuesday,February,2023,,14,08:30 AM,US,Core Inflation Rate MoM  JAN,1,,0.3%,,0.3%
+Tuesday,February,2023,,14,08:30 AM,US,Inflation Rate MoM  JAN,1,,-0.1%,,-0.1%
+Tuesday,February,2023,,14,08:30 AM,US,CPI  JAN,1,,296.797,,298
+Tuesday,February,2023,,14,08:55 AM,US,Redbook YoY  FEB/11,1,,,,
+Tuesday,February,2023,,14,02:00 PM,AR,Inflation Rate YoY  JAN,1,,94.8%,,98.3%
+Tuesday,February,2023,,14,02:00 PM,AR,Inflation Rate MoM  JAN,1,,5.1%,,5.7%
+Tuesday,February,2023,,14,04:00 PM,KR,Import Prices YoY  JAN,1,,9.1%,,
+Tuesday,February,2023,,14,04:00 PM,KR,Export Prices YoY  JAN,1,,,,
+Tuesday,February,2023,,14,04:30 PM,US,API Crude Oil Stock Change  FEB/10,1,,,,
+Tuesday,February,2023,,14,06:00 PM,KR,Unemployment Rate  JAN,1,,,,
+Tuesday,February,2023,,14,06:30 PM,AU,Westpac Consumer Confidence Change  FEB,1,,,,
+Tuesday,February,2023,,14,06:30 PM,AU,Westpac Consumer Confidence Index  FEB,1,,,,
+Tuesday,February,2023,,14,10:00 PM,ID,Consumer Confidence  JAN,1,,119.9,,
+Tuesday,February,2023,,14,11:00 PM,ID,Imports YoY  JAN,1,,-6.61%,,
+Tuesday,February,2023,,14,11:00 PM,ID,Balance of Trade  JAN,1,,$3.89B,,$3.1B
+Tuesday,February,2023,,14,11:00 PM,ID,Exports YoY  JAN,1,,6.58%,,
+Tuesday,February,2023,,14,11:30 PM,JP,Tertiary Industry Index MoM  DEC,1,,-0.2%,,
+Tuesday,February,2023,,14,,EU,ECOFIN Meeting,1,,,,
+Tuesday,February,2023,,14,,TR,Auto Production YoY  JAN,1,,8.2%,,
+Tuesday,February,2023,,14,,OP,OPEC Monthly Report,1,,,,
+Tuesday,February,2023,,14,,TR,Natural Gas Summit,1,,,,
+Wednesday,February,2023,,15,01:00 AM,SA,Inflation Rate YoY  JAN,1,,3.3%,,
+Wednesday,February,2023,,15,01:00 AM,SA,Inflation Rate MoM  JAN,1,,0.3%,,
+Wednesday,February,2023,,15,01:00 AM,SA,Wholesale Prices YoY  JAN,1,,3.0%,,3.7%
+Wednesday,February,2023,,15,02:00 AM,DE,Wholesale Prices MoM  JAN,1,,-1.6%,,
+Wednesday,February,2023,,15,02:00 AM,DE,Wholesale Prices YoY  JAN,1,,12.8%,,
+Wednesday,February,2023,,15,02:00 AM,GB,Inflation Rate YoY  JAN,1,,10.5%,,10.3%
+Wednesday,February,2023,,15,02:00 AM,GB,Inflation Rate MoM  JAN,1,,0.4%,,-0.3%
+Wednesday,February,2023,,15,02:00 AM,GB,Core Inflation Rate YoY  JAN,1,,6.3%,,
+Wednesday,February,2023,,15,02:00 AM,GB,PPI Core Output MoM  JAN,1,,0.1%,,-0.2%
+Wednesday,February,2023,,15,02:00 AM,GB,PPI Core Output YoY  JAN,1,,12.4%,,10.6%
+Wednesday,February,2023,,15,02:00 AM,GB,Core Inflation Rate MoM  JAN,1,,0.5%,,
+Wednesday,February,2023,,15,02:00 AM,GB,Retail Price Index MoM  JAN,1,,0.6%,,
+Wednesday,February,2023,,15,02:00 AM,GB,Retail Price Index YoY  JAN,1,,13.4%,,
+Wednesday,February,2023,,15,02:00 AM,GB,PPI Input MoM  JAN,1,,-1.1%,,-0.6%
+Wednesday,February,2023,,15,02:00 AM,GB,PPI Input YoY  JAN,1,,16.5%,,13.8%
+Wednesday,February,2023,,15,02:00 AM,GB,PPI Output YoY  JAN,1,,14.7%,,12.4%
+Wednesday,February,2023,,15,02:00 AM,GB,PPI Output MoM  JAN,1,,-0.8%,,-0.6%
+Wednesday,February,2023,,15,02:00 AM,GB,Labour Productivity QoQ Prel  Q4,1,,0.1%,,-0.3%
+Wednesday,February,2023,,15,03:00 AM,ZA,Inflation Rate MoM  JAN,1,,,,
+Wednesday,February,2023,,15,03:00 AM,ZA,Inflation Rate YoY  JAN,1,,7.2%,,
+Wednesday,February,2023,,15,03:00 AM,ZA,Core Inflation Rate YoY  JAN,1,,4.9%,,
+Wednesday,February,2023,,15,03:00 AM,ES,Inflation Rate YoY Final  JAN,1,,5.7%,5.8%,5.8%
+Wednesday,February,2023,,15,03:00 AM,ES,Harmonised Inflation Rate YoY Final  JAN,1,,5.5%,5.8%,5.8%
+Wednesday,February,2023,,15,03:00 AM,ES,Harmonised Inflation Rate MoM Final  JAN,1,,-0.1%,-0.5%,-0.5%
+Wednesday,February,2023,,15,03:00 AM,ES,Inflation Rate MoM Final  JAN,1,,0.2%,-0.3%,-0.3%
+Wednesday,February,2023,,15,03:00 AM,ES,CPI  JAN,1,,109.9,,109.6
+Wednesday,February,2023,,15,03:00 AM,ES,Core Inflation Rate YoY  JAN,1,,7%,,7.5%
+Wednesday,February,2023,,15,03:00 AM,TR,Budget Balance  JAN,1,,TRY-118.6B,,
+Wednesday,February,2023,,15,05:00 AM,EA,Industrial Production MoM  DEC,1,,1%,,0.3%
+Wednesday,February,2023,,15,05:00 AM,EA,Balance of Trade  DEC,1,,,,€ -30.8B
+Wednesday,February,2023,,15,05:00 AM,EA,Industrial Production YoY  DEC,1,,2%,,1.5%
+Wednesday,February,2023,,15,05:30 AM,DE,30-Year Bund Auction,1,,,,
+Wednesday,February,2023,,15,06:00 AM,ZA,Retail Sales YoY  DEC,1,,0.4%,,1.3%
+Wednesday,February,2023,,15,06:00 AM,ZA,Retail Sales MoM  DEC,1,,1.1%,,0.6%
+Wednesday,February,2023,,15,06:10 AM,EU,3-Month Bill Auction,1,,,,
+Wednesday,February,2023,,15,06:10 AM,EU,6-Month Bill Auction,1,,,,
+Wednesday,February,2023,,15,07:00 AM,US,MBA 30-Year Mortgage Rate  FEB/10,1,,,,
+Wednesday,February,2023,,15,07:00 AM,US,MBA Mortgage Applications  FEB/10,1,,,,
+Wednesday,February,2023,,15,07:00 AM,US,MBA Mortgage Refinance Index  FEB/10,1,,,,
+Wednesday,February,2023,,15,07:00 AM,US,MBA Mortgage Market Index  FEB/10,1,,,,
+Wednesday,February,2023,,15,07:00 AM,US,MBA Purchase Index  FEB/10,1,,,,
+Wednesday,February,2023,,15,07:20 AM,IN,Balance of Trade  JAN,1,,$-23.76B,,$-22.2B
+Wednesday,February,2023,,15,07:20 AM,IN,Imports  JAN,1,,$58.24B,,$54.5B
+Wednesday,February,2023,,15,07:20 AM,IN,Exports  JAN,1,,$34.48B,,$32.3B
+Wednesday,February,2023,,15,08:15 AM,CA,Housing Starts  JAN,1,,248.6K,,238K
+Wednesday,February,2023,,15,08:30 AM,CA,Manufacturing Sales MoM Final  DEC,1,,0%,,-1.8%
+Wednesday,February,2023,,15,08:30 AM,CA,Wholesale Sales MoM Final  DEC,1,,0.5%,-1.8%,-1.8%
+Wednesday,February,2023,,15,08:30 AM,US,Retail Sales MoM  JAN,1,,-1.1%,,-0.6%
+Wednesday,February,2023,,15,08:30 AM,US,Retail Sales Ex Autos MoM  JAN,1,,-1.1%,,-0.7%
+Wednesday,February,2023,,15,08:30 AM,US,NY Empire State Manufacturing Index  FEB,1,,-32.9,,
+Wednesday,February,2023,,15,08:30 AM,US,Retail Sales YoY  JAN,1,,6%,,4.5%
+Wednesday,February,2023,,15,08:30 AM,US,Retail Sales Ex Gas/Autos MoM  JAN,1,,-0.7%,,-0.4%
+Wednesday,February,2023,,15,09:15 AM,US,Industrial Production YoY  JAN,1,,1.6%,,
+Wednesday,February,2023,,15,09:15 AM,US,Industrial Production MoM  JAN,1,,-0.7%,,-0.9%
+Wednesday,February,2023,,15,09:15 AM,US,Manufacturing Production MoM  JAN,1,,-1.3%,,-1.6%
+Wednesday,February,2023,,15,09:15 AM,US,Capacity Utilization  JAN,1,,78.8%,,
+Wednesday,February,2023,,15,09:15 AM,US,Manufacturing Production YoY  JAN,1,,-0.5%,,-0.9%
+Wednesday,February,2023,,15,10:00 AM,US,Business Inventories MoM  DEC,1,,0.4%,,0.3%
+Wednesday,February,2023,,15,10:00 AM,US,NAHB Housing Market Index  FEB,1,,,,
+Wednesday,February,2023,,15,10:00 AM,US,Retail Inventories Ex Autos MoM  DEC,1,,-0.3%,,0.3%
+Wednesday,February,2023,,15,10:30 AM,US,EIA Crude Oil Stocks Change  FEB/10,1,,,,
+Wednesday,February,2023,,15,10:30 AM,US,EIA Gasoline Stocks Change  FEB/10,1,,,,
+Wednesday,February,2023,,15,10:30 AM,US,EIA Cushing Crude Oil Stocks Change  FEB/10,1,,,,
+Wednesday,February,2023,,15,10:30 AM,US,EIA Distillate Fuel Production Change  FEB/10,1,,,,
+Wednesday,February,2023,,15,10:30 AM,US,EIA Distillate Stocks Change  FEB/10,1,,,,
+Wednesday,February,2023,,15,10:30 AM,US,EIA Heating Oil Stocks Change  FEB/10,1,,,,
+Wednesday,February,2023,,15,10:30 AM,US,EIA Gasoline Production Change  FEB/10,1,,,,
+Wednesday,February,2023,,15,10:30 AM,US,EIA Crude Oil Imports Change  FEB/10,1,,,,
+Wednesday,February,2023,,15,10:30 AM,US,EIA Refinery Crude Runs Change  FEB/10,1,,,,
+Wednesday,February,2023,,15,12:00 PM,CA,3-Year Bond Auction,1,,,,
+Wednesday,February,2023,,15,01:00 PM,US,20-Year Bond Auction,1,,3.678%,,
+Wednesday,February,2023,,15,04:00 PM,US,Net Long-term TIC Flows  DEC,1,,,,
+Wednesday,February,2023,,15,04:00 PM,US,Foreign Bond Investment  DEC,1,,,,
+Wednesday,February,2023,,15,04:00 PM,US,Overall Net Capital Flows  DEC,1,,,,$ 23B
+Wednesday,February,2023,,15,06:50 PM,JP,Balance of Trade  JAN,1,,¥-1448.5B,,¥-1200.0B
+Wednesday,February,2023,,15,06:50 PM,JP,Exports YoY  JAN,1,,11.5%,,
+Wednesday,February,2023,,15,06:50 PM,JP,Machinery Orders MoM  DEC,1,,-8.3%,,-1.1%
+Wednesday,February,2023,,15,06:50 PM,JP,Machinery Orders YoY  DEC,1,,-3.7%,,
+Wednesday,February,2023,,15,06:50 PM,JP,Imports YoY  JAN,1,,20.6%,,
+Wednesday,February,2023,,15,06:50 PM,JP,Foreign Bond Investment  FEB/11,1,,,,
+Wednesday,February,2023,,15,06:50 PM,JP,Stock Investment by Foreigners  FEB/11,1,,,,
+Wednesday,February,2023,,15,07:00 PM,AU,Consumer Inflation Expectations  FEB,1,,,,
+Wednesday,February,2023,,15,07:30 PM,AU,Part Time Employment Chg  JAN,1,,-32.2K,,
+Wednesday,February,2023,,15,07:30 PM,AU,Unemployment Rate  JAN,1,,3.5%,,3.5%
+Wednesday,February,2023,,15,07:30 PM,AU,Employment Change  JAN,1,,-14.6K,,26K
+Wednesday,February,2023,,15,07:30 PM,AU,Full Time Employment Chg  JAN,1,,17.6K,,
+Wednesday,February,2023,,15,07:30 PM,AU,Participation Rate  JAN,1,,66.6%,,66.6%
+Wednesday,February,2023,,15,08:30 PM,CN,House Price Index YoY  JAN,1,,-1.5%,,-1.3%
+Wednesday,February,2023,,15,10:00 PM,ID,Retail Sales YoY  DEC,1,,1.3%,,3%
+Wednesday,February,2023,,15,10:35 PM,JP,52-Week Bill Auction,1,,-0.0616%,,
+Wednesday,February,2023,,15,10:35 PM,JP,5-Year JGB Auction,1,,0.393%,,
+Wednesday,February,2023,,15,,CN,FDI (YTD) YoY  JAN,1,,6.3%,,5%
+Wednesday,February,2023,,15,,ID,Car Sales YoY  JAN,1,,9.0%,,
+Wednesday,February,2023,,15,,AU,RBA Payments System Board Meeting,1,,,,
+Thursday,February,2023,,16,02:20 AM,ID,Loan Growth YoY  JAN,1,,11.35%,,
+Thursday,February,2023,,16,02:30 AM,ID,Interest Rate Decision,1,,5.75%,,6%
+Thursday,February,2023,,16,02:30 AM,ID,Deposit Facility Rate  FEB,1,,5%,,5.25%
+Thursday,February,2023,,16,02:30 AM,ID,Lending Facility Rate  FEB,1,,6.5%,,6.75%
+Thursday,February,2023,,16,04:00 AM,IT,Balance of Trade  DEC,1,,€1.445B,,€0.5B
+Thursday,February,2023,,16,04:00 AM,ES,Balance of Trade  DEC,1,,€-3.31B,,€ -7.8B
+Thursday,February,2023,,16,04:40 AM,ES,Obligacion Auction,1,,,,
+Thursday,February,2023,,16,04:40 AM,ES,Bonos Auction,1,,,,
+Thursday,February,2023,,16,05:00 AM,FR,3-Year BTAN Auction,1,,,,
+Thursday,February,2023,,16,05:00 AM,FR,5-Year BTAN Auction,1,,,,
+Thursday,February,2023,,16,06:00 AM,FR,10-Year Index-Linked OAT Auction,1,,,,
+Thursday,February,2023,,16,06:00 AM,ZA,Building Permits YoY  DEC,1,,8.7%,,6%
+Thursday,February,2023,,16,06:30 AM,TR,Foreign Exchange Reserves  FEB/10,1,,,,
+Thursday,February,2023,,16,07:00 AM,BR,IBC-BR Economic Activity  DEC,1,,-0.55%,,-0.1%
+Thursday,February,2023,,16,08:30 AM,CA,New Housing Price Index MoM  JAN,1,,,,-0.3%
+Thursday,February,2023,,16,08:30 AM,US,Building Permits Prel  JAN,1,,1.337M,,1.374M
+Thursday,February,2023,,16,08:30 AM,US,PPI MoM  JAN,1,,-0.5%,,-0.3%
+Thursday,February,2023,,16,08:30 AM,US,Core PPI MoM  JAN,1,,0.1%,,
+Thursday,February,2023,,16,08:30 AM,US,Housing Starts MoM  JAN,1,,-1.4%,,-1.2%
+Thursday,February,2023,,16,08:30 AM,US,Building Permits MoM Prel  JAN,1,,-1.0%,,2.8%
+Thursday,February,2023,,16,08:30 AM,US,Housing Starts  JAN,1,,1.382M,,1.37M
+Thursday,February,2023,,16,08:30 AM,US,Philadelphia Fed Manufacturing Index  FEB,1,,-8.9,,-7
+Thursday,February,2023,,16,08:30 AM,US,Initial Jobless Claims  FEB/11,1,,,,
+Thursday,February,2023,,16,08:30 AM,US,Jobless Claims 4-week Average  FEB/11,1,,,,
+Thursday,February,2023,,16,08:30 AM,US,Continuing Jobless Claims  FEB/04,1,,,,
+Thursday,February,2023,,16,08:30 AM,US,Philly Fed Prices Paid  FEB,1,,24.5,,
+Thursday,February,2023,,16,08:30 AM,US,Philly Fed CAPEX Index  FEB,1,,10.5,,
+Thursday,February,2023,,16,08:30 AM,US,Philly Fed Business Conditions  FEB,1,,4.9,,
+Thursday,February,2023,,16,08:30 AM,US,Philly Fed Employment  FEB,1,,10.9,,
+Thursday,February,2023,,16,08:30 AM,US,Philly Fed New Orders  FEB,1,,-10.9,,
+Thursday,February,2023,,16,08:30 AM,US,Core PPI YoY  JAN,1,,5.5%,,
+Thursday,February,2023,,16,08:30 AM,US,PPI YoY  JAN,1,,6.2%,,6%
+Thursday,February,2023,,16,10:30 AM,US,EIA Natural Gas Stocks Change  FEB/10,1,,,,
+Thursday,February,2023,,16,11:30 AM,US,8-Week Bill Auction,1,,,,
+Thursday,February,2023,,16,11:30 AM,US,4-Week Bill Auction,1,,,,
+Thursday,February,2023,,16,01:00 PM,US,30-Year TIPS Auction,1,,0.920%,,
+Thursday,February,2023,,16,05:30 PM,AU,RBA Gov Lowe Speech,1,,,,
+Thursday,February,2023,,16,07:30 PM,SG,Non-Oil Exports MoM  JAN,1,,-3.3%,,
+Thursday,February,2023,,16,07:30 PM,SG,Non-Oil Exports YoY  JAN,1,,-20.6%,,
+Thursday,February,2023,,16,08:30 PM,SG,Balance of Trade  JAN,1,,$5.367B,,
+Thursday,February,2023,,16,10:35 PM,JP,3-Month Bill Auction,1,,,,
+Friday,February,2023,,17,01:30 AM,FR,Unemployment Rate  Q4,1,,7.3%,,7.50%
+Friday,February,2023,,17,02:00 AM,EU,New Car Registrations YoY  JAN,1,,12.8%,,
+Friday,February,2023,,17,02:00 AM,GB,Retail Sales MoM  JAN,1,,-1%,,-1.8%
+Friday,February,2023,,17,02:00 AM,GB,Retail Sales YoY  JAN,1,,-5.8%,,
+Friday,February,2023,,17,02:00 AM,GB,Retail Sales ex Fuel MoM  JAN,1,,-1.1%,,
+Friday,February,2023,,17,02:00 AM,GB,Retail Sales ex Fuel YoY  JAN,1,,-6.1%,,
+Friday,February,2023,,17,02:45 AM,FR,Inflation Rate YoY Final  JAN,1,,5.9%,6%,6.0%
+Friday,February,2023,,17,02:45 AM,FR,Inflation Rate MoM Final  JAN,1,,-0.1%,0.4%,0.4%
+Friday,February,2023,,17,02:45 AM,FR,Harmonised Inflation Rate MoM Final  JAN,1,,-0.1%,0.4%,0.4%
+Friday,February,2023,,17,02:45 AM,FR,Harmonised Inflation Rate YoY Final  JAN,1,,6.7%,7%,7.0%
+Friday,February,2023,,17,04:00 AM,EA,Current Account s.a  DEC,1,,,,
+Friday,February,2023,,17,04:00 AM,EA,Current Account  DEC,1,,€13.41B,,€ -9B
+Friday,February,2023,,17,05:00 AM,IT,Current Account  DEC,1,,€446M,,€250
+Friday,February,2023,,17,06:30 AM,IN,Foreign Exchange Reserves  FEB/10,1,,,,
+Friday,February,2023,,17,08:30 AM,CA,New Housing Price Index YoY  JAN,1,,3.9%,,2.9%
+Friday,February,2023,,17,08:30 AM,CA,Foreign Securities Purchases by Canadians  DEC,1,,C$14.13B,,
+Friday,February,2023,,17,08:30 AM,CA,Foreign Securities Purchases  DEC,1,,C$12.76B,,C$ 13.1B
+Friday,February,2023,,17,08:30 AM,CA,Raw Materials Prices MoM  JAN,1,,-3.1%,,0.4%
+Friday,February,2023,,17,08:30 AM,CA,PPI YoY  JAN,1,,7.6%,,4.8%
+Friday,February,2023,,17,08:30 AM,CA,PPI MoM  JAN,1,,-1.1%,,-0.1%
+Friday,February,2023,,17,08:30 AM,CA,Raw Materials Prices YoY  JAN,1,,7.5%,,6.2%
+Friday,February,2023,,17,08:30 AM,US,Export Prices MoM  JAN,1,,-2.6%,,
+Friday,February,2023,,17,08:30 AM,US,Import Prices MoM  JAN,1,,0.4%,,0.3%
+Friday,February,2023,,17,08:30 AM,US,Import Prices YoY  JAN,1,,3.5%,,1.8%
+Friday,February,2023,,17,08:30 AM,US,Export Prices YoY  JAN,1,,5%,,
+Friday,February,2023,,17,10:00 AM,US,CB Leading Index MoM  JAN,1,,-1%,,
+Friday,February,2023,,17,11:00 AM,RU,Full Year GDP Growth  2022,1,,4.7%,,-2.5%
+Friday,February,2023,,17,01:00 PM,US,Baker Hughes Total Rig Count  FEB/17,1,,,,
+Friday,February,2023,,17,01:00 PM,US,Baker Hughes Oil Rig Count  FEB/17,1,,,,
+Saturday,February,2023,,18,,CN,Vehicle Sales YoY  JAN,1,,-8.4%,,-3%
+Sunday,February,2023,,19,07:00 PM,AU,Westpac Leading Index MoM  JAN,1,,-0.1%,,
+Sunday,February,2023,,19,08:15 PM,CN,Loan Prime Rate 5Y  FEB,1,,4.3%,,4.3%
+Sunday,February,2023,,19,08:15 PM,CN,Loan Prime Rate 1Y,1,,3.65%,,3.65%
+Monday,February,2023,,20,02:00 AM,DE,PPI MoM  JAN,1,,-0.4%,,
+Monday,February,2023,,20,02:00 AM,DE,PPI YoY  JAN,1,,21.6%,,
+Monday,February,2023,,20,02:00 AM,TR,Consumer Confidence  FEB,1,,79.1,,
+Monday,February,2023,,20,05:00 AM,EA,Construction Output YoY  DEC,1,,1.3%,,2.1%
+Monday,February,2023,,20,05:30 AM,DE,12-Month Bubill Auction,1,,,,
+Monday,February,2023,,20,09:00 AM,FR,3-Month BTF Auction,1,,,,
+Monday,February,2023,,20,09:00 AM,FR,12-Month BTF Auction,1,,,,
+Monday,February,2023,,20,09:00 AM,FR,6-Month BTF Auction,1,,,,
+Monday,February,2023,,20,09:30 AM,TR,Central Government Debt  JAN,1,,,,
+Monday,February,2023,,20,10:00 AM,EA,Consumer Confidence Flash  FEB,1,,-20.9,,-21.2
+Monday,February,2023,,20,04:00 PM,KR,Consumer Confidence  FEB,1,,,,
+Monday,February,2023,,20,05:00 PM,AU,Judo Bank Manufacturing PMI Flash  FEB,1,,,,
+Monday,February,2023,,20,05:00 PM,AU,Judo Bank Services PMI Flash  FEB,1,,,,
+Monday,February,2023,,20,05:00 PM,AU,Judo Bank Composite PMI Flash  FEB,1,,,,
+Monday,February,2023,,20,07:30 PM,AU,RBA Meeting Minutes,1,,,,
+Monday,February,2023,,20,07:30 PM,JP,Jibun Bank Manufacturing PMI Flash  FEB,1,,,,
+Monday,February,2023,,20,07:30 PM,JP,Jibun Bank Services PMI Flash  FEB,1,,,,
+Monday,February,2023,,20,07:30 PM,JP,Jibun Bank Composite PMI Flash  FEB,1,,,,
+Monday,February,2023,,20,10:35 PM,JP,20-Year JGB Auction,1,,1.341%,,
+Monday,February,2023,,20,,RU,Monetary Policy Report,1,,,,
+Monday,February,2023,,20,,BR,BCB Focus Market Readout,1,,,,
+Tuesday,February,2023,,21,01:00 AM,SA,Balance of Trade  DEC,1,,SAR50.1B,,SAR52.0B
+Tuesday,February,2023,,21,02:00 AM,ZA,Leading Business Cycle Indicator MoM  DEC,1,,0.1%,,0.3%
+Tuesday,February,2023,,21,02:00 AM,GB,Public Sector Net Borrowing Ex Banks  JAN,1,,£-27.4B,,£1.2B
+Tuesday,February,2023,,21,02:00 AM,GB,Public Sector Net Borrowing  JAN,1,,£-26.6B,,£2.2B
+Tuesday,February,2023,,21,03:15 AM,FR,S P Global Manufacturing PMI Flash  FEB,1,,,,
+Tuesday,February,2023,,21,03:15 AM,FR,S P Global Services PMI Flash  FEB,1,,,,
+Tuesday,February,2023,,21,03:15 AM,FR,S P Global Composite PMI Flash  FEB,1,,,,
+Tuesday,February,2023,,21,03:30 AM,DE,S P Global Services PMI Flash  FEB,1,,,,
+Tuesday,February,2023,,21,03:30 AM,DE,S P Global Manufacturing PMI Flash  FEB,1,,,,
+Tuesday,February,2023,,21,03:30 AM,DE,S P Global Composite PMI Flash  FEB,1,,,,
+Tuesday,February,2023,,21,04:00 AM,EA,S P Global Manufacturing PMI Flash  FEB,1,,,,
+Tuesday,February,2023,,21,04:00 AM,EA,S P Global Services PMI Flash  FEB,1,,,,
+Tuesday,February,2023,,21,04:00 AM,EA,S P Global Composite PMI Flash  FEB,1,,,,
+Tuesday,February,2023,,21,04:30 AM,ZA,Unemployment Rate  Q4,1,,32.9%,,33.2%
+Tuesday,February,2023,,21,04:30 AM,ZA,Unemployed Persons  Q4,1,,7.7M,,7.8M
+Tuesday,February,2023,,21,04:30 AM,GB,S P Global/CIPS Manufacturing PMI Flash  FEB,1,,,,46.7
+Tuesday,February,2023,,21,04:30 AM,GB,S P Global/CIPS UK Services PMI Flash  FEB,1,,,,49.3
+Tuesday,February,2023,,21,04:30 AM,GB,S P Global/CIPS Composite PMI Flash  FEB,1,,,,48.5
+Tuesday,February,2023,,21,05:00 AM,EA,ZEW Economic Sentiment Index  FEB,1,,16.7,,18.5
+Tuesday,February,2023,,21,05:00 AM,DE,ZEW Economic Sentiment Index  FEB,1,,16.9,,25.1
+Tuesday,February,2023,,21,05:00 AM,DE,ZEW Current Conditions  FEB,1,,,,
+Tuesday,February,2023,,21,05:30 AM,DE,5-Year Bobl Auction,1,,2.22%,,
+Tuesday,February,2023,,21,07:00 AM,MX,Retail Sales MoM  DEC,1,,-0.2%,,0.1%
+Tuesday,February,2023,,21,07:00 AM,MX,Retail Sales YoY  DEC,1,,,,2.8%
+Tuesday,February,2023,,21,08:30 AM,CA,Inflation Rate YoY  JAN,1,,6.3%,,5.6%
+Tuesday,February,2023,,21,08:30 AM,CA,Inflation Rate MoM  JAN,1,,-0.6%,,0.2%
+Tuesday,February,2023,,21,08:30 AM,CA,Retail Sales MoM  DEC,1,,-0.1%,,-0.3%
+Tuesday,February,2023,,21,08:30 AM,CA,Retail Sales Ex Autos MoM  DEC,1,,-0.6%,,-0.3%
+Tuesday,February,2023,,21,08:30 AM,CA,Core Inflation Rate YoY  JAN,1,,5.4%,,4.7%
+Tuesday,February,2023,,21,08:30 AM,CA,Core Inflation Rate MoM  JAN,1,,-0.3%,,0.1%
+Tuesday,February,2023,,21,08:30 AM,CA,Retail Sales YoY  DEC,1,,5.2%,,3.5%
+Tuesday,February,2023,,21,08:30 AM,CA,CPI Trimmed-Mean YoY  JAN,1,,5.3%,,5.2%
+Tuesday,February,2023,,21,08:30 AM,CA,CPI Median YoY  JAN,1,,5%,,4.9%
+Tuesday,February,2023,,21,08:55 AM,US,Redbook YoY  FEB/18,1,,,,
+Tuesday,February,2023,,21,09:45 AM,US,S P Global Manufacturing PMI Flash  FEB,1,,,,
+Tuesday,February,2023,,21,09:45 AM,US,S P Global Composite PMI Flash  FEB,1,,,,
+Tuesday,February,2023,,21,09:45 AM,US,S P Global Services PMI Flash  FEB,1,,,,
+Tuesday,February,2023,,21,10:00 AM,US,Existing Home Sales MoM  JAN,1,,-1.5%,,-0.2%
+Tuesday,February,2023,,21,10:00 AM,US,Existing Home Sales  JAN,1,,4.02M,,4M
+Tuesday,February,2023,,21,11:30 AM,US,52-Week Bill Auction,1,,,,
+Tuesday,February,2023,,21,11:30 AM,US,3-Month Bill Auction,1,,,,
+Tuesday,February,2023,,21,11:30 AM,US,6-Month Bill Auction,1,,,,
+Tuesday,February,2023,,21,01:00 PM,US,2-Year Note Auction,1,,,,
+Tuesday,February,2023,,21,04:00 PM,KR,Business Confidence  FEB,1,,,,
+Tuesday,February,2023,,21,06:00 PM,JP,Reuters Tankan Index  FEB,1,,,,
+Tuesday,February,2023,,21,07:30 PM,AU,Construction Work Done QoQ  Q4,1,,2.2%,,1.2%
+Tuesday,February,2023,,21,07:30 PM,AU,Wage Price Index QoQ  Q4,1,,1%,,1.1%
+Tuesday,February,2023,,21,07:30 PM,AU,Wage Price Index YoY  Q4,1,,3.1%,,3.6%
+Wednesday,February,2023,,22,01:30 AM,DE,North Rhine Westphalia CPI YoY  JAN,1,,8.7%,,
+Wednesday,February,2023,,22,01:30 AM,DE,North Rhine Westphalia CPI MoM  JAN,1,,-1%,,
+Wednesday,February,2023,,22,02:00 AM,DE,Inflation Rate YoY Final  JAN,1,,8.6%,,
+Wednesday,February,2023,,22,02:00 AM,DE,Inflation Rate MoM Final  JAN,1,,-0.8%,,
+Wednesday,February,2023,,22,02:00 AM,DE,Harmonised Inflation Rate MoM Final  JAN,1,,-1.2%,,
+Wednesday,February,2023,,22,02:00 AM,DE,Harmonised Inflation Rate YoY Final  JAN,1,,9.6%,,
+Wednesday,February,2023,,22,02:00 AM,DE,CPI  JAN,1,,120.6,,
+Wednesday,February,2023,,22,02:00 AM,TR,Business Confidence  FEB,1,,101.7,,
+Wednesday,February,2023,,22,02:00 AM,TR,Capacity Utilization  FEB,1,,75.3%,,
+Wednesday,February,2023,,22,02:45 AM,FR,Business Confidence  FEB,1,,103,,
+Wednesday,February,2023,,22,02:45 AM,FR,Business Climate Indicator  FEB,1,,102,,
+Wednesday,February,2023,,22,03:00 AM,EA,ECB Non-Monetary Policy Meeting,1,,,,
+Wednesday,February,2023,,22,04:00 AM,DE,Ifo Business Climate  FEB,1,,90.2,,
+Wednesday,February,2023,,22,04:00 AM,DE,Ifo Expectations  FEB,1,,,,
+Wednesday,February,2023,,22,04:00 AM,DE,Ifo Current Conditions  FEB,1,,,,
+Wednesday,February,2023,,22,04:00 AM,DE,Hesse CPI MoM  JAN,1,,-0.7%,,
+Wednesday,February,2023,,22,04:00 AM,DE,Hesse CPI YoY  JAN,1,,8.1%,,
+Wednesday,February,2023,,22,04:00 AM,DE,Brandenburg CPI MoM  JAN,1,,-0.6%,,
+Wednesday,February,2023,,22,04:00 AM,DE,Brandenburg CPI YoY  JAN,1,,9.1%,,
+Wednesday,February,2023,,22,04:00 AM,DE,Bavaria CPI MoM  JAN,1,,-1.1%,,
+Wednesday,February,2023,,22,04:00 AM,DE,Bavaria CPI YoY  JAN,1,,9.2%,,
+Wednesday,February,2023,,22,04:00 AM,DE,Baden Wuerttemberg CPI YoY  JAN,1,,8.5%,,
+Wednesday,February,2023,,22,04:00 AM,DE,Baden Wuerttemberg CPI MoM  JAN,1,,-0.4%,,
+Wednesday,February,2023,,22,04:00 AM,IT,Inflation Rate YoY Final  JAN,1,,11.6%,,
+Wednesday,February,2023,,22,04:00 AM,IT,Harmonised Inflation Rate YoY Final  JAN,1,,12.3%,,
+Wednesday,February,2023,,22,04:00 AM,IT,Harmonised Inflation Rate MoM Final  JAN,1,,0.2%,,
+Wednesday,February,2023,,22,04:00 AM,IT,Inflation Rate MoM Final  JAN,1,,0.3%,,
+Wednesday,February,2023,,22,05:00 AM,DE,Saxony CPI MoM  JAN,1,,-0.6%,,
+Wednesday,February,2023,,22,05:00 AM,DE,Saxony CPI YoY  JAN,1,,8.7%,,
+Wednesday,February,2023,,22,05:00 AM,IT,Construction Output YoY  DEC,1,,,,-3%
+Wednesday,February,2023,,22,05:00 AM,IT,CPI Final  JAN,1,,119,,
+Wednesday,February,2023,,22,05:10 AM,IT,Index-Linked BTP Auction,1,,,,
+Wednesday,February,2023,,22,05:10 AM,IT,BTP Short Term,1,,,,
+Wednesday,February,2023,,22,05:30 AM,DE,10-Year Bund Auction,1,,,,
+Wednesday,February,2023,,22,06:00 AM,GB,CBI Industrial Trends Orders  FEB,1,,-17,,-12
+Wednesday,February,2023,,22,07:00 AM,US,MBA 30-Year Mortgage Rate  FEB/17,1,,,,
+Wednesday,February,2023,,22,07:00 AM,US,MBA Mortgage Applications  FEB/17,1,,,,
+Wednesday,February,2023,,22,07:00 AM,US,MBA Mortgage Refinance Index  FEB/17,1,,,,
+Wednesday,February,2023,,22,07:00 AM,US,MBA Mortgage Market Index  FEB/17,1,,,,
+Wednesday,February,2023,,22,07:00 AM,US,MBA Purchase Index  FEB/17,1,,,,
+Wednesday,February,2023,,22,09:00 AM,AR,Leading Indicator MoM  JAN,1,,0.1%,,
+Wednesday,February,2023,,22,10:00 AM,RU,Industrial Production YoY  JAN,1,,,,
+Wednesday,February,2023,,22,11:00 AM,RU,PPI YoY  JAN,1,,-3.3%,,-4.0%
+Wednesday,February,2023,,22,11:00 AM,RU,PPI MoM  JAN,1,,,,
+Wednesday,February,2023,,22,11:30 AM,US,2-Year FRN Auction,1,,0.200%,,
+Wednesday,February,2023,,22,01:00 PM,US,5-Year Note Auction,1,,3.530%,,
+Wednesday,February,2023,,22,02:00 PM,AR,Balance of Trade  JAN,1,,$1102M,,$1159.0M
+Wednesday,February,2023,,22,02:00 PM,US,FOMC Minutes,1,,,,
+Wednesday,February,2023,,22,04:00 PM,KR,PPI YoY  JAN,1,,6%,,5.8%
+Wednesday,February,2023,,22,04:00 PM,KR,PPI MoM  JAN,1,,-0.3%,,-0.2%
+Wednesday,February,2023,,22,04:30 PM,US,API Crude Oil Stock Change  FEB/17,1,,,,
+Wednesday,February,2023,,22,06:50 PM,JP,Foreign Bond Investment  FEB/18,1,,,,
+Wednesday,February,2023,,22,06:50 PM,JP,Stock Investment by Foreigners  FEB/18,1,,,,
+Wednesday,February,2023,,22,07:30 PM,AU,Building Capital Expenditure QoQ  Q4,1,,0.5%,,
+Wednesday,February,2023,,22,07:30 PM,AU,Plant Machinery Capital Expenditure QoQ  Q4,1,,-1.6%,,
+Wednesday,February,2023,,22,07:30 PM,AU,Private Capital Expenditure QoQ  Q4,1,,-0.6%,,0.5%
+Wednesday,February,2023,,22,08:00 PM,KR,Interest Rate Decision,1,,3.5%,,3.75%
+Wednesday,February,2023,,22,09:10 PM,SG,Current Account  Q4,1,,$30.38B,,$28B
+Wednesday,February,2023,,22,10:00 PM,ID,Property Price Index YoY  Q4,1,,1.94%,,218%
+Wednesday,February,2023,,22,,ZA,Budget 2023,1,,,,
+Wednesday,February,2023,,22,,AR,Interest Rate Decision,1,,,,
+Thursday,February,2023,,23,12:00 AM,SG,CPI  JAN,1,,111.2,,111.1
+Thursday,February,2023,,23,12:00 AM,SG,Core Inflation Rate YoY  JAN,1,,5.1%,,5.0%
+Thursday,February,2023,,23,12:00 AM,SG,Inflation Rate YoY  JAN,1,,6.5%,,6.3%
+Thursday,February,2023,,23,12:00 AM,SG,Inflation Rate MoM  JAN,1,,0.2%,,0.2%
+Thursday,February,2023,,23,04:30 AM,ZA,PPI MoM  JAN,1,,0%,,
+Thursday,February,2023,,23,04:30 AM,ZA,PPI YoY  JAN,1,,13.5%,,
+Thursday,February,2023,,23,05:00 AM,EA,Inflation Rate YoY Final  JAN,1,,9.2%,,
+Thursday,February,2023,,23,05:00 AM,EA,Inflation Rate MoM Final  JAN,1,,-0.4%,,
+Thursday,February,2023,,23,05:00 AM,EA,CPI Final  JAN,1,,120.52,,
+Thursday,February,2023,,23,05:00 AM,EA,Core Inflation Rate YoY Final  JAN,1,,5.2%,,
+Thursday,February,2023,,23,05:10 AM,IT,6-Month BOT Auction,1,,,,
+Thursday,February,2023,,23,06:00 AM,CA,CFIB Business Barometer  FEB,1,,51.4,,
+Thursday,February,2023,,23,06:00 AM,TR,TCMB Interest Rate Decision,1,,9%,,9%
+Thursday,February,2023,,23,06:00 AM,TR,Overnight Borrowing Rate  FEB,1,,,,
+Thursday,February,2023,,23,06:00 AM,TR,Overnight Lending Rate  FEB,1,,,,
+Thursday,February,2023,,23,06:30 AM,IN,M3 Money Supply YoY  FEB/10,1,,,,
+Thursday,February,2023,,23,06:30 AM,TR,Foreign Exchange Reserves  FEB/17,1,,,,
+Thursday,February,2023,,23,07:00 AM,MX,Mid-month Core Inflation Rate MoM  FEB,1,,0.44%,,
+Thursday,February,2023,,23,07:00 AM,MX,Mid-month Inflation Rate YoY  FEB,1,,7.94%,,
+Thursday,February,2023,,23,07:00 AM,MX,Mid-month Inflation Rate MoM  FEB,1,,,,
+Thursday,February,2023,,23,08:30 AM,US,GDP Price Index QoQ 2nd Est  Q4,1,,4.4%,,3.5%
+Thursday,February,2023,,23,08:30 AM,US,GDP Growth Rate QoQ 2nd Est  Q4,1,,3.2%,,2.8%
+Thursday,February,2023,,23,08:30 AM,US,Chicago Fed National Activity Index  JAN,1,,-0.49,,
+Thursday,February,2023,,23,08:30 AM,US,Initial Jobless Claims  FEB/18,1,,,,
+Thursday,February,2023,,23,08:30 AM,US,Jobless Claims 4-week Average  FEB/18,1,,,,
+Thursday,February,2023,,23,08:30 AM,US,Continuing Jobless Claims  FEB/11,1,,,,
+Thursday,February,2023,,23,08:30 AM,US,Real Consumer Spending QoQ 2nd Est  Q4,1,,2.3%,,2.0%
+Thursday,February,2023,,23,08:30 AM,US,GDP Sales QoQ 2nd Est  Q4,1,,,,1.4%
+Thursday,February,2023,,23,08:30 AM,US,PCE Prices QoQ 2nd Est  Q4,1,,,,3.2%
+Thursday,February,2023,,23,08:30 AM,US,Core PCE Prices QoQ 2nd Est  Q4,1,,,,3.9%
+Thursday,February,2023,,23,09:00 AM,AR,Consumer Confidence  FEB,1,,39,,
+Thursday,February,2023,,23,10:00 AM,MX,Monetary Policy Meeting Minutes,1,,,,
+Thursday,February,2023,,23,10:30 AM,US,EIA Natural Gas Stocks Change  FEB/17,1,,,,
+Thursday,February,2023,,23,11:00 AM,US,EIA Gasoline Stocks Change  FEB/17,1,,,,
+Thursday,February,2023,,23,11:00 AM,US,EIA Crude Oil Stocks Change  FEB/17,1,,,,
+Thursday,February,2023,,23,11:00 AM,US,EIA Distillate Stocks Change  FEB/17,1,,,,
+Thursday,February,2023,,23,11:00 AM,US,EIA Heating Oil Stocks Change  FEB/17,1,,,,
+Thursday,February,2023,,23,11:00 AM,US,EIA Gasoline Production Change  FEB/17,1,,,,
+Thursday,February,2023,,23,11:00 AM,US,EIA Crude Oil Imports Change  FEB/17,1,,,,
+Thursday,February,2023,,23,11:00 AM,US,EIA Cushing Crude Oil Stocks Change  FEB/17,1,,,,
+Thursday,February,2023,,23,11:00 AM,US,EIA Distillate Fuel Production Change  FEB/17,1,,,,
+Thursday,February,2023,,23,11:00 AM,US,EIA Refinery Crude Runs Change  FEB/17,1,,,,
+Thursday,February,2023,,23,11:00 AM,US,Kansas Fed Composite Index  FEB,1,,,,
+Thursday,February,2023,,23,11:00 AM,US,Kansas Fed Manufacturing Index  FEB,1,,-4,,
+Thursday,February,2023,,23,11:30 AM,US,8-Week Bill Auction,1,,,,
+Thursday,February,2023,,23,11:30 AM,US,4-Week Bill Auction,1,,,,
+Thursday,February,2023,,23,12:00 PM,CA,10-Year Bond Auction,1,,,,
+Thursday,February,2023,,23,01:00 PM,US,7-Year Note Auction,1,,3.517%,,
+Thursday,February,2023,,23,02:00 PM,AR,Economic Activity YoY  DEC,1,,,,
+Thursday,February,2023,,23,06:30 PM,JP,Inflation Rate YoY  JAN,1,,4%,,4.1%
+Thursday,February,2023,,23,06:30 PM,JP,Core Inflation Rate YoY  JAN,1,,4%,,4%
+Thursday,February,2023,,23,06:30 PM,JP,Inflation Rate Ex-Food and Energy YoY  JAN,1,,3%,,3%
+Thursday,February,2023,,23,06:30 PM,JP,Inflation Rate MoM  JAN,1,,0.3%,,0.2%
+Thursday,February,2023,,23,07:01 PM,GB,Gfk Consumer Confidence  FEB,1,,-45,,-42
+Thursday,February,2023,,23,07:01 PM,GB,Car Production YoY  JAN,1,,,,
+Thursday,February,2023,,23,08:00 PM,SG,GDP Growth Rate YoY Final  Q4,1,,4.1%,2%,2.2%
+Thursday,February,2023,,23,09:00 PM,SG,GDP Growth Rate QoQ Final  Q4,1,,1.1%,,0.2%
+Thursday,February,2023,,23,10:35 PM,JP,3-Month Bill Auction,1,,,,
+Thursday,February,2023,,23,,BR,Federal Tax Revenues  JAN,1,,BRL210.2B,,BRL240.4B
+Friday,February,2023,,24,12:00 AM,SG,Industrial Production MoM  JAN,1,,3.2%,,
+Friday,February,2023,,24,12:00 AM,SG,Industrial Production YoY  JAN,1,,-3.1%,,
+Friday,February,2023,,24,02:00 AM,DE,GfK Consumer Confidence  MAR,1,,-33.9,,-34
+Friday,February,2023,,24,02:00 AM,DE,GDP Growth Rate YoY Final  Q4,1,,1.4%,1.1%,1.1%
+Friday,February,2023,,24,02:00 AM,DE,GDP Growth Rate QoQ Final  Q4,1,,0.5%,-0.2%,-0.2%
+Friday,February,2023,,24,02:00 AM,DE,Import Prices YoY  JAN,1,,12.6%,,7.2%
+Friday,February,2023,,24,02:00 AM,DE,Import Prices MoM  JAN,1,,-1.6%,,-0.7%
+Friday,February,2023,,24,02:45 AM,FR,Consumer Confidence  FEB,1,,80,,
+Friday,February,2023,,24,02:45 AM,FR,GDP Growth Rate QoQ Final  Q4,1,,0.2%,0.1%,0.1%
+Friday,February,2023,,24,02:45 AM,FR,GDP Growth Rate YoY Final  Q4,1,,1%,0.5%,0.5%
+Friday,February,2023,,24,03:00 AM,ES,PPI YoY  JAN,1,,14.7%,,14.3%
+Friday,February,2023,,24,03:00 AM,TR,Tourist Arrivals YoY  JAN,1,,26.79%,,
+Friday,February,2023,,24,05:10 AM,IT,5-Year BTP Auction,1,,3.70%,,
+Friday,February,2023,,24,05:10 AM,IT,10-Year BTP Auction,1,,4.28%,,
+Friday,February,2023,,24,06:00 AM,BR,FGV Consumer Confidence  FEB,1,,85.8,,85
+Friday,February,2023,,24,06:00 AM,GB,CBI Distributive Trades  FEB,1,,-23,,-14
+Friday,February,2023,,24,06:30 AM,IN,Foreign Exchange Reserves  FEB/17,1,,,,
+Friday,February,2023,,24,06:30 AM,IN,Deposit Growth YoY  FEB/10,1,,,,
+Friday,February,2023,,24,06:30 AM,IN,Bank Loan Growth YoY  FEB/10,1,,,,
+Friday,February,2023,,24,07:00 AM,BR,IPCA mid-month CPI YoY  FEB,1,,5.87%,,
+Friday,February,2023,,24,07:00 AM,BR,IPCA mid-month CPI MoM  FEB,1,,0.55%,,
+Friday,February,2023,,24,07:00 AM,MX,GDP Growth Rate QoQ Final  Q4,1,,0.9%,,0.4%
+Friday,February,2023,,24,07:00 AM,MX,GDP Growth Rate YoY Final  Q4,1,,4.3%,,3.5%
+Friday,February,2023,,24,07:00 AM,MX,Economic Activity MoM  DEC,1,,,,-0.2%
+Friday,February,2023,,24,07:00 AM,MX,Mid-month Core Inflation Rate YoY  FEB,1,,8.45%,,
+Friday,February,2023,,24,07:00 AM,MX,Economic Activity YoY  DEC,1,,,,2.9%
+Friday,February,2023,,24,07:30 AM,BR,Current Account  JAN,1,,$-10.878B,,$ -10.5B
+Friday,February,2023,,24,07:30 AM,BR,Foreign Direct Investment  JAN,1,,$5.57B,,$ 7.1B
+Friday,February,2023,,24,08:00 AM,US,Building Permits Final  JAN,1,,1.337M,,
+Friday,February,2023,,24,08:00 AM,US,Building Permits MoM Final  JAN,1,,-1.0%,,
+Friday,February,2023,,24,08:30 AM,CA,Wholesale Sales MoM Prel  JAN,1,,,,
+Friday,February,2023,,24,08:30 AM,CA,Average Weekly Earnings YoY  DEC,1,,4.2%,,3.0%
+Friday,February,2023,,24,08:30 AM,CA,Manufacturing Sales MoM Prel  JAN,1,,,,
+Friday,February,2023,,24,08:30 AM,US,Personal Income MoM  JAN,1,,0.2%,,
+Friday,February,2023,,24,08:30 AM,US,Personal Spending MoM  JAN,1,,,,
+Friday,February,2023,,24,08:30 AM,US,Core PCE Price Index MoM  JAN,1,,0.3%,,
+Friday,February,2023,,24,08:30 AM,US,PCE Price Index MoM  JAN,1,,0.1%,,
+Friday,February,2023,,24,08:30 AM,US,PCE Price Index YoY  JAN,1,,5%,,
+Friday,February,2023,,24,08:30 AM,US,Core PCE Price Index YoY  JAN,1,,4.4%,,
+Friday,February,2023,,24,10:00 AM,MX,Current Account  Q4,1,,,,$ 4324M
+Friday,February,2023,,24,10:00 AM,US,New Home Sales MoM  JAN,1,,2.3%,,0.4%
+Friday,February,2023,,24,10:00 AM,US,New Home Sales  JAN,1,,0.616M,,0.615M
+Friday,February,2023,,24,10:00 AM,US,Michigan Consumer Sentiment Final  FEB,1,,,,
+Friday,February,2023,,24,10:00 AM,US,Michigan Consumer Expectations Final  FEB,1,,,,
+Friday,February,2023,,24,10:00 AM,US,Michigan 5 Year Inflation Expectations Final  FEB,1,,2.9%,,
+Friday,February,2023,,24,10:00 AM,US,Michigan Current Conditions Final  FEB,1,,,,
+Friday,February,2023,,24,10:00 AM,US,Michigan Inflation Expectations Final  FEB,1,,3.9%,,
+Friday,February,2023,,24,11:00 AM,CA,Budget Balance  DEC,1,,C$-3.38B,,
+Friday,February,2023,,24,01:00 PM,US,Baker Hughes Oil Rig Count  FEB/24,1,,,,
+Friday,February,2023,,24,01:00 PM,US,Baker Hughes Total Rig Count  FEB/24,1,,,,
+Sunday,February,2023,,26,07:30 PM,AU,Company Gross Profits QoQ  Q4,1,,-12.4%,,
+Sunday,February,2023,,26,07:30 PM,AU,Business Inventories QoQ  Q4,1,,1.7%,,1.0%
+Monday,February,2023,,27,12:00 AM,JP,Leading Economic Index Final  DEC,1,,,,98
+Monday,February,2023,,27,12:00 AM,JP,Coincident Index Final  DEC,1,,99.3,,99.5
+Monday,February,2023,,27,02:00 AM,TR,Economic Confidence Index  FEB,1,,99.3,,100.1
+Monday,February,2023,,27,02:00 AM,TR,Balance of Trade Final  JAN,1,,$-9.7B,,
+Monday,February,2023,,27,02:00 AM,TR,Imports Final  JAN,1,,$32.6B,,
+Monday,February,2023,,27,02:00 AM,TR,Exports Final  JAN,1,,$22.9B,,
+Monday,February,2023,,27,04:00 AM,EA,M3 Money Supply YoY  JAN,1,,4.1%,,
+Monday,February,2023,,27,04:00 AM,EA,Loans to Companies YoY  JAN,1,,6.3%,,
+Monday,February,2023,,27,04:00 AM,EA,Loans to Households YoY  JAN,1,,3.8%,,
+Monday,February,2023,,27,04:00 AM,IT,Consumer Confidence  FEB,1,,100.9,,
+Monday,February,2023,,27,04:00 AM,IT,Business Confidence  FEB,1,,102.7,,
+Monday,February,2023,,27,05:00 AM,EA,Economic Sentiment  FEB,1,,99.9,,100.5
+Monday,February,2023,,27,05:00 AM,EA,Consumer Inflation Expectations  FEB,1,,17.7,,15
+Monday,February,2023,,27,05:00 AM,EA,Consumer Confidence Final  FEB,1,,-20.9,,
+Monday,February,2023,,27,05:00 AM,EA,Services Sentiment  FEB,1,,10.7,,11
+Monday,February,2023,,27,05:00 AM,EA,Selling Price Expectations  FEB,1,,31.9,,25
+Monday,February,2023,,27,05:00 AM,EA,Industrial Sentiment  FEB,1,,1.3,,2.1
+Monday,February,2023,,27,05:45 AM,EU,EU Bond Auction,1,,,,
+Monday,February,2023,,27,06:00 AM,FR,Unemployment Benefit Claims  JAN,1,,6.2K,,8.0K
+Monday,February,2023,,27,06:00 AM,FR,Jobseekers Total  JAN,1,,2817K,,2825.0K
+Monday,February,2023,,27,07:00 AM,BR,IGP-M Inflation MoM  FEB,1,,0.21%,,0.29%
+Monday,February,2023,,27,07:00 AM,MX,Balance of Trade  JAN,1,,$0.984B,,$ -3.55B
+Monday,February,2023,,27,07:00 AM,ES,Business Confidence  FEB,1,,-4.3,,
+Monday,February,2023,,27,07:30 AM,BR,Bank Lending MoM  JAN,1,,1.3%,,1.1%
+Monday,February,2023,,27,08:30 AM,CA,Current Account  Q4,1,,C$-11.1B,,C$ -18B
+Monday,February,2023,,27,08:30 AM,US,Durable Goods Orders MoM  JAN,1,,5.6%,,
+Monday,February,2023,,27,08:30 AM,US,Durable Goods Orders Ex Transp MoM  JAN,1,,-0.1%,,
+Monday,February,2023,,27,08:30 AM,US,Durable Goods Orders ex Defense MoM  JAN,1,,6.3%,,
+Monday,February,2023,,27,08:30 AM,US,Non Defense Goods Orders Ex Air  JAN,1,,-0.2%,,
+Monday,February,2023,,27,09:00 AM,FR,3-Month BTF Auction,1,,,,
+Monday,February,2023,,27,09:00 AM,FR,12-Month BTF Auction,1,,,,
+Monday,February,2023,,27,09:00 AM,FR,6-Month BTF Auction,1,,,,
+Monday,February,2023,,27,10:00 AM,US,Pending Home Sales MoM  JAN,1,,2.5%,,1.3%
+Monday,February,2023,,27,10:00 AM,US,Pending Home Sales YoY  JAN,1,,-33.8%,,-28.0%
+Monday,February,2023,,27,10:30 AM,US,Dallas Fed Manufacturing Index  FEB,1,,-8.4,,
+Monday,February,2023,,27,11:30 AM,US,3-Month Bill Auction,1,,,,
+Monday,February,2023,,27,11:30 AM,US,6-Month Bill Auction,1,,,,
+Monday,February,2023,,27,02:00 PM,AR,Retail Sales YoY  DEC,1,,,,30%
+Monday,February,2023,,27,06:50 PM,JP,Industrial Production MoM Prel  JAN,1,,,,
+Monday,February,2023,,27,06:50 PM,JP,Retail Sales YoY  JAN,1,,,,
+Monday,February,2023,,27,06:50 PM,JP,Industrial Production YoY Prel  JAN,1,,,,
+Monday,February,2023,,27,06:50 PM,JP,Retail Sales MoM  JAN,1,,,,
+Monday,February,2023,,27,07:30 PM,AU,Retail Sales MoM Prel  JAN,1,,,,
+Monday,February,2023,,27,07:30 PM,AU,Housing Credit MoM  JAN,1,,0.3%,,0.3%
+Monday,February,2023,,27,07:30 PM,AU,Private Sector Credit MoM  JAN,1,,0.3%,,0.2%
+Monday,February,2023,,27,07:30 PM,AU,Private Sector Credit YoY  JAN,1,,8.3%,,7.8%
+Monday,February,2023,,27,07:30 PM,AU,Current Account  Q4,1,,A$-2.3B,,A$ 9.6B
+Monday,February,2023,,27,09:00 PM,SG,Bank Lending  JAN,1,,S$813.5B,,
+Monday,February,2023,,27,10:35 PM,JP,2-Year JGB Auction,1,,-0.009%,,
+Monday,February,2023,,27,,BR,BCB Focus Market Readout,1,,,,
+Monday,February,2023,,27,,AU,CoreLogic Dwelling Prices MoM  FEB,1,,-1%,,
+Tuesday,February,2023,,28,12:00 AM,JP,Housing Starts YoY  JAN,1,,-1.7%,,
+Tuesday,February,2023,,28,12:00 AM,JP,Construction Orders YoY  JAN,1,,8.5%,,
+Tuesday,February,2023,,28,12:00 AM,SG,Export Prices YoY  JAN,1,,-0.1%,,
+Tuesday,February,2023,,28,12:00 AM,SG,PPI YoY  JAN,1,,2.4%,,
+Tuesday,February,2023,,28,12:00 AM,SG,Import Prices YoY  JAN,1,,1.2%,,
+Tuesday,February,2023,,28,01:00 AM,ZA,M3 Money Supply YoY  JAN,1,,8.66%,,
+Tuesday,February,2023,,28,01:00 AM,ZA,Private Sector Credit YoY  JAN,1,,7.7%,,
+Tuesday,February,2023,,28,02:00 AM,TR,GDP Growth Rate YoY  Q4,1,,,,4.4%
+Tuesday,February,2023,,28,02:00 AM,TR,GDP Growth Rate QoQ  Q4,1,,,,-0.3%
+Tuesday,February,2023,,28,02:45 AM,FR,Inflation Rate YoY Prel  FEB,1,,,,
+Tuesday,February,2023,,28,02:45 AM,FR,Inflation Rate MoM Prel  FEB,1,,,,
+Tuesday,February,2023,,28,02:45 AM,FR,Household Consumption MoM  JAN,1,,-1.3%,,
+Tuesday,February,2023,,28,02:45 AM,FR,PPI MoM  JAN,1,,1.4%,,
+Tuesday,February,2023,,28,02:45 AM,FR,PPI YoY  JAN,1,,20.7%,,
+Tuesday,February,2023,,28,02:45 AM,FR,Harmonised Inflation Rate MoM Prel  FEB,1,,,,
+Tuesday,February,2023,,28,02:45 AM,FR,Harmonised Inflation Rate YoY Prel  FEB,1,,,,
+Tuesday,February,2023,,28,03:00 AM,ES,Inflation Rate YoY Prel  FEB,1,,,,
+Tuesday,February,2023,,28,03:00 AM,ES,Inflation Rate MoM Prel  FEB,1,,,,
+Tuesday,February,2023,,28,03:00 AM,ES,Harmonised Inflation Rate MoM Prel  FEB,1,,,,
+Tuesday,February,2023,,28,03:00 AM,ES,Harmonised Inflation Rate YoY Prel  FEB,1,,,,
+Tuesday,February,2023,,28,04:00 AM,IT,Industrial Sales MoM  DEC,1,,,,
+Tuesday,February,2023,,28,04:00 AM,IT,Industrial Sales YoY  DEC,1,,,,
+Tuesday,February,2023,,28,04:00 AM,ES,Current Account  DEC,1,,€5.64B,,€2.3B
+Tuesday,February,2023,,28,05:30 AM,DE,2-Year Schatz Auction,1,,2.64%,,
+Tuesday,February,2023,,28,05:30 AM,IN,Government Budget Value  JAN,1,,INR-9929.8B,,
+Tuesday,February,2023,,28,06:30 AM,IN,Infrastructure Output YoY  JAN,1,,7.4%,,
+Tuesday,February,2023,,28,07:00 AM,BR,Unemployment Rate  DEC,1,,8.1%,,8.3%
+Tuesday,February,2023,,28,07:00 AM,IN,GDP Growth Rate YoY  Q4,1,,6.3%,,4.4%
+Tuesday,February,2023,,28,07:00 AM,IN,Fiscal Year GDP Growth 2nd Est  2023-22,1,,8.7%,,7%
+Tuesday,February,2023,,28,07:00 AM,IN,Fiscal Year GDP Growth Final  2021-22,1,,-6.6%,,8.7%
+Tuesday,February,2023,,28,07:00 AM,ZA,Balance of Trade  JAN,1,,ZAR5.43B,,
+Tuesday,February,2023,,28,07:30 AM,BR,Nominal Budget Balance  JAN,1,,BRL-70.821B,,BRL 28.2B
+Tuesday,February,2023,,28,07:30 AM,BR,Gross Debt to GDP  JAN,1,,73.5%,,73.7%
+Tuesday,February,2023,,28,08:00 AM,RU,M2 Money Supply YoY  JAN,1,,,,
+Tuesday,February,2023,,28,08:30 AM,CA,GDP Growth Rate QoQ  Q4,1,,0.7%,,0.4%
+Tuesday,February,2023,,28,08:30 AM,CA,GDP MoM  DEC,1,,,,
+Tuesday,February,2023,,28,08:30 AM,CA,GDP Growth Rate Annualized  Q4,1,,2.9%,,0.9%
+Tuesday,February,2023,,28,08:30 AM,CA,GDP MoM Prel  JAN,1,,,,
+Tuesday,February,2023,,28,08:30 AM,CA,GDP Implicit Price QoQ  Q4,1,,-1.4%,,-0.8%
+Tuesday,February,2023,,28,08:30 AM,US,Retail Inventories Ex Autos MoM Adv  JAN,1,,,,
+Tuesday,February,2023,,28,08:30 AM,US,Wholesale Inventories MoM Adv  JAN,1,,,,
+Tuesday,February,2023,,28,08:30 AM,US,Goods Trade Balance Adv  JAN,1,,$-90.3B,,
+Tuesday,February,2023,,28,08:55 AM,US,Redbook YoY  FEB/25,1,,,,
+Tuesday,February,2023,,28,09:00 AM,US,S P/Case-Shiller Home Price MoM  DEC,1,,-0.8%,,-0.7%
+Tuesday,February,2023,,28,09:00 AM,US,S P/Case-Shiller Home Price YoY  DEC,1,,6.8%,,6.0%
+Tuesday,February,2023,,28,09:00 AM,US,House Price Index  DEC,1,,392.3,,390
+Tuesday,February,2023,,28,09:00 AM,US,House Price Index YoY  DEC,1,,8.2%,,
+Tuesday,February,2023,,28,09:00 AM,US,House Price Index MoM  DEC,1,,-0.1%,,
+Tuesday,February,2023,,28,09:45 AM,US,Chicago PMI  FEB,1,,44.3,,
+Tuesday,February,2023,,28,10:00 AM,US,CB Consumer Confidence  FEB,1,,,,
+Tuesday,February,2023,,28,10:00 AM,US,Richmond Fed Manufacturing Shipments Index  FEB,1,,,,
+Tuesday,February,2023,,28,10:00 AM,US,Richmond Fed Manufacturing Index  FEB,1,,-11,,
+Tuesday,February,2023,,28,10:00 AM,US,Richmond Fed Services Index  FEB,1,,-6,,
+Tuesday,February,2023,,28,10:30 AM,US,Dallas Fed Services Index  FEB,1,,-15,,
+Tuesday,February,2023,,28,10:30 AM,US,Dallas Fed Services Revenues Index  FEB,1,,4.9,,
+Tuesday,February,2023,,28,04:30 PM,US,API Crude Oil Stock Change  FEB/24,1,,,,
+Tuesday,February,2023,,28,05:00 PM,AU,Judo Bank Manufacturing PMI Final  FEB,1,,,,
+Tuesday,February,2023,,28,07:00 PM,KR,Exports YoY  FEB,1,,,,
+Tuesday,February,2023,,28,07:00 PM,KR,Balance of Trade  FEB,1,,,,
+Tuesday,February,2023,,28,07:00 PM,KR,Imports YoY  FEB,1,,,,
+Tuesday,February,2023,,28,07:30 PM,AU,GDP Growth Rate QoQ  Q4,1,,0.6%,,0.6%
