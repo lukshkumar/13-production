@@ -4,9 +4,9 @@ from email.mime.multipart import MIMEMultipart
 
 def SendEmail(subject, body):
 
-    sender_email = "jackcharlessmith5@gmail.com"
+    sender_email = "jackcharlessmith3@gmail.com"
     receiver_emails = ["lukshkumar97@gmail.com"]
-    password = "filnvflzhatwdexw"
+    password = "hdecfihgrasafvqc"
 
     message = MIMEMultipart("alternative")
     message["Subject"] = subject
@@ -32,4 +32,3 @@ def SendEmail(subject, body):
     with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
         server.login(sender_email, password)
         server.sendmail(sender_email, receiver_emails, message.as_string())
-
