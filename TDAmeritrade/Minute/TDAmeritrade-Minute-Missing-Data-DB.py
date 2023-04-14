@@ -17,8 +17,13 @@ import shutil # For File System Operations.
 import EmailService
 from sqlalchemy import create_engine
 
-database_connection_string = 'postgresql://postgres:postgres@ec2-18-141-177-116.ap-southeast-1.compute.amazonaws.com:5432/Project-Hamburg'
-engine = create_engine(database_connection_string)
+def read_database_connection_string():
+    text_file = open(r"D:/Project Hamburg/13-production/db-connection-string.txt", "r")
+    CONNECTION_STRING = text_file.read()
+    text_file.close()
+    return CONNECTION_STRING
+
+engine = create_engine(read_database_connection_string())
 
 db_symbol_ids = {}
 with engine.connect() as con:    
@@ -34,7 +39,7 @@ today_date_format = today_date.strftime(r"%Y-%m-%d")
 #FetchStocksList()
 
 #Fetching the Ticker List
-Tickerdata = pd.read_csv("../../Tickers/TickerList.csv")
+Tickerdata = pd.read_csv("../../Tickers/TickerList-.csv")
 ticker_list = Tickerdata["Symbol"].values.tolist()
 total_ticker_list = len(ticker_list)
 #ticker_list = ["AAPL", "GOOG"]
@@ -58,8 +63,8 @@ day_delta = datetime.timedelta(days=1)
 
 # datetime(year, month, day, hour, minute, second, microsecond) - Note these dates shall not start from weekend otherwise the TDAmeritrade API gives error. 
 # Note these dates (start_date and end_date) both are inclusive.
-start_date = [2023,4,3]
-end_date = [2023,4,7]
+start_date = [2023,4,12]
+end_date = [2023,4,12]
 
 start_datetime = datetime.datetime(start_date[0], start_date[1], start_date[2], tzinfo= pytz.UTC)
 end_datetime = datetime.datetime(end_date[0],end_date[1], end_date[2], tzinfo= pytz.UTC)

@@ -1,14 +1,15 @@
-# DB_HOST = "ec2-18-141-177-116.ap-southeast-1.compute.amazonaws.com"
-# DB_NAME = "Project-Hamburg"
-# DB_USER = "postgres"
-# DB_PASS = "postgres"
-
 import os
 import pandas as pd
 from sqlalchemy import create_engine
 import pandas as pd
 
-engine = create_engine('postgresql://postgres:postgres@ec2-18-141-177-116.ap-southeast-1.compute.amazonaws.com:5432/Project-Hamburg')
+def read_database_connection_string():
+    text_file = open(r"D:/Project Hamburg/13-production/db-connection-string.txt", "r")
+    CONNECTION_STRING = text_file.read()
+    text_file.close()
+    return CONNECTION_STRING
+
+engine = create_engine(read_database_connection_string())
 
 minute_data_path = "../TDAmeritrade/Minute/TDAmeritrade-Minute-Data-By-Ticker-Split-Applied/"
 entries = os.listdir(minute_data_path)

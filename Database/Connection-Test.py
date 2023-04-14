@@ -1,16 +1,17 @@
-DB_HOST = "ec2-18-141-177-116.ap-southeast-1.compute.amazonaws.com"
-DB_NAME = "Project-Hamburg"
-DB_USER = "postgres"
-DB_PASS = "postgres"
-
 import psycopg2
 import psycopg2.extras
 from sqlalchemy import create_engine
 import pandas as pd
-engine = create_engine('postgresql://postgres:postgres@ec2-18-141-177-116.ap-southeast-1.compute.amazonaws.com:5432/Project-Hamburg')
 
+def read_database_connection_string():
+    text_file = open(r"D:/Project Hamburg/13-production/db-connection-string.txt", "r")
+    CONNECTION_STRING = text_file.read()
+    text_file.close()
+    return CONNECTION_STRING
 
-conn = psycopg2.connect(host = DB_HOST, database = DB_NAME, user = DB_USER, password = DB_PASS)
+engine = create_engine(read_database_connection_string())
+
+#conn = psycopg2.connect(host = DB_HOST, database = DB_NAME, user = DB_USER, password = DB_PASS)
 
 df = pd.DataFrame({'TickerId': [1], 'Date': ["19280103"], 'Open': [10],'High': [15], 'Low': [5], 'Close': [12], 'Volume': [100]})
 print(df.head())

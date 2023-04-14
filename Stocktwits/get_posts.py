@@ -8,7 +8,13 @@ import numpy as np
 from sqlalchemy import create_engine
 
 #Connecting to the database.
-engine = create_engine('postgresql://postgres:postgres@ec2-18-141-177-116.ap-southeast-1.compute.amazonaws.com:5432/Project-Hamburg')
+def read_database_connection_string():
+    text_file = open(r"D:/Project Hamburg/13-production/db-connection-string.txt", "r")
+    CONNECTION_STRING = text_file.read()
+    text_file.close()
+    return CONNECTION_STRING
+
+engine = create_engine(read_database_connection_string())
 
 def create_dataset(list_of_stocks, tracker):
 
